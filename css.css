@@ -101,7 +101,7 @@ b {
 	color: mediumseagreen;
 }
 
-cite {
+cite, var {
 	font-style: italic;
 }
 
