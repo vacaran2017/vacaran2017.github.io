@@ -108,3 +108,11 @@ cite, var {
 img {
 	max-width: 100%;
 }
+
+sup {
+	vertical-align: super;
+}
+
+sub {
+	vertical-align: sub;
+}
