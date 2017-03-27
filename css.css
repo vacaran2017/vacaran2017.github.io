@@ -14,8 +14,17 @@ header {
 }
 
 header h1 {
-	background: none;
 	border: none;
+}
+
+header h1 a {
+	background: url("http://i.imgur.com/mjisKeD.png") no-repeat;
+	filter: drop-shadow(0 0 5px lightyellow);
+	width: 565px;
+	height: 138px;
+	display: block;
+	margin: auto;
+	font-size: 0;
 }
 
 header a {
@@ -77,12 +86,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-	font-size: 2.5em;
+	font-size: 2em;
 	border-bottom: .2em solid yellowgreen;
 }
 
 h2 {
-	font-size: 2em;
+	font-size: 1.75em;
 	border-bottom: .1em solid #f9f97a;
 }
 
