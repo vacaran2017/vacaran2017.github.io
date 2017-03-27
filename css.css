@@ -50,11 +50,18 @@ nav {
 }
 
 nav h2 {
+	background: none;
+	border: none;
 	font-size: 1em;
 }
 
 nav ul {
 	display: none;
+}
+
+nav:hover h2 {
+	padding: 0 0 0.1em 0;
+	border-bottom: 1px solid palevioletred;
 }
 
 nav:hover ul {
