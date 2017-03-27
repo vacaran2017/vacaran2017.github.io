@@ -69,6 +69,7 @@ main {
 section {
 	background: rgba(255,255,255,0.68);
 	color: #544409;
+	width: 45%; /* fallback */
 	width: calc(50% - 2.5em);
 	padding: 1em;
 }
