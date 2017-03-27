@@ -10,7 +10,7 @@ body {
 
 header {
 	text-align: center;
-	margin: 1em 0;
+	margin: 0 0 1em 0;
 }
 
 header h1 {
@@ -19,21 +19,14 @@ header h1 {
 
 header h1 a {
 	background: url("http://i.imgur.com/mjisKeD.png") no-repeat;
-	filter: drop-shadow(0 0 5px lightyellow);
+	filter: drop-shadow(0 0 1px lightyellow);
 	width: 565px;
-	height: 138px;
+	height: 138px; /* 128px + 10px extra spacing */
 	display: block;
 	margin: auto;
+
 	font-size: 0;
-}
-
-header a {
-	color: inherit;
-	text-decoration: none;
-}
-
-header a:hover {
-	color: white;
+	color: transparent;
 }
 
 nav {
@@ -42,10 +35,7 @@ nav {
 	right: 0;
 	background: rgba(255,255,255,0.8);
 	color: palevioletred;
-	border: 1px solid palevioletred;
 	border-radius: 0.5em 0 0 0;
-	border-right: 0;
-	border-bottom: 0;
 	padding: .3em;
 }
 
@@ -111,6 +101,15 @@ p {
 figcaption {
 	margin: 0 0 1em 0;
 	line-height: 1.6;
+}
+
+a {
+	color: #f9f97a;
+	text-decoration: none;
+}
+
+a:hover {
+	color: white;
 }
 
 b {
