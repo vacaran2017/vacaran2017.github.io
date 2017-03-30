@@ -69,6 +69,7 @@ section {
 	width: 45%; /* fallback */
 	width: calc(50% - 2.5em);
 	padding: 1em;
+	text-shadow: 0 0 1px rgba(255,255,255,0.5); /* add faint shadow to improve text legibility */
 }
 
 section:lang(ja) {
@@ -145,6 +146,7 @@ section p:before {
 	color: darkseagreen;
 	content: counter(p);
 	counter-increment: p;
+	text-shadow: 0 0 1px lightyellow; /* add faint shadow to improve text legibility */
 }
 
 section:lang(ja) p:before {
