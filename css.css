@@ -160,3 +160,11 @@ section:lang(en) p:before {
 	border-right: 1px solid lightyellow;
 	margin-left: .1em;
 }
+
+section:lang(ja) p {
+	margin-right: .75em;
+}
+
+section:lang(en) p {
+	margin-left: .75em;
+}
