@@ -19,8 +19,9 @@ header h1 {
 
 header h1 a {
 	background: url("http://i.imgur.com/mjisKeD.png") no-repeat;
+	background-size: contain;
 	filter: drop-shadow(0 0 1px lightyellow);
-	width: 565px;
+	max-width: 565px;
 	height: 138px; /* 128px + 10px extra spacing */
 	display: block;
 	margin: auto;
@@ -167,4 +168,16 @@ section:lang(ja) p {
 
 section:lang(en) p {
 	margin-left: .75em;
+}
+
+/* viewport-sensitive */
+
+@media(max-width: 575px) {
+	body {
+		font-size: 3vw;
+	}
+	
+	header h1 a {
+		height: 25vw;
+	}
 }
