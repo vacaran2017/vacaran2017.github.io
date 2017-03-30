@@ -132,3 +132,29 @@ sup {
 sub {
 	vertical-align: sub;
 }
+
+/* section numbering */
+
+section {
+	position: relative;
+	counter-reset: p;
+}
+
+section p:before {
+	position: absolute;
+	color: darkseagreen;
+	content: counter(p);
+	counter-increment: p;
+}
+
+section:lang(ja) p:before {
+	right: 0;
+	border-left: 1px solid lightyellow;
+	margin-right: .1em;
+}
+
+section:lang(en) p:before {
+	left: 0;
+	border-right: 1px solid lightyellow;
+	margin-left: .1em;
+}
