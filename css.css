@@ -176,12 +176,12 @@ section:lang(en) p {
 
 /* viewport-sensitive */
 
-@media(max-width: 575px) {
+@media(max-width: 840px) {
 	body {
-		font-size: 3vw;
+		font-size: 2vw;
 	}
 	
 	header h1 a {
-		height: 25vw;
+		height: 18vw;
 	}
 }
