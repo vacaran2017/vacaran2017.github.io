@@ -127,6 +127,10 @@ img {
 	max-width: 100%;
 }
 
+mark {
+	background: lightpink;
+}
+
 sup {
 	vertical-align: super;
 }
