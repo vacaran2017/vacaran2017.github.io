@@ -30,6 +30,10 @@ header h1 a {
 	color: transparent;
 }
 
+header h2 a{
+	color: #f9f97a;
+}
+
 nav {
 	position: fixed;
 	bottom: 0;
@@ -106,12 +110,12 @@ figcaption {
 }
 
 a {
-	color: #f9f97a;
+	color: mediumvioletred;
 	text-decoration: none;
 }
 
 a:hover {
-	color: white;
+	color: hotpink;
 }
 
 b {
