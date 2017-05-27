@@ -9,5 +9,6 @@ disclaimers:
 - [2017-02-21_blog](https://vacaran2017.github.io/2017-02-21_blog.html)
 - [2017-03-04_animatetimes](https://vacaran2017.github.io/2017-03-04_animatetimes.html)
 - [2017-03-27_excite](https://vacaran2017.github.io/2017-03-27_excite.html)
+- [2017-05-26_stream](https://vacaran2017.github.io/2017-05-26_stream.html)
 
 does [シリーズ]構成 translate to "story" or "[series] composition"
