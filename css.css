@@ -104,6 +104,11 @@ p {
 	line-height: 1.6;
 }
 
+p:empty {
+	height: 1em;
+	padding-bottom: 1em; /* vs. margin collapsing */
+}
+
 figcaption {
 	margin: 0 0 1em 0;
 	line-height: 1.6;
