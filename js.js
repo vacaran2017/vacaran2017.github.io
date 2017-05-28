@@ -20,11 +20,14 @@ function createToc() {
 			let id = 'header-' + index + '-' + lang;
 			let headerText = $(this).text();
 
+			// add id to header
 			$(this).attr('id', id);
 
 			console.log(headerLevel, headerText);
 
-			// I considered making nested HTML lists which would be more "proper" but I don't feel like it, have nesting emulated using CSS indents
+			// create <li> and insert into toc array
+			// I considered making nested HTML lists which would be more "proper", but it sounds complicated
+			// so screw it, nesting is emulated using CSS
 			let element = '<li><a class="toc__level--' + headerLevel + '" href="#' + id + '">' + headerText + '</a></li>';
 			toc[lang].splice(1 + index, 0, element);
 		});
