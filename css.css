@@ -30,37 +30,8 @@ header h1 a {
 	color: transparent;
 }
 
-header h2 a{
+header h2 a {
 	color: #f9f97a;
-}
-
-nav {
-	position: fixed;
-	bottom: 0;
-	right: 0;
-	background: rgba(255,255,255,0.8);
-	color: palevioletred;
-	border-radius: 0.5em 0 0 0;
-	padding: .3em;
-}
-
-nav h2 {
-	background: none;
-	border: none;
-	font-size: 1em;
-}
-
-nav ul {
-	display: none;
-}
-
-nav:hover h2 {
-	padding: 0 0 0.1em 0;
-	border-bottom: 1px solid palevioletred;
-}
-
-nav:hover ul {
-	display: unset;
 }
 
 main {
@@ -106,7 +77,7 @@ p {
 
 p:empty {
 	height: 1em;
-	padding-bottom: 1em; /* vs. margin collapsing */
+	padding-bottom: 1em; /* margin collapsing */
 }
 
 figcaption {
@@ -148,28 +119,75 @@ sub {
 	vertical-align: sub;
 }
 
-/* section numbering */
+/* table of contents */
+
+nav {
+	position: fixed;
+	background: rgba(255,255,255,0.9);
+	color: palevioletred;
+	padding: .3em;
+	bottom: 0;
+	z-index: 1; /* honestly not sure why i need this */
+}
+
+nav:lang(ja) {
+	border-radius: 0 0.5em 0 0;
+	left: 0;
+}
+
+nav:lang(en) {
+	border-radius: 0.5em 0 0 0;
+	right: 0;
+}
+
+nav h2 {
+	background: none;
+	border: none;
+	font-size: 1em;
+}
+
+nav ul {
+	display: none;
+}
+
+nav:hover h2 {
+	padding: 0 0 0.1em 0;
+	border-bottom: 1px solid palevioletred;
+}
+
+nav:hover ul {
+	display: unset;
+}
+
+nav .toc__level--2 {
+	font-size: 85%;
+	margin-left: 0.75em;
+}
+
+/* paragraph numbering */
 
 section {
 	position: relative;
-	counter-reset: p;
 }
 
-section p:before {
+section .p__number {
+	display: block;
 	position: absolute;
 	color: darkseagreen;
-	content: counter(p);
-	counter-increment: p;
 	text-shadow: 0 0 1px lightyellow; /* add faint shadow to improve text legibility */
 }
 
-section:lang(ja) p:before {
+section .p__number:hover {
+	color: palevioletred;
+}
+
+section:lang(ja) .p__number {
 	right: 0;
 	border-left: 1px solid lightyellow;
 	margin-right: .1em;
 }
 
-section:lang(en) p:before {
+section:lang(en) .p__number {
 	left: 0;
 	border-right: 1px solid lightyellow;
 	margin-left: .1em;
@@ -181,6 +199,10 @@ section:lang(ja) p {
 
 section:lang(en) p {
 	margin-left: .75em;
+}
+
+section .p--target {
+	background: rgba(255, 255, 0, 0.7);
 }
 
 /* viewport-sensitive */
