@@ -174,7 +174,7 @@ section .p__number {
 	display: block;
 	position: absolute;
 	color: darkseagreen;
-	text-shadow: 0 0 1px lightyellow; /* add faint shadow to improve text legibility */
+	text-shadow: 0 0 1px rgba(255, 255, 150, 0.8); /* add faint shadow to improve text legibility */
 }
 
 section .p__number:hover {
@@ -183,13 +183,13 @@ section .p__number:hover {
 
 section:lang(ja) .p__number {
 	right: 0;
-	border-left: 1px solid lightyellow;
+	border-left: 1px solid rgba(255, 255, 150, 0.8);
 	margin-right: .1em;
 }
 
 section:lang(en) .p__number {
 	left: 0;
-	border-right: 1px solid lightyellow;
+	border-right: 1px solid rgba(255, 255, 150, 0.8);
 	margin-left: .1em;
 }
 
@@ -202,7 +202,7 @@ section:lang(en) p {
 }
 
 section .p--target {
-	background: rgba(255, 255, 0, 0.7);
+	background: rgba(255, 255, 150, 0.8);
 }
 
 /* viewport-sensitive */
