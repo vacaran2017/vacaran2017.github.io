@@ -1,4 +1,4 @@
-# vacaran2017.github.io
+# translations of kemono friends stuff
 
 please feel free to help out (file an issue, make a pull request, whatever it is people do on github)
 
