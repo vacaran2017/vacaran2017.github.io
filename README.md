@@ -15,4 +15,4 @@ please feel free to help out (file an issue, make a pull request, whatever it is
 - [2017-05-26_stream](https://vacaran2017.github.io/2017-05-26_stream.html)
 
 ## notes
-does [シリーズ]構成 translate to "story" or "[series] composition"
+- does [シリーズ]構成 translate to "story" or "[series] composition"
