@@ -20,6 +20,7 @@ header h1 {
 header h1 a {
 	background: url("http://i.imgur.com/mjisKeD.png") no-repeat;
 	background-size: contain;
+	background-position: center;
 	filter: drop-shadow(0 0 1px lightyellow);
 	max-width: 565px;
 	height: 138px; /* 128px + 10px extra spacing */
