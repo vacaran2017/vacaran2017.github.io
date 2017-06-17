@@ -217,3 +217,9 @@ section .p--target {
 		height: 18vw;
 	}
 }
+
+@media(max-width: 570px) {
+	body {
+		font-size: 0.7em;
+	}
+}
