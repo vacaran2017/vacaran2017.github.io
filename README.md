@@ -13,7 +13,6 @@ So please feel free to help out (file an issue, make a pull request, whatever it
 - [2017-03-04_animatetimes](https://vacaran2017.github.io/2017-03-04_animatetimes.html) with Fukuhara Yoshitada and KADOKAWA's editor-in-chief
 - [2017-03-27_excite](https://vacaran2017.github.io/2017-03-27_excite.html) with Fukuhara Yoshitada (1/2)
 - [2017-05-26_stream](https://vacaran2017.github.io/2017-05-26_stream.html) by Tatsuki
-
 - [00_boku_no_friend](https://vacaran2017.github.io/00_boku_no_friend.html)
 - [00_kemono_parade](https://vacaran2017.github.io/00_kemono_parade.html)
 - [00_kimi_no_mama_de](https://vacaran2017.github.io/00_kimi_no_mama_de.html)
