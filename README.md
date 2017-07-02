@@ -17,6 +17,8 @@ So please feel free to help out (file an issue, make a pull request, whatever it
 - [00_kemono_parade](https://vacaran2017.github.io/00_kemono_parade.html)
 - [00_kimi_no_mama_de](https://vacaran2017.github.io/00_kimi_no_mama_de.html)
 - [00_youkoso_japaripark_e](https://vacaran2017.github.io/00_youkoso_japaripark_e.html)
+- [01_12-4_japarimangari](https://vacaran2017.github.io/01_12-4_japarimangari.ass) [ASS subtitles]
+- [02_guidebook_01](https://vacaran2017.github.io/02_guidebook_01.html)
 
 ## Notes
 - Pink highlighting means I gave up trying to translate something, please send help
