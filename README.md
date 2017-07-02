@@ -4,6 +4,7 @@
 1. I am not good at idiomatic English
 2. My Japanese isn't perfect either
 3. It doesn't help that I worry too much about the original meaning
+4. **Not all of these are complete**
 
 So please feel free to help out (file an issue, make a pull request, whatever it is people do on github)
 
