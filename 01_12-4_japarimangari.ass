@@ -299,15 +299,15 @@ Dialogue: 0,0:14:42.83,0:14:44.03,a,serval,0,0,0,,ふっふーん。\NThat's rig
 Dialogue: 0,0:14:44.48,0:14:47.24,a,boss,0,0,0,,かばん。味見をちゃんとしてね。\NKaban. Make sure to taste-test it.
 Dialogue: 0,0:14:47.58,0:14:50.41,a,koutei,0,0,0,,いただこう。お腹がペコペコだよ。\NLet us eat. I'm starving.
 Dialogue: 0,0:14:50.83,0:14:53.43,a,serval,0,0,0,,ジャパリまん持ってないの？あげようか？\NDon't you girls have Japari buns? Should I give you some of mine?
-Dialogue: 0,0:14:53.74,0:14:55.72,a,koutei,0,0,0,,いや、持ってるんだが…\NNo, we have some, just that...
-Dialogue: 0,0:14:55.72,0:14:58.03,a,koutei,0,0,0,,食べさしてやりたいやつがいてな。
-Dialogue: 0,0:14:58.64,0:14:59.60,a,koutei,0,0,0,,控えてるんだ。
-Dialogue: 0,0:14:59.75,0:15:02.43,a,princess,0,0,0,,なんだか雛鳥みたいね。
+Dialogue: 0,0:14:53.74,0:14:55.72,a,koutei,0,0,0,,いや、持ってるんだが…\NNo, we have some, just that
+Dialogue: 0,0:14:55.72,0:14:58.03,a,koutei,0,0,0,,食べさしてやりたいやつがいてな。\Nthere's someone we want to feed.
+Dialogue: 0,0:14:58.64,0:14:59.60,a,koutei,0,0,0,,控えてるんだ。\NWe're getting ready.
+Dialogue: 0,0:14:59.75,0:15:02.43,a,princess,0,0,0,,なんだか雛鳥みたいね。\NAlmost like a little bird.
 Dialogue: 0,0:15:02.81,0:15:06.42,a,hululu,0,0,0,,飲み込んで運べばよかったかもー。\NMaybe we should have carried them by swallowing them first.
 Dialogue: 0,0:15:06.48,0:15:09.83,a,margay,0,0,0,,なっ！？それはいいですねー！\NWhat!? That's an excellent idea!
 Dialogue: 0,0:15:09.94,0:15:12.68,a,margay,0,0,0,,ペンギンさんらしい運搬方法！\NA very penguin-like way of transport!
-Dialogue: 0,0:15:12.79,0:15:16.19,a,margay,0,0,0,,うへへ…一度ご馳走なりたいです…
-Dialogue: 0,0:15:16.19,0:15:18.96,a,margay,0,0,0,,うへへ…はははは…へへへへ…
+Dialogue: 0,0:15:12.79,0:15:16.19,a,margay,0,0,0,,うへへ…一度ご馳走なりたいです…\NUhehe... I'd like to get to eat that way sometime...
+Dialogue: 0,0:15:16.19,0:15:18.96,a,margay,0,0,0,,うへへ…はははは…へへへへ…\NUhehe... hahahaha... hehehehe...
 Dialogue: 0,0:15:18.96,0:15:20.87,a,serval,0,0,0,,何の事か分からないけど、\NI don't know what you're talking about,
 Dialogue: 0,0:15:21.07,0:15:23.35,a,serval,0,0,0,,私は普通に貰う方がいいかな。\Nbut I think I prefer receiving them normally.
 Dialogue: 0,0:15:24.01,0:15:26.22,a,princess,0,0,0,,かばんは？今日どこに行ってたの？\NWhat about Kaban? Where did you go today?
