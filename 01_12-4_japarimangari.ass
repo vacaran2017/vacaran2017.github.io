@@ -28,7 +28,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,a,,0,0,0,,https://aqua.komica.org/68/pixmicat.php?res=14151
 Comment: 0,0:00:00.00,0:00:00.00,a,,0,0,0,,https://pastebin.com/CrKgnTA5
 Comment: 0,0:00:00.00,0:00:00.00,a,,0,0,0,,（じゃりまん狩り—Japari Bun Harvesting）
-Dialogue: 0,0:00:15.90,0:00:17.74,a,margay,0,0,0,,集まってもらってすみません！\NSorry for making you guys come!
+Dialogue: 0,0:00:15.90,0:00:17.74,a,margay,0,0,0,,集まってもらってすみません！\NSorry for making you girls come!
 Dialogue: 0,0:00:18.06,0:00:19.49,a,princess,0,0,0,,どうしたの、マーゲイ？\NWhat's the matter, Margay?
 Dialogue: 0,0:00:19.74,0:00:21.39,a,princess,0,0,0,,今日はオフの日だって。\NI thought today was an off day.
 Dialogue: 0,0:00:21.69,0:00:23.64,a,gen,0,0,0,,何かあれば、お手伝いしますよ。\NWe'll help you out if you need it.
@@ -74,7 +74,7 @@ Dialogue: 0,0:02:33.45,0:02:36.76,a,kaban,0,0,0,,こんにちは！この前は�
 Dialogue: 0,0:02:37.11,0:02:39.47,a,gen,0,0,0,,いえいえかばんさん、こちらこそ！\NNot at all, Kaban-san. We owe it to you as well.
 Dialogue: 0,0:02:39.91,0:02:41.55,a,,0,0,0,,お元気そうで何よりです。\NWe're glad that you're fine.
 Dialogue: 0,0:02:41.74,0:02:44.97,a,iwabi,0,0,0,,よう、サーバル。今ジャパリまんを探しててな！\NYo, Serval! We're looking for Japari buns.
-Dialogue: 0,0:02:45.26,0:02:48.32,a,serval,0,0,0,,へぇ、なんでなんで？何かやるの？\NHuh! Why; what are you guys doing?
+Dialogue: 0,0:02:45.26,0:02:48.32,a,serval,0,0,0,,へぇ、なんでなんで？何かやるの？\NHuh! Why; what are you girls doing?
 Dialogue: 0,0:02:48.64,0:02:52.66,a,hululu,0,0,0,,それはね、サーバルがかばんちゃんに付いて行く時に…\NIt's for when you're going to follow Kaban...
 Dialogue: 0,0:02:53.96,0:02:56.11,a,iwabi,0,0,0,,ちょ、ちょ、ちょっと事情があってさ…\NW-Well, we have our reasons...
 Dialogue: 0,0:02:56.11,0:02:59.60,a,princess,0,0,0,,それで、ジャパリまんを作ってる所を探してるの！\NAnd so we're looking for where Japari buns are made!
@@ -248,7 +248,7 @@ Dialogue: 0,0:12:15.37,0:12:16.62,a,iwabi,0,0,0,,なんだ、なんだ？\NWhat 
 Dialogue: 0,0:12:16.62,0:12:19.00,a,araisan,0,0,0,,真ん丸はどこにあるのだ！\NWhere's the round thing!
 Dialogue: 0,0:12:19.32,0:12:20.84,a,araisan,0,0,0,,どこなのだ！\NWhere is it!
 Dialogue: 0,0:12:21.32,0:12:25.01,a,fennec,0,0,0,,あれー？今は何かにぶつかったようなー…\NHuh? It seems like we hit something just right now...
-Dialogue: 0,0:12:25.41,0:12:26.84,a,,0,0,0,,あなた達は確か…\NYou guys are...
+Dialogue: 0,0:12:25.41,0:12:26.84,a,,0,0,0,,あなた達は確か…\NYou girls are...
 Dialogue: 0,0:12:26.98,0:12:28.32,a,araisan,0,0,0,,アライさんなのだ！\NI'm Arai-san!
 Dialogue: 0,0:12:28.88,0:12:30.24,a,fennec,0,0,0,,フェネクスなのさー。\NI'm Fennec.
 Dialogue: 0,0:12:30.65,0:12:32.36,a,hululu,0,0,0,,わぁ、何これ。\NWow, what is that?
@@ -298,37 +298,37 @@ Dialogue: 0,0:14:39.13,0:14:42.60,a,kaban,0,0,0,,今日は、ほとんどサー�
 Dialogue: 0,0:14:42.83,0:14:44.03,a,serval,0,0,0,,ふっふーん。\NThat's right!
 Dialogue: 0,0:14:44.48,0:14:47.24,a,boss,0,0,0,,かばん。味見をちゃんとしてね。\NKaban. Make sure to taste-test it.
 Dialogue: 0,0:14:47.58,0:14:50.41,a,koutei,0,0,0,,いただこう。お腹がペコペコだよ。\NLet us eat. I'm starving.
-Dialogue: 0,0:14:50.83,0:14:53.43,a,serval,0,0,0,,ジャパリまん持ってないの？あげようか？\NDon't you guys have Japari buns? Should I give you some of mine?
+Dialogue: 0,0:14:50.83,0:14:53.43,a,serval,0,0,0,,ジャパリまん持ってないの？あげようか？\NDon't you girls have Japari buns? Should I give you some of mine?
 Dialogue: 0,0:14:53.74,0:14:55.72,a,koutei,0,0,0,,いや、持ってるんだが…\NNo, we have some, just that...
 Dialogue: 0,0:14:55.72,0:14:58.03,a,koutei,0,0,0,,食べさしてやりたいやつがいてな。
 Dialogue: 0,0:14:58.64,0:14:59.60,a,koutei,0,0,0,,控えてるんだ。
 Dialogue: 0,0:14:59.75,0:15:02.43,a,princess,0,0,0,,なんだか雛鳥みたいね。
-Dialogue: 0,0:15:02.81,0:15:06.42,a,hululu,0,0,0,,飲み込んで運べばよかったかもー。
-Dialogue: 0,0:15:06.48,0:15:09.83,a,margay,0,0,0,,なっ！？それはいいですねー！
-Dialogue: 0,0:15:09.94,0:15:12.68,a,margay,0,0,0,,ペンギンさんらしい運搬方法！
+Dialogue: 0,0:15:02.81,0:15:06.42,a,hululu,0,0,0,,飲み込んで運べばよかったかもー。\NMaybe we should have carried them by swallowing them first.
+Dialogue: 0,0:15:06.48,0:15:09.83,a,margay,0,0,0,,なっ！？それはいいですねー！\NWhat!? That's an excellent idea!
+Dialogue: 0,0:15:09.94,0:15:12.68,a,margay,0,0,0,,ペンギンさんらしい運搬方法！\NA very penguin-like way of transport!
 Dialogue: 0,0:15:12.79,0:15:16.19,a,margay,0,0,0,,うへへ…一度ご馳走なりたいです…
 Dialogue: 0,0:15:16.19,0:15:18.96,a,margay,0,0,0,,うへへ…はははは…へへへへ…
-Dialogue: 0,0:15:18.96,0:15:20.87,a,serval,0,0,0,,何の事か分からないけど、
-Dialogue: 0,0:15:21.07,0:15:23.35,a,serval,0,0,0,,私は普通に貰う方がいいかな。
-Dialogue: 0,0:15:24.01,0:15:26.22,a,princess,0,0,0,,かばんは？今日どこに行ってたの？
-Dialogue: 0,0:15:26.67,0:15:29.90,a,kaban,0,0,0,,今日は、アリツカゲラさんにお話を聞きに。
-Dialogue: 0,0:15:30.30,0:15:32.10,a,kaban,0,0,0,,すごく勉強になりました！
-Dialogue: 0,0:15:32.66,0:15:36.23,a,boss,0,0,0,,蟻塚に寝るのは、難しいかもしれないけど、
-Dialogue: 0,0:15:36.64,0:15:40.77,a,boss,0,0,0,,既にある物を寝床に利用するのは、大事な事だね。
-Dialogue: 0,0:15:41.04,0:15:41.42,a,koutei,0,0,0,,うわ！？
-Dialogue: 0,0:15:41.66,0:15:42.65,a,iwabi,0,0,0,,へぇ！？
-Dialogue: 0,0:15:43.21,0:15:45.67,a,princess,0,0,0,,すっかりボス恐怖症ね…
-Dialogue: 0,0:15:46.41,0:15:49.14,a,hululu,0,0,0,,でもこのボスあまり怖くないね。
-Dialogue: 0,0:15:49.53,0:15:53.24,a,gen,0,0,0,,お話ができたら、他のボスも実は優しいのかも。
-Dialogue: 0,0:15:53.74,0:15:56.80,a,koutei,0,0,0,,ところで、「まんまる」って、何なんだ？
-Dialogue: 0,0:15:57.18,0:15:59.84,a,araisan,0,0,0,,ハカセに頼まれて、探しているのだ！
-Dialogue: 0,0:16:00.30,0:16:01.89,a,fennec,0,0,0,,サプライズでねー。
-Dialogue: 0,0:16:02.35,0:16:04.17,a,fennec,0,0,0,,道のりは長いよー。
-Dialogue: 0,0:16:04.24,0:16:07.87,a,iwabi,0,0,0,,こっちのこれも、サプライズだぜ！
-Dialogue: 0,0:16:08.16,0:16:12.62,a,serval,0,0,0,,そうなんだ！誰かを喜ばせるの？楽しみだね！
+Dialogue: 0,0:15:18.96,0:15:20.87,a,serval,0,0,0,,何の事か分からないけど、\NI don't know what you're talking about,
+Dialogue: 0,0:15:21.07,0:15:23.35,a,serval,0,0,0,,私は普通に貰う方がいいかな。\Nbut I think I prefer receiving them normally.
+Dialogue: 0,0:15:24.01,0:15:26.22,a,princess,0,0,0,,かばんは？今日どこに行ってたの？\NWhat about Kaban? Where did you go today?
+Dialogue: 0,0:15:26.67,0:15:29.90,a,kaban,0,0,0,,今日は、アリツカゲラさんにお話を聞きに。\NToday, I had Campo Flicker tell me some things.
+Dialogue: 0,0:15:30.30,0:15:32.10,a,kaban,0,0,0,,すごく勉強になりました！\NI learned a lot!
+Dialogue: 0,0:15:32.66,0:15:36.23,a,boss,0,0,0,,蟻塚に寝るのは、難しいかもしれないけど、\NAlthough living in an anthill may be difficult,
+Dialogue: 0,0:15:36.64,0:15:40.77,a,boss,0,0,0,,既にある物を寝床に利用するのは、大事な事だね。\Nit is importnat to reuse things that already exist as beds.
+Dialogue: 0,0:15:41.04,0:15:41.42,a,koutei,0,0,0,,うわ！？\NWhoa!?
+Dialogue: 0,0:15:41.66,0:15:42.65,a,iwabi,0,0,0,,へぇ！？\NHuh!?
+Dialogue: 0,0:15:43.21,0:15:45.67,a,princess,0,0,0,,すっかりボス恐怖症ね…\NThey're right petrified of Boss...
+Dialogue: 0,0:15:46.41,0:15:49.14,a,hululu,0,0,0,,でもこのボスあまり怖くないね。\NBut this Boss isn't that scary.
+Dialogue: 0,0:15:49.53,0:15:53.24,a,gen,0,0,0,,お話ができたら、他のボスも実は優しいのかも。\NMaybe other Bosses would be nice too if they could talk.
+Dialogue: 0,0:15:53.74,0:15:56.80,a,koutei,0,0,0,,ところで、「まんまる」って、何なんだ？\NBy the way, what's the "round thing"?
+Dialogue: 0,0:15:57.18,0:15:59.84,a,araisan,0,0,0,,ハカセに頼まれて、探しているのだ！\NThe Professor asked us to look for it!
+Dialogue: 0,0:16:00.30,0:16:01.89,a,fennec,0,0,0,,サプライズでねー。\NIt's a surprise.
+Dialogue: 0,0:16:02.35,0:16:04.17,a,fennec,0,0,0,,道のりは長いよー。\NThe journey is a long one.
+Dialogue: 0,0:16:04.24,0:16:07.87,a,iwabi,0,0,0,,こっちのこれも、サプライズだぜ！\NOurs is a surprise too!
+Dialogue: 0,0:16:08.16,0:16:12.62,a,serval,0,0,0,,そうなんだ！誰かを喜ばせるの？楽しみだね！\NIs that so? Are you girls going to please someone? I can't wait!
 Dialogue: 0,0:16:13.29,0:16:16.08,a,kaban,0,0,0,,みんな、楽しそうですね！
-Dialogue: 0,0:16:16.84,0:16:18.78,a,serval,0,0,0,,あ、料理ができたよ！
-Dialogue: 0,0:16:19.13,0:16:20.32,a,serval,0,0,0,,食べよう、食べよう！
-Dialogue: 0,0:16:20.61,0:16:24.94,a,giant,0,0,0,,料理か。久しぶりだなぁ。しっしっしっし。
+Dialogue: 0,0:16:16.84,0:16:18.78,a,serval,0,0,0,,あ、料理ができたよ！\NAh, the cooking is ready!!
+Dialogue: 0,0:16:19.13,0:16:20.32,a,serval,0,0,0,,食べよう、食べよう\NLet's eat!
+Dialogue: 0,0:16:20.61,0:16:24.94,a,giant,0,0,0,,料理か。久しぶりだなぁ。しっしっしっし。\NCooking, huh. It's been a while. Hehehe.
 Dialogue: 0,0:16:25.26,0:16:27.26,a,kaban,0,0,0,,ありがとう、サーバルちゃん。\NThank you, Serval-chan.
 Dialogue: 0,0:16:27.26,0:16:29.64,a,boss,0,0,0,,かばん、味見をちゃんとしてね。\NKaban. Make sure to taste-test it.
