@@ -24,4 +24,5 @@ So please feel free to help out (file an issue, make a pull request, whatever it
 
 ## Notes
 - Pink highlighting means I gave up trying to translate something, please send help
+-- In the .ass subtitles ```｛｝``` is used instead
 - Does [シリーズ]構成 translate to "story", or "[series] composition"
