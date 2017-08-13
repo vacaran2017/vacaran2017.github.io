@@ -24,5 +24,5 @@ I want this to be a general KF translation repository that is not run exclusivel
 
 ## Notes
 - Pink highlighting means I gave up trying to translate something, please send help
--- In the .ass subtitles ```｛｝``` is used instead
+  - In the .ass subtitles ```｛｝``` is used instead
 - Does [シリーズ]構成 translate to "story", or "[series] composition"
