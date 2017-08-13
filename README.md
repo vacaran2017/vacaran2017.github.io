@@ -19,7 +19,7 @@ I want this to be a general KF translation repository that is not run exclusivel
 - [00_kimi_no_mama_de](https://vacaran2017.github.io/00_kimi_no_mama_de.html)
 - [00_youkoso_japaripark_e](https://vacaran2017.github.io/00_youkoso_japaripark_e.html)
 - [01_12-4_japarimangari.ass](https://vacaran2017.github.io/01_12-4_japarimangari.ass) [ASS subtitles]
-- ([01_butai.ass](https://vacaran2017.github.io/01_butai.ass) [ASS subtitles]) (not yet ready)
+- [01_butai.ass](https://vacaran2017.github.io/01_butai.ass) [ASS subtitles] (work in progress)
 - [02_guidebook_01](https://vacaran2017.github.io/02_guidebook_01.html)
 
 ## Notes
