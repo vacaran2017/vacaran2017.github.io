@@ -23,6 +23,6 @@ I want this to be a general KF translation repository that is not run exclusivel
 - [02_guidebook_01](https://vacaran2017.github.io/02_guidebook_01.html)
 
 ## Notes
-- Pink highlighting means I gave up trying to translate something, please send help
+- Pink highlighting means I got stuck, please send help
   - In the .ass subtitles ```｛｝``` is used instead
 - Does [シリーズ]構成 translate to "story", or "[series] composition"
