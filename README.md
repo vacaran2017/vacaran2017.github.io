@@ -6,7 +6,7 @@
 3. It doesn't help that I worry too much about the original meaning
 4. **Not all of these are complete**
 
-So please feel free to help out (file an issue, make a pull request, whatever it is people do on github)
+I want this to be a general KF translation repository that is not run exclusively by me; please feel free to help out (file an issue, make a pull request, whatever it is people do on github)
 
 ## Contents
 - [2017-02-10_newtype](https://vacaran2017.github.io/2017-02-10_newtype.html) with Mine Yoshizaki
