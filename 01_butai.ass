@@ -16,9 +16,9 @@ Video File: KemoFure_Stageplay_Recording_v2.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 1314
-Active Line: 1337
-Video Position: 139457
+Scroll Position: 1591
+Active Line: 1620
+Video Position: 178526
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -128,7 +128,7 @@ Dialogue: 0,0:07:45.76,0:07:48.62,常规,,0,0,0,,あれ、でもみんな本当�
 Dialogue: 0,0:07:49.24,0:07:52.43,常规,,0,0,0,,ねぇ、サーバルちゃん、みんなわざとここに集まってるんじゃないの？\NServal-chan, hasn't everyone specially gathered here?
 Dialogue: 0,0:07:52.68,0:07:55.05,常规,,0,0,0,,ほら、みんな手に何か持ってるよ。\NLook, everyone's holding something.
 Dialogue: 0,0:07:55.42,0:07:57.86,常规,,0,0,0,,本当だ！あの紙、なんだろう…\NOh, you're right. What is that paper?
-Dialogue: 0,0:08:00.28,0:08:03.55,常规,,0,0,0,,ライブに参加される方はこっちにお並びください。\N｛Those who are attending the concert, please line up here.｝
+Dialogue: 0,0:08:00.28,0:08:03.55,常规,,0,0,0,,ライブに参加される方はこっちにお並びください。\NThose who are ｛attending the concert｝, please line up here.
 Dialogue: 0,0:08:03.74,0:08:04.33,常规,,0,0,0,,ライブ？\NConcert?
 Dialogue: 0,0:08:04.33,0:08:05.64,常规,,0,0,0,,ライブって、何のライブ？\NWhat concert is it?
 Dialogue: 0,0:08:05.64,0:08:08.46,常规,,0,0,0,,決まってるやろ？PPPのライブやだな。\NA PPP concert, of course! What else could it be?
@@ -148,7 +148,7 @@ Dialogue: 0,0:08:38.20,0:08:40.32,常规,,0,0,0,,私だって見たかったん�
 Dialogue: 0,0:08:40.62,0:08:42.12,常规,,0,0,0,,チケットは、どこで貰えるの？\NWhere can I get tickets?
 Dialogue: 0,0:08:42.39,0:08:44.26,常规,,0,0,0,,チケットはもうどこにもありません。\NYou can't anymore.
 Dialogue: 0,0:08:46.72,0:08:48.12,常规,,0,0,0,,不正に入手しよう！\NLet's get them illegally!
-Dialogue: 0,0:08:44.62,0:08:47.04,常规,,0,0,0,,不正に入手でもしない限りチケットは…\NAlthough it's not to the point that ｛｝
+Dialogue: 0,0:08:44.62,0:08:47.04,常规,,0,0,0,,不正に入手でもしない限りチケットは…\NAlthough it's not to the point that ｛you can't even get them illegally｝…
 Dialogue: 0,0:08:48.49,0:08:49.02,常规,,0,0,0,,待て！\NWait!
 Dialogue: 0,0:08:51.58,0:08:52.93,常规,,0,0,0,,それは絶対にしたらあかん。\NYou absolutely mustn't do that.
 Dialogue: 0,0:08:53.26,0:08:56.22,常规,,0,0,0,,えぇ、だったらどうやったらライブ見られるの？\NAww, but then how can I watch the concert?
@@ -215,7 +215,7 @@ Dialogue: 0,0:11:49.63,0:11:51.56,常规,,0,0,0,,ジャパリパーク記念祭�
 Dialogue: 0,0:11:52.06,0:11:54.15,常规,,0,0,0,,この調子でどんどん盛り上がっていきましょう！\NLet's go!
 Dialogue: 0,0:11:55.85,0:11:57.05,常规,,0,0,0,,ジャパリパーク記念祭？\NJapari Park anniversary celebration?
 Dialogue: 0,0:11:57.46,0:11:59.62,常规,,0,0,0,,そう、年に一度のお祭りがあるんだよ！\NYeah, there's a festival every year!
-Dialogue: 0,0:12:00.84,0:12:04.02,常规,,0,0,0,,それでは、PPPスペシャルステージです！\NAnd so, the PPP special ｛stage｝!
+Dialogue: 0,0:12:00.84,0:12:04.02,常规,,0,0,0,,それでは、PPPスペシャルステージです！\NAnd now, the PPP special ｛stage｝!
 Dialogue: 0,0:12:04.48,0:12:05.65,常规,,0,0,0,,ロイヤルペンギンのプリンセス！\NPrincess, the royal penguin!
 Dialogue: 0,0:12:06.18,0:12:07.52,常规,,0,0,0,,イワトビペンギンのイワビー！\NIwabi, the rockhopper penguin!
 Dialogue: 0,0:12:08.08,0:12:09.24,常规,,0,0,0,,ジェンツーペンギンのジェーン！\NGen, the gentoo penguin!
@@ -257,7 +257,7 @@ Dialogue: 0,0:13:57.19,0:13:58.50,常规,,0,0,0,,超かわいい！\NThey're so 
 Dialogue: 0,0:13:59.62,0:14:01.57,常规,,0,0,0,,私もアイドルやってみたいな！\NI wanna try being an idol too!
 Dialogue: 0,0:14:01.89,0:14:02.57,常规,,0,0,0,,サーバルちゃん？\NServal-chan?
 Dialogue: 0,0:14:02.89,0:14:05.96,常规,,0,0,0,,ああやってみんなで歌うの、気持ちよさそうだよね！\NIt looks so fun, singing with everyone like that!
-Dialogue: 0,0:14:07.31,0:14:10.65,常规,,0,0,0,,それではここで、ゲストの方に登場していただきます。\NAnd now, ｛let us welcome our guest｝.
+Dialogue: 0,0:14:07.31,0:14:10.65,常规,,0,0,0,,それではここで、ゲストの方に登場していただきます。\NAnd now, let us welcome our guest.
 Dialogue: 0,0:14:10.91,0:14:11.45,常规,,0,0,0,,ゲスト？\NGuest?
 Dialogue: 0,0:14:11.45,0:14:12.33,常规,,0,0,0,,誰でしょう。\NI wonder who it is?
 Dialogue: 0,0:14:12.71,0:14:14.86,常规,,0,0,0,,イグアナのフレンズじゃないかなぁ。\NIs it an Iguana Friend?
@@ -276,7 +276,7 @@ Dialogue: 0,0:14:54.14,0:14:56.04,常规,,0,0,0,,包容力があるからかな�
 Dialogue: 0,0:14:56.58,0:14:58.76,常规,,0,0,0,,普段は海の中で｛｝\N｛虽然平时在大海里悠闲自在的生活｝
 Dialogue: 0,0:14:58.76,0:15:01.97,常规,,0,0,0,,たまにこうやって顔を出して、みんなの事を気にかけてくれる、\Nand sometimes she shows up and cares about all of us;
 Dialogue: 0,0:15:02.27,0:15:04.05,常规,,0,0,0,,彼女はパークのお母さん！\Nshe is the park's mother!
-Dialogue: 0,0:15:05.07,0:15:08.21,常规,,0,0,0,,それでは、お母さんに一言をいただきたいと思います。\N｛接下来 母亲有话想跟大家说｝
+Dialogue: 0,0:15:05.07,0:15:08.21,常规,,0,0,0,,それでは、お母さんに一言をいただきたいと思います。\NAnd now, a few words from Mother.
 Dialogue: 0,0:15:10.38,0:15:15.11,常规,,0,0,0,,皆さん、いよいよ待ちに待った記念祭が近づいてきました！\NThe long-awaited anniversary celebration is finally approaching!
 Dialogue: 0,0:15:15.95,0:15:19.22,常规,,0,0,0,,先日の大噴火によって、お友達が増えた！\NBecause of the eruption the other day, we have more friends!
 Dialogue: 0,0:15:19.61,0:15:24.48,常规,,0,0,0,,今年の記念祭は、去年より更に盛り上がるお祭りにしたい！\NI want this year's anniversary celebration to be even more intense than last year's!
@@ -312,12 +312,12 @@ Dialogue: 0,0:16:43.32,0:16:46.13,薮猫与霍加狓的sbngirls,,0,0,0,,PPPの�
 Dialogue: 0,0:16:46.63,0:16:49.39,薮猫与霍加狓的sbngirls,,0,0,0,,私アイドルになりたいの\NI want to be an idol!
 Dialogue: 0,0:16:49.39,0:16:54.85,薮猫与霍加狓的sbngirls,,0,0,0,,サバンナ仕込みのポーズ決めれば\NIf I make the poses I learned in the savanna
 Dialogue: 0,0:16:55.34,0:17:00.60,薮猫与霍加狓的sbngirls,,0,0,0,,けもの達みんな　大騒ぎ！\NWe'll make a ruckus with all the other animals
-Dialogue: 0,0:17:01.16,0:17:06.39,薮猫与霍加狓的sbngirls,,0,0,0,,サーバルちゃんは｛楽天か｝　謎の自信が羨ましい\N｛薮猫真是乐天派  羡慕你那谜一样的自信心｝
+Dialogue: 0,0:17:01.16,0:17:06.39,薮猫与霍加狓的sbngirls,,0,0,0,,サーバルちゃんは楽天家　謎の自信が羨ましい\NServal-chan is always so optimistic; your perplexing confidence is enviable
 Dialogue: 0,0:17:06.96,0:17:09.48,薮猫与霍加狓的sbngirls,,0,0,0,,なんで?自信ないの？\NWhy? Don't you have confidence in yourself?
 Dialogue: 0,0:17:10.02,0:17:12.25,薮猫与霍加狓的sbngirls,,0,0,0,,ある訳ないでしょ！\NHow could I?
 Dialogue: 0,0:17:12.84,0:17:15.09,薮猫与霍加狓的sbngirls,,0,0,0,,こんなに元気なのに\NEven though you're this cheery
 Dialogue: 0,0:17:15.65,0:17:17.21,薮猫与霍加狓的sbngirls,,0,0,0,,元気は関係ないでしょ！\NThose are unrelated!
-Dialogue: 0,0:17:17.85,0:17:23.00,薮猫与霍加狓的sbngirls,,0,0,0,,キリンなの？シマウマなの？どっちでもないのがオカピ\NGiraffe? Zebra? Okapi is neither
+Dialogue: 0,0:17:17.85,0:17:23.00,薮猫与霍加狓的sbngirls,,0,0,0,,キリンなの？シマウマなの？どっちでもないのがオカピ\NGiraffe? Zebra? Okapi is the one who is neither
 Dialogue: 0,0:17:23.44,0:17:26.66,薮猫与霍加狓的sbngirls,,0,0,0,,｛｝が魅力的\N｛像这又像那的地方特别有魅力｝
 Dialogue: 0,0:17:26.66,0:17:28.96,薮猫与霍加狓的sbngirls,,0,0,0,,ああ　食べちゃいたい\NAah, I want to eat you!
 Dialogue: 0,0:17:29.27,0:17:30.14,薮猫与霍加狓的sbngirls,,0,0,0,,食べないで\NPlease do not eat me!
@@ -365,7 +365,7 @@ Dialogue: 0,0:20:11.53,0:20:14.55,常规,,0,0,0,,そんな言葉、そっくり�
 Dialogue: 0,0:20:15.36,0:20:18.22,常规,,0,0,0,,それでは、皆さん、またお会いしましょう！\NWell, see you all next time!
 Dialogue: 0,0:20:21.48,0:20:22.54,常规,,0,0,0,,｛｝\N｛呵呵呵｝
 Dialogue: 0,0:20:23.08,0:20:25.42,常规,,0,0,0,,あ、色々ありましたが…\NAh, well, all sorts of things happened…
-Dialogue: 0,0:20:26.03,0:20:29.62,常规,,0,0,0,,とにかく皆さん、最高の記念祭になるよ。頑張っていきましょう！\NAnyway, this'll be our greatest anniversary celebration. ｛｝!
+Dialogue: 0,0:20:26.03,0:20:29.62,常规,,0,0,0,,とにかく皆さん、最高の記念祭になるよ。頑張っていきましょう！\NAnyway, this'll be our greatest anniversary celebration. Let's do our best!
 Dialogue: 0,0:20:30.39,0:20:31.27,常规,,0,0,0,,それでは、解散！\NThat is all!
 Dialogue: 0,0:20:31.96,0:20:33.93,常规,,0,0,0,,クロヒョウ、準備するわよ！\NBlack Panther, let's get things ready!
 Dialogue: 0,0:20:33.93,0:20:34.39,常规,,0,0,0,,はい！\NAlright!
@@ -539,15 +539,15 @@ Dialogue: 0,0:29:04.19,0:29:05.90,加帕里馒头rap,,0,0,0,,我开动啦!
 Dialogue: 0,0:29:20.12,0:29:20.82,常规,,0,0,0,,いただき！\N我收下了
 Dialogue: 0,0:29:29.48,0:29:30.47,常规,,0,0,0,,うわあ！\NWhoa!
 Dialogue: 0,0:29:31.04,0:29:33.13,常规,,0,0,0,,この美味しそうなジャパリまんを…\NThis delicious-looking Japari bun…
-Dialogue: 0,0:29:33.86,0:29:37.84,常规,,0,0,0,,ハム。もたもたしているからお先にいただいたわよ。\NI shall eat first, as you girls ｛seem to be taking your time｝.
-Dialogue: 0,0:29:38.32,0:29:39.66,常规,,0,0,0,,でも、助かったわ。\NBut anyway, you saved me.
-Dialogue: 0,0:29:39.66,0:29:42.86,常规,,0,0,0,,パーク中を走り回って私はお腹が空いてきたから…\NRunning around the park made me hungry…
+Dialogue: 0,0:29:33.86,0:29:37.84,常规,,0,0,0,,ハム。もたもたしているからお先にいただいたわよ。\NI shall eat first, as you girls seem to be taking your time.
+Dialogue: 0,0:29:38.32,0:29:39.66,常规,,0,0,0,,でも、助かったわ。\NBut anyway, this is a real lifesaver.
+Dialogue: 0,0:29:39.66,0:29:42.86,常规,,0,0,0,,パーク中を走り回って私はお腹が空いてきたから…\NRunning around the park really makes you hungry…
 Dialogue: 0,0:29:43.30,0:29:44.02,常规,,0,0,0,,あなたは…\NYou are…
-Dialogue: 0,0:29:44.78,0:29:49.42,常规,,0,0,0,,パーク一に俊足自慢、サバンナのチーターよ！\N｛公园第一迅速 热带稀树草原的猎豹是也｝
+Dialogue: 0,0:29:44.78,0:29:49.42,常规,,0,0,0,,パーク一に俊足自慢、サバンナのチーターよ！\NThe fastest runner in the Park, Cheetah of the Savanna!
 Dialogue: 0,0:29:50.98,0:29:53.48,常规,,0,0,0,,初めまして、チーターさん。オカピです。\NNice to meet you, Cheetah-san. I'm Okapi.
 Dialogue: 0,0:29:53.91,0:29:55.50,常规,,0,0,0,,オカピちゃんにサーバルちゃん？\NOkapi-chan and Serval-chan?
 Dialogue: 0,0:29:55.91,0:30:01.27,常规,,0,0,0,,風の噂に聞いたわよ。サバンナの子が集まって、アイドルグループをやろうとしてるんだって！\N｛I heard the rumors.｝ Girls from the savanna are forming an idol group, yes?
-Dialogue: 0,0:30:01.80,0:30:04.26,常规,,0,0,0,,さすが速いのは足だけどちゃうな。\N｛看来你不仅是跑得快啊｜Your feet are certainly fast, but that's not it.｝
+Dialogue: 0,0:30:01.80,0:30:04.26,常规,,0,0,0,,さすが速いのは足だけ｛と｝ちゃうな。\N｛So it's not just your feet that are fast, huh?｝
 Dialogue: 0,0:30:04.86,0:30:07.73,常规,,0,0,0,,まあ、誰かと思ったらクロヒョウじゃない！\NAh, if it isn't Black Panther!
 Dialogue: 0,0:30:07.92,0:30:09.42,常规,,0,0,0,,久しぶりやな、チーター。\NIt's been a while, Cheetah.
 Dialogue: 0,0:30:09.92,0:30:15.16,常规,,0,0,0,,あら？もしかして、あなたも、サバンナのアイドルの仲間入り？\NHmm?Don't tell me, you are one of the savanna idols too?
@@ -559,7 +559,7 @@ Dialogue: 0,0:30:21.88,0:30:22.43,常规,,0,0,0,,お！\NOh!
 Dialogue: 0,0:30:23.79,0:30:27.11,常规,,0,0,0,,そうだ、チーター、ねぇ、一緒にやらない？\NOh right! Cheetah, do you want to join too?
 Dialogue: 0,0:30:27.60,0:30:28.66,常规,,0,0,0,,私が？\NMe?
 Dialogue: 0,0:30:28.82,0:30:30.47,常规,,0,0,0,,うん！どうかな？\NM-hmm! What do you think?
-Dialogue: 0,0:30:30.79,0:30:33.17,常规,,0,0,0,,確かに、運動神経、抜群だしね！\N｛确实你运动神经超好的啊｝
+Dialogue: 0,0:30:30.79,0:30:33.17,常规,,0,0,0,,確かに、運動神経、抜群だしね！\NYou certainly have the reflexes!
 Dialogue: 0,0:30:33.91,0:30:36.99,常规,,0,0,0,,そう！何だか面白そうな話だけど、\N｛这样啊  感觉听到了很有意思的事情呢 不过｝
 Dialogue: 0,0:30:37.94,0:30:39.35,常规,,0,0,0,,ごめん。無理だな。\NSorry, I can't do it.
 Dialogue: 0,0:30:39.35,0:30:41.64,常规,,0,0,0,,えぇ？どうして？\NAww! Why?
@@ -570,7 +570,7 @@ Dialogue: 0,0:30:51.38,0:30:52.25,常规,,0,0,0,,ジャパリびん？\NJapari P
 Dialogue: 0,0:30:53.28,0:30:57.84,常规,,0,0,0,,みんなの荷物を、誰よりも速くお届け先に運んでくれる｛って｜で｝大評判なんよ！\NWe deliver packages faster than anyone else, to great acclaim!
 Dialogue: 0,0:31:00.75,0:31:03.45,常规,,0,0,0,,すっごーい！どんな荷物運ぶの？\NAmazing! What kind of package are you delivering?
 Dialogue: 0,0:31:03.78,0:31:06.36,常规,,0,0,0,,大事なプレゼントとか、思い出の品とか、\NImportant presents, goods full of memories, etc….
-Dialogue: 0,0:31:06.81,0:31:10.83,常规,,0,0,0,,最近じゃこの辺に落ちてるガラクタなんかを運んだり事も多い｛な｝。\N｛不过最近总是在运送一些掉在这附近的小破烂｝
+Dialogue: 0,0:31:06.81,0:31:10.83,常规,,0,0,0,,最近じゃこの辺に落ちてるガラクタなんかを運んだり事も多い｛な｝。\NLately I've had to carry around trash that's been falling around here.
 Dialogue: 0,0:31:11.26,0:31:12.54,常规,,0,0,0,,この辺っていうと密林。\NWe're in the jungle.
 Dialogue: 0,0:31:12.54,0:31:14.61,常规,,0,0,0,,密林っていうとアマゾン。\NSpeaking of jungles, there is the Amazon.
 Dialogue: 0,0:31:15.56,0:31:18.16,常规,,0,0,0,,チーターはアマゾンの荷物を沢山運んでるんだね！\NCheetah is delivering a lot of Amazonian packages, right?
@@ -583,30 +583,30 @@ Dialogue: 0,0:31:37.08,0:31:38.78,常规,,0,0,0,,弱音吐かないでよアラ�
 Dialogue: 0,0:31:39.47,0:31:42.26,常规,,0,0,0,,お届け先の湖まではあとちょっとだよー。\NThe lake is just a little bit farther.
 Dialogue: 0,0:31:42.44,0:31:46.59,常规,,0,0,0,,もう、一歩も、無理なのだ！\NI really can't do it!
 Dialogue: 0,0:31:46.59,0:31:47.15,常规,,0,0,0,,おう！\NOh!
-Dialogue: 0,0:31:49.27,0:31:53.08,常规,,0,0,0,,この箱はいっぱいの、さっきのおウマさんの蹄は、\N｛这个箱子里装了好多刚才那位马先生的蹄子｝
+Dialogue: 0,0:31:49.27,0:31:53.08,常规,,0,0,0,,この箱はいっぱいの、さっきのおウマさんの蹄は、\NThis box full of the hooves of Horse-san from before is
 Dialogue: 0,0:31:53.61,0:31:55.64,常规,,0,0,0,,もう運べないのだ！\Nsomething I just can't carry anymore!
 Dialogue: 0,0:31:55.86,0:31:59.07,常规,,0,0,0,,んん、そんな物は入ってないと思うけどねー。\NHmm, I don't think that's what's inside.
-Dialogue: 0,0:32:00.86,0:32:05.92,常规,,0,0,0,,アライさんの鼻先にぶら下げる何か人参的な物があればいいんだけど…\N｛要在阿莱桑鼻子前面挂个萝卜制造出阿莱桑永动机才行呢｝
+Dialogue: 0,0:32:00.86,0:32:05.92,常规,,0,0,0,,アライさんの鼻先にぶら下げる何か人参的な物があればいいんだけど…\NIf there was something like a carrot that I could dangle in front of Arai-san…
 Dialogue: 0,0:32:09.26,0:32:11.64,常规,,0,0,0,,ああ！ジャパリまんなのだ！\NAh! Japari Buns!
-Dialogue: 0,0:32:12.12,0:32:16.03,常规,,0,0,0,,急いであいつを追いかけるのだ！\N｛不快点儿的话就没有了喏哒｝
+Dialogue: 0,0:32:12.12,0:32:16.03,常规,,0,0,0,,急いであいつを追いかけるのだ！\NI've gotta hurry up and chase after it!
 Dialogue: 0,0:32:18.52,0:32:19.42,常规,,0,0,0,,｛待ち｝のだ！\N｛等等我喏哒｝
 Dialogue: 0,0:32:19.76,0:32:21.83,常规,,0,0,0,,アライさんやればできるねー。\NYou can do it if you try, can't you, Arai-san.
 Dialogue: 0,0:32:25.19,0:32:28.86,常规,,0,0,0,,こんなにジャパリびんが忙しいんじゃチーターさんは無理ですね。\NI suppose Cheetah-san's got her hands full with the Japari Postal Service.
 Dialogue: 0,0:32:29.35,0:32:32.63,常规,,0,0,0,,申し訳ねぇけど、でもこの辺りを探せば、\NMy apologies. But, if you look around here,
-Dialogue: 0,0:32:32.63,0:32:35.96,常规,,0,0,0,,私なんかよりよっぽどアイドルにぴったりの子がいるんじゃないかな。\N｛应该能遇到比我更适合做偶像的孩子吧｝
+Dialogue: 0,0:32:32.63,0:32:35.96,常规,,0,0,0,,私なんかよりよっぽどアイドルにぴったりの子がいるんじゃないかな。\Nyou'll probably find a girl who's way more suited to being an idol than me.
 Dialogue: 0,0:32:36.95,0:32:40.56,常规,,0,0,0,,例えば、ホワイトタイガー、とか？\NLike White Tiger.
 Dialogue: 0,0:32:41.91,0:32:43.59,常规,,0,0,0,,ホワイトタイガー？\NWhite Tiger?
 Dialogue: 0,0:32:43.86,0:32:47.76,常规,,0,0,0,,とか言って、実の所ホワイトタイガーの子は見た事ないんだけど、\NWell, actually, I haven't seen her before.
 Dialogue: 0,0:32:47.97,0:32:51.80,常规,,0,0,0,,もしいたら、とってもかっこいいんじゃないって思うの。\NBut if she really is out there, wouldn't it be cool?
 Dialogue: 0,0:32:52.06,0:32:53.78,常规,,0,0,0,,そりゃ格好ええやろうなぁ。\NIt does sound cool, doesn't it?
-Dialogue: 0,0:32:55.33,0:32:57.07,常规,,0,0,0,,｛で｝ね、こんな所で油を売ってる場合じゃないの。\N｛现在可不是在这儿磨蹭的时候｝
-Dialogue: 0,0:32:57.52,0:33:00.42,常规,,0,0,0,,じゃあ私、配送が残っているから、お先に失礼するわね。\NI still have deliveries to make, so ｛｝.
+Dialogue: 0,0:32:55.33,0:32:57.07,常规,,0,0,0,,｛で｝ね、こんな所で油を売ってる場合じゃないの。\NBut this isn't the time for me to idle about.
+Dialogue: 0,0:32:57.52,0:33:00.42,常规,,0,0,0,,じゃあ私、配送が残っているから、お先に失礼するわね。\NI still have deliveries to make, so ｛I shall take my leave｝.
 Dialogue: 0,0:33:00.42,0:33:02.91,常规,,0,0,0,,頑張ってね！じゃあね！\NHang in there! See ya!
 Dialogue: 0,0:33:09.62,0:33:10.47,常规,,0,0,0,,ありがとう！\NThank you!
 Dialogue: 0,0:33:11.69,0:33:12.69,常规,,0,0,0,,どうする？サーバルちゃん。\NWhat'll we do, Serval-chan?
 Dialogue: 0,0:33:13.32,0:33:13.98,常规,,0,0,0,,探しに行く！\NWe'll go look for White Tiger!
 Dialogue: 0,0:33:14.45,0:33:17.40,常规,,0,0,0,,ホワイトタイガー、昨日のサンドスターで生まれてるかも！\NMaybe White Tiger was born from yesterday's Sandstar!
-Dialogue: 0,0:33:17.40,0:33:20.18,常规,,0,0,0,,さすがにそんな偶然ない｛かちゃう｝かなぁ。\N｛哪会有这么巧合的事情啊｝
+Dialogue: 0,0:33:17.40,0:33:20.18,常规,,0,0,0,,さすがにそんな偶然ない｛かちゃう｝かなぁ。\N｛There's no way we would be that lucky.｝
 Dialogue: 0,0:33:20.45,0:33:22.41,常规,,0,0,0,,ホワイトタイガーがもしいたとしたら、\NIf White Tiger exists,
 Dialogue: 0,0:33:22.84,0:33:25.07,常规,,0,0,0,,一体、どんな子なんだろう？\Nwhat kind of girl would she be?
 Dialogue: 0,0:33:25.30,0:33:27.84,常规,,0,0,0,,｛｝\N｛悉悉索索｝
@@ -822,7 +822,7 @@ Dialogue: 0,0:44:09.54,0:44:11.87,常规,,0,0,0,,あああーーー。\NAww.
 Dialogue: 0,0:44:13.47,0:44:16.92,常规,,0,0,0,,うわあーーーーー！！！\NAaah!!!
 Dialogue: 0,0:44:16.92,0:44:19.10,常规,,0,0,0,,何なのよそれ！！\NWhat the heck!?
 Dialogue: 0,0:44:19.27,0:44:21.46,常规,,0,0,0,,｛お前｝が乱暴すぎるのだ！\NYou're too violent!
-Dialogue: 0,0:44:22.14,0:44:25.04,常规,,0,0,0,,ちょっと配送｛｝、これ博物館に持って帰って！！\N｛这个我们不要了 你把它送回博物馆去｝
+Dialogue: 0,0:44:22.14,0:44:25.04,常规,,0,0,0,,ちょっと配送｛｝、これ博物館に持って帰って！！\N｛这个我们不要了｝, take this back to the Museum!
 Dialogue: 0,0:44:25.43,0:44:26.74,常规,,0,0,0,,えええーー！？\NEeh!?
 Dialogue: 0,0:44:26.90,0:44:29.43,常规,,0,0,0,,｛どうせ｜どうして｝ちゃんと動く奴と交換してって！\NSwap it with one that actually works!
 Dialogue: 0,0:44:29.68,0:44:32.29,常规,,0,0,0,,いや、これを持って帰るのは勘弁なのだ…！\N｛饶了我吧 我可不想再搬这个了呐喏哒｝
@@ -834,11 +834,11 @@ Dialogue: 0,0:44:38.93,0:44:40.75,常规,,0,0,0,,あんただって飛べない�
 Dialogue: 0,0:44:41.54,0:44:43.66,常规,,0,0,0,,お前達に、｛｝。\N｛你们把这个拿到公主找不到的地方避难吧｝
 Dialogue: 0,0:44:43.90,0:44:44.41,常规,,0,0,0,,はい。\N｛｝
 Dialogue: 0,0:44:44.86,0:44:46.77,常规,,0,0,0,,ペタ、ペタ、ペタ。\N｛啪哒 啪哒 啪哒｝
-Dialogue: 0,0:44:46.99,0:44:48.05,常规,,0,0,0,,待ちなさいよ。\NWait.
+Dialogue: 0,0:44:46.99,0:44:48.05,常规,,0,0,0,,待ちなさいよ。\NStop right there.
 Dialogue: 0,0:44:48.05,0:44:48.81,常规,,0,0,0,,ギクー！\NEek!
 Dialogue: 0,0:44:49.64,0:44:51.98,常规,,0,0,0,,あなた達で、どこ行くのよー。\NWhere do you girls think you're going?
 Dialogue: 0,0:44:53.18,0:44:54.83,常规,,0,0,0,,あのー…\NErm…
-Dialogue: 0,0:44:54.83,0:44:58.28,常规,,0,0,0,,あ！3人はお腹が空いたからご飯、かな？\NAh! The three of us are hungry, and we were going to get food… yes.
+Dialogue: 0,0:44:54.83,0:44:58.28,常规,,0,0,0,,あ！3人はお腹が空いたからご飯、かな？\NAh! The three of us are hungry, and we were going to get food… yes, that's it.
 Dialogue: 0,0:44:59.16,0:45:03.83,常规,,0,0,0,,ダイエットしてるんじゃなかったっけ。上手に踊りたいんだよねー。\NWeren't you girls on diets? After all, you girls want to get better at your dancing, right?
 Dialogue: 0,0:45:05.32,0:45:07.90,常规,,0,0,0,,ジャパリまんなんかも食べたら、ダメよーーー！！\NAnything as much as a Japari bun is forbidden!!
 Dialogue: 0,0:45:07.90,0:45:09.26,常规,,0,0,0,,うわあーー！！\NAahh!!
@@ -1091,17 +1091,17 @@ Dialogue: 0,0:59:11.87,0:59:13.39,常规,,0,0,0,,間違いない！セルリア�
 Dialogue: 0,0:59:13.39,0:59:15.39,常规,,0,0,0,,オカピちゃん、こっち逃げて！\NOkapi-chan, get over here!
 Dialogue: 0,0:59:13.59,0:59:14.32,常规,,0,0,0,,サーバルちゃん！\NServal-chan!
 Dialogue: 0,0:59:41.33,0:59:43.24,常规,,0,0,0,,私が｛脅かす｜誘き出す｝から！\N｛我来吸引他们的注意力｜I'll distract them!｝
-Dialogue: 0,0:59:43.24,0:59:45.02,常规,,0,0,0,,タイガーさんが仕留めてください！\N｛白虎你趁机干掉他们｝
-Dialogue: 0,0:59:45.02,0:59:45.82,常规,,0,0,0,,それは…\NThat…
-Dialogue: 0,0:59:45.82,0:59:47.06,常规,,0,0,0,,無理です！\Nis something I cannot do!
+Dialogue: 0,0:59:43.24,0:59:45.02,常规,,0,0,0,,タイガーさんが仕留めてください！\N｛白虎你趁机干掉他们｜You deal with them, Tiger-san!｝
+Dialogue: 0,0:59:45.02,0:59:45.82,常规,,0,0,0,,それは…\NI…
+Dialogue: 0,0:59:45.82,0:59:47.06,常规,,0,0,0,,無理です！\Ncannot do that!
 Dialogue: 0,0:59:47.06,0:59:48.27,常规,,0,0,0,,どうして！？\NWhy!?
 Dialogue: 0,0:59:48.27,0:59:50.27,常规,,0,0,0,,決まってるじゃないですか。\NWhy else?
-Dialogue: 0,0:59:50.72,0:59:52.48,常规,,0,0,0,,怖いからですよ。\NIt's scary.
-Dialogue: 0,0:59:52.48,0:59:55.11,常规,,0,0,0,,ねぇ、今ふざけてる場合とちゃうやけど！\NUm, this isn't the time to be joking around.
+Dialogue: 0,0:59:50.72,0:59:52.48,常规,,0,0,0,,怖いからですよ。\N｛It's scary.｜I'm scared.｝
+Dialogue: 0,0:59:52.48,0:59:55.11,常规,,0,0,0,,ねぇ、今ふざけてる場合とちゃうやけど！\NHey, this isn't the time to be joking around.
 Dialogue: 0,0:59:55.11,0:59:57.11,常规,,0,0,0,,ごめんなさい、実は私、\NI'm sorry. To tell the truth,
 Dialogue: 0,0:59:57.11,1:00:00.04,常规,,0,0,0,,ホワイトタイガーじゃないんです！\NI'm not White Tiger!
 Dialogue: 0,1:00:00.04,1:00:01.18,常规,,0,0,0,,え！？\NHuh!?
-Dialogue: 0,1:00:01.18,1:00:03.18,常规,,0,0,0,,か弱いただのタヌキなんです！\NI'm merely the ｛｝ Tanuki!
+Dialogue: 0,1:00:01.18,1:00:03.18,常规,,0,0,0,,か弱いただのタヌキなんです！\NI'm merely the feeble Tanuki!
 Dialogue: 0,1:00:03.18,1:00:05.18,常规,,0,0,0,,どろん！\N｛｝
 Dialogue: 0,1:00:07.23,1:00:09.03,常规,,0,0,0,,うわあ！タヌキちゃん！？\NAah!? Tanuki-chan!?
 Dialogue: 0,1:00:09.03,1:00:12.63,常规,,0,0,0,,ごめんなさい、私はセルリアンとか無理です！\NI'm sorry, I can't deal with things like Ceruleans!
@@ -1132,7 +1132,7 @@ Dialogue: 0,1:02:35.63,1:02:37.36,常规,,0,0,0,,ごめんなさい。\NI apolog
 Dialogue: 0,1:02:37.36,1:02:40.78,常规,,0,0,0,,私、どうしてもアイドルがやりたくて…\NI really wanted to be an idol, no matter what…
 Dialogue: 0,1:02:41.08,1:02:41.54,常规,,0,0,0,,え？\NHuh?
 Dialogue: 0,1:02:41.72,1:02:45.72,常规,,0,0,0,,でも、「サバンナガールズに入れてください」ってお願いしたら、\Nbut when I requested for you to make me a member of the Savanna Girls,
-Dialogue: 0,1:02:45.72,1:02:49.00,常规,,0,0,0,,サバンナの仲間じゃないとダメだっていうから…\Nyou said that I couldn't, because I wasn't from the savanna, so…
+Dialogue: 0,1:02:45.72,1:02:49.00,常规,,0,0,0,,サバンナの仲間じゃないとダメだっていうから…\Nyou said that I couldn't, because I wasn't a Friend from the savanna, so…
 Dialogue: 0,1:02:49.00,1:02:50.28,常规,,0,0,0,,タヌキちゃん…\NTanuki-chan…
 Dialogue: 0,1:02:50.28,1:02:53.00,常规,,0,0,0,,悪いのはアライさんも同じなのだ！\NArai-san is equally at fault too!
 Dialogue: 0,1:02:54.18,1:02:56.40,常规,,0,0,0,,私とアライさんがタヌパンチに、\NArai-san and I suggested that Tanupunch
@@ -1257,7 +1257,7 @@ Dialogue: 0,1:11:22.38,1:11:24.38,常规,,0,0,0,,ナンバーワンアイドル�
 Dialogue: 0,1:11:24.46,1:11:25.93,常规,,0,0,0,,サーバル！\NServal!
 Dialogue: 0,1:11:26.34,1:11:28.34,常规,,0,0,0,,私達なんてアイドル目指すんでしょ？\NAren't {\i1}we{\i0} aiming to be idols?
 Dialogue: 0,1:11:28.87,1:11:32.79,常规,,0,0,0,,それじゃあ、サバンナガールズもPPPもナンバーワンになってほしいよね！\NAlright, then we'll all be number one! Both the Savanna Girls and PPP!
-Dialogue: 0,1:11:32.79,1:11:34.39,常规,,0,0,0,,もー、どういうこと？\N｛lolwut｝
+Dialogue: 0,1:11:32.79,1:11:34.39,常规,,0,0,0,,もー、どういうこと？\N｛lolwut?｝
 Dialogue: 0,1:11:36.67,1:11:42.60,常规,,0,0,0,,さあ！それじゃ、博物館でサバンナガールズの作戦会議よ！\NAlright! Let's have a meeting at the museum to figure out how we're going to do this!
 Dialogue: 0,1:11:43.02,1:11:45.02,常规,,0,0,0,,おーう！\NYeah!
 Dialogue: 0,1:11:51.35,1:11:54.77,常规,,0,0,0,,そして、私とアライさんは全力で走った。\NAnd so, Arai-san and I ran at full force.
@@ -1281,18 +1281,18 @@ Dialogue: 0,1:12:53.00,1:12:55.38,常规,,0,0,0,,さあ、あとは練習ある�
 Dialogue: 0,1:12:55.86,1:12:59.94,常规,,0,0,0,,新曲をどれにするか…選ぶのはプリンセスにまかせて！\NWhich song will be the new song… Princess will choose!
 Dialogue: 0,1:12:59.94,1:13:01.36,常规,,0,0,0,,皆はレッスンよ！\NThe rest of you girls will ｛practice｝!
 Dialogue: 0,1:13:01.36,1:13:02.59,常规,,0,0,0,,はい！\NUnderstood!
-Dialogue: 0,1:13:07.59,1:13:09.29,常规,,0,0,0,,アライさん、よかったね。\N｛｝, Arai-san.
-Dialogue: 0,1:13:09.60,1:13:13.42,常规,,0,0,0,,みんなの笑顔を運ぶ事ができて、よかったのだ！\NBeing able to deliver a smile to everyone, ｛｝!
+Dialogue: 0,1:13:07.59,1:13:09.29,常规,,0,0,0,,アライさん、よかったね。\NEverything turned out well, didn't it, Arai-san.
+Dialogue: 0,1:13:09.60,1:13:13.42,常规,,0,0,0,,みんなの笑顔を運ぶ事ができて、よかったのだ！\NArai-san is glad that Arai-san was able to deliver a smile to everyone!
 Dialogue: 0,1:13:20.93,1:13:22.23,常规,,0,0,0,,はい、はい、はい！\NOK, OK, OK!
 Dialogue: 0,1:13:22.84,1:13:27.46,常规,,0,0,0,,イワビー、ジェーン、フルルも…いい調子よ！\NIwabi, Gen, Hululu… keep it up, you're all doing great!
 Dialogue: 0,1:13:27.90,1:13:29.78,常规,,0,0,0,,ありがとうございます！\NThank you!
 Dialogue: 0,1:13:31.13,1:13:34.52,常规,,0,0,0,,オオフラミンゴさん…ありがとうございます。\NThank you, Greater Flamingo-san.
 Dialogue: 0,1:13:35.28,1:13:40.32,常规,,0,0,0,,みんながここまで上達できたのも、オオフラミンゴさんが教えてくれたお陰です。\NIt's all thanks to you that we were able to get this far.
-Dialogue: 0,1:13:40.72,1:13:46.88,常规,,0,0,0,,みんなの努力の賜物よ。でも…仲間がいる、って…いいわね！\NIt's all the product of your hard work. But… ｛有伙伴在一起就是好啊｝
+Dialogue: 0,1:13:40.72,1:13:46.88,常规,,0,0,0,,みんなの努力の賜物よ。でも…仲間がいる、って…いいわね！\NIt's all the product of your hard work. But… having companions must be great!
 Dialogue: 0,1:13:46.99,1:13:47.69,常规,,0,0,0,,え？\NHuh?
 Dialogue: 0,1:13:48.36,1:13:51.37,常规,,0,0,0,,｛｝仲間とみんなで踊って…\N｛与同伴们一起跳着充满美感的舞蹈｝
 Dialogue: 0,1:13:51.68,1:13:56.48,常规,,0,0,0,,ビシッと振りが揃った時の気持ちは…最高だもんね！\NWhen everyone's movement is in sync… it couldn't be better!
-Dialogue: 0,1:13:56.84,1:14:04.62,常规,,0,0,0,,あ…でも、もちろん、先輩に怒られたり、時に喧嘩したり、辛い事もたくさんあるけど…\NSure, ｛｝ might get angry at you, and sometimes there would be fights and other hard times…
+Dialogue: 0,1:13:56.84,1:14:04.62,常规,,0,0,0,,あ…でも、もちろん、先輩に怒られたり、時に喧嘩したり、辛い事もたくさんあるけど…\NSure, ｛senpai｝ might get angry at you, and sometimes there would be fights and other hard times…
 Dialogue: 0,1:14:04.85,1:14:11.27,常规,,0,0,0,,でも、一人ぼっちに比べたら、仲間がいる、って…幸せよね？\Nbut in comparison to being alone, having companions must be bliss…!
 Dialogue: 0,1:14:12.50,1:14:15.12,常规,,0,0,0,,あ！新曲、決まったら教えてね？\NAh! Tell me when you choose the new song!
 Dialogue: 0,1:14:15.12,1:14:17.12,常规,,0,0,0,,振り付け、考えるから！じゃあ！\NI'll think up the choreography! See ya!
@@ -1378,3 +1378,287 @@ Dialogue: 0,1:18:57.60,1:18:58.73,常规,,0,0,0,,気をつけてね！\NTake car
 Dialogue: 0,1:18:58.82,1:19:00.82,常规,,0,0,0,,行ってきます！\N｛｝!
 Dialogue: 0,1:19:00.84,1:19:03.77,常规,,0,0,0,,じゃあ、アライさん達は配達に行ってくるのだ！\NIn that case, we'll go back to delivering things!
 Dialogue: 0,1:19:04.20,1:19:05.24,常规,,0,0,0,,いってらっしゃい！\NTake care!
+Dialogue: 0,1:19:07.19,1:19:10.43,常规,,0,0,0,,さあ。それじゃあ、私達は今から…\NNow, from this point on…
+Dialogue: 0,1:19:10.60,1:19:11.24,常规,,0,0,0,,（ドン！）\N[don!]
+Dialogue: 0,1:19:11.98,1:19:13.42,常规,,0,0,0,,何しましょうか？\Nwhat should we do?
+Dialogue: 0,1:19:15.31,1:19:16.80,常规,,0,0,0,,筋トレよ。\NTraining.
+Dialogue: 0,1:19:16.84,1:19:18.08,常规,,0,0,0,,筋トレ…\NTraining…
+Dialogue: 0,1:19:18.80,1:19:24.05,常规,,0,0,0,,ごめんなさい！二人に残ってもらったのには理由があるの。\NI'm sorry! There's a reason I had you two stay behind.
+Dialogue: 0,1:19:20.94,1:19:21.11,常规,,0,0,0,,え？\NHuh?
+Dialogue: 0,1:19:25.33,1:19:29.17,常规,,0,0,0,,実は先程、ハンターから｛ある｝報告を受けて…\NTo tell the truth, I got a report from a Hunter just now.
+Dialogue: 0,1:19:29.17,1:19:30.49,常规,,0,0,0,,ハンター、って？\NHunter?
+Dialogue: 0,1:19:31.02,1:19:36.41,常规,,0,0,0,,失礼します。パークの安全と平和を守る、ハンターのサーベルタイガーです。\N｛｝. I am Sabre-toothed Tiger, Hunter who protects the safety and peace of the Park.
+Dialogue: 0,1:19:36.62,1:19:39.44,常规,,0,0,0,,皆さんはこの所のパークの異変にお気づきですか？\NHave you noticed the abnormalities in the Park around here?
+Dialogue: 0,1:19:42.22,1:19:48.92,常规,,0,0,0,,山の頂きを見てください。｛｝が黒くなっています。何か起きるかもしれません。\NLook at the peak of the mountain. ｛狼烟升起来了｝. It is possible that something might happen.
+Dialogue: 0,1:19:54.44,1:19:57.08,常规,,0,0,0,,万が一に備えて、警戒が必要です。\N｛In order to prepare for the worst, we must issue an alarm.｝
+Dialogue: 0,1:19:57.43,1:20:01.24,常规,,0,0,0,,私達にできる事があれば、どんな事でも協力しますので…\NIf there is any way we can help out, we'll do it…
+Dialogue: 0,1:20:01.24,1:20:02.63,常规,,0,0,0,,よろしくお願いします。\N｛多谢合作｝
+Dialogue: 0,1:20:04.42,1:20:05.30,常规,,0,0,0,,こっちです。\NThis way.
+Dialogue: 0,1:20:10.56,1:20:13.94,常规,,0,0,0,,何も起こらないといいんだけど…\NHopefully nothing happensm but…
+Dialogue: 0,1:20:15.51,1:20:17.91,常规,,0,0,0,,{\pos(594.282,407.813)}Highlands
+Dialogue: 0,1:20:22.22,1:20:25.49,常规,,0,0,0,,そして私達は、噂の高原に｛やって｝きました。\NAnd so, we arrived at the ｛rumored｝ highlands.
+Dialogue: 0,1:20:26.36,1:20:31.16,常规,,0,0,0,,そこには初めて｛｝おっきな何かが立っていて…\N｛在这里我们看到了一个过去从没见过的高耸物体｝
+Dialogue: 0,1:20:31.66,1:20:33.82,常规,,0,0,0,,あの大きいの、何だろう？\NWhat's that large thing?
+Dialogue: 0,1:20:34.65,1:20:36.20,常规,,0,0,0,,何だろうね。\NI wonder.
+Dialogue: 0,1:20:36.83,1:20:42.34,常规,,0,0,0,,毎日、夕方に音楽が聞こえてくる、ってチーターさんが言ってたみたいだけど…\NCheetah-san said that music can be heard every day in the evening, but…
+Dialogue: 0,1:20:49.34,1:20:52.24,常规,,0,0,0,,ああ！聞こえてきた！\NAh! I can hear it!
+Dialogue: 0,1:20:58.25,1:21:02.14,常规,,0,0,0,,なんか、やさしくて、素敵な音楽だね。\NIt's ｛pleasant｝, very nice music, isn't it?
+Dialogue: 0,1:21:02.73,1:21:04.73,常规,,0,0,0,,本当だね。\NI think so too.
+Dialogue: 0,1:21:05.81,1:21:09.32,常规,,0,0,0,,でも、どこから聞こえてくるんだろう。\NBut where is it coming from?
+Dialogue: 0,1:21:11.40,1:21:15.53,常规,,0,0,0,,あの、上の所じゃないかなぁ。\NCould it be coming from up there?
+Dialogue: 0,1:21:15.82,1:21:23.46,常规,,0,0,0,,ジャパリパークが、午後5時をお知らせいたします。\NJapari Park ｛would like to inform you that it is｝ 5 PM.
+Dialogue: 0,1:21:24.64,1:21:28.03,常规,,0,0,0,,この声、誰だろう？\NWhose voice is this?
+Dialogue: 0,1:21:28.03,1:21:30.49,常规,,0,0,0,,この声、初めて聞くよ！\NIt's the first time I've heard it!
+Dialogue: 0,1:21:30.94,1:21:36.51,常规,,0,0,0,,それでは皆さん、またお会いしましょう！\NAnd so, we hope to see you all again soon!
+Dialogue: 0,1:21:45.35,1:21:46.55,常规,,0,0,0,,終わっちゃった？\NIt's over?
+Dialogue: 0,1:21:47.24,1:21:50.33,常规,,0,0,0,,今の声、なんて言ってるんだろう？\NWhat was that voice saying?
+Dialogue: 0,1:21:55.06,1:21:57.79,常规,,0,0,0,,おい、お前達。ここで何をしている。\NHey, you girls. What are you doing here?
+Dialogue: 0,1:21:58.29,1:22:02.00,常规,,0,0,0,,私はサーバルキャットのサーバルだよ！（あ、）さばんなちほーからきたの！\NI'm Serval, the serval cat! I came here from the Savanna Area!
+Dialogue: 0,1:22:02.00,1:22:03.38,常规,,0,0,0,,この子はオカピちゃん！\NThis girl is Okapi-chan!
+Dialogue: 0,1:22:03.38,1:22:06.34,常规,,0,0,0,,こんにちは！あなたはどこからきたの？\NHello! Where did you come from?
+Dialogue: 0,1:22:06.34,1:22:10.18,常规,,0,0,0,,うるさい。出ていけ。この場所は私の物だ。\NShut up. Get out. This place is mine.
+Dialogue: 0,1:22:10.52,1:22:13.36,常规,,0,0,0,,私達、サバンナガールズってグループやるんだけど、\NWe're in a group called the Savanna Girls;
+Dialogue: 0,1:22:13.36,1:22:17.07,常规,,0,0,0,,是非、先かかってた曲を、私達に使わせてもらえないかな？\Nplease, could you let us use the song that was playing just now?
+Dialogue: 0,1:22:17.07,1:22:19.97,常规,,0,0,0,,ダメだ！ダメだ、ダメだ！絶っ対にダメだ！\NNo! No, no! Of course not!
+Dialogue: 0,1:22:19.97,1:22:23.53,常规,,0,0,0,,さっき流れた音楽も、さっき流れた声も、\NThat song, and that voice;
+Dialogue: 0,1:22:23.53,1:22:28.22,常规,,0,0,0,,全部、私だけの物だ！\Nthey are all mine!
+Dialogue: 0,1:22:43.14,1:22:46.09,常规,,0,0,0,,それでー、そいつに追い出されてしまったんや。\NAnd so, she chased you girls out.
+Dialogue: 0,1:22:46.98,1:22:51.97,常规,,0,0,0,,間違いない。特徴からしてそれはヒツジだね。\NI can't be wrong. From her characteristics, it must be Sheep.
+Dialogue: 0,1:22:52.03,1:22:53.02,常规,,0,0,0,,ヒツジ？\NSheep?
+Dialogue: 0,1:22:59.93,1:23:04.76,常规,,0,0,0,,｛｝\N｛咩咩咩咩咩咩｝
+Dialogue: 0,1:23:05.51,1:23:11.38,常规,,0,0,0,,｛｝\N｛咩咩咩咩咩咩｝
+Dialogue: 0,1:23:13.45,1:23:15.81,常规,,0,0,0,,そう言えば、噂で聞いた事がある。\NCome to mention, it, I've heard of her from rumors.
+Dialogue: 0,1:23:15.81,1:23:20.09,常规,,0,0,0,,他の誰とも交わらないで、高原地帯の山小屋で、\NThat there's a girl who doesn't interact with others and passes the time by knitting
+Dialogue: 0,1:23:20.09,1:23:24.10,常规,,0,0,0,,いつも一人で編み物をして過ごしている子がいる、って…\Nall by herself in a ｛little house｝ in the highlands.
+Dialogue: 0,1:23:30.63,1:23:33.26,常规,,0,0,0,,いつも一人で、寂しくないかなぁ。\NIsn't she ever lonely?
+Dialogue: 0,1:23:33.26,1:23:38.59,常规,,0,0,0,,でも、困ったなぁ。このままやと、サバンナガールズの歌える歌、ゼロのまんまやで。\NBut still, ｛｝. ｛｝, we still don't have a song to sing.
+Dialogue: 0,1:23:38.59,1:23:42.11,常规,,0,0,0,,ヒツジになんとかお願いして、曲を使わせてもらえないかなぁ。\NI wonder if we could somehow request Sheep to let us use the song.
+Dialogue: 0,1:23:42.11,1:23:44.11,常规,,0,0,0,,でも随分頑だったからね。\NBut she was quite stubborn.
+Dialogue: 0,1:23:44.11,1:23:51.25,常规,,0,0,0,,ああ！私、もしかしたらそのヒツジさん、知ってるかもしれないです。\NAh! I think I might know Sheep-san.
+Dialogue: 0,1:23:51.90,1:23:52.66,常规,,0,0,0,,え？\NHuh?
+Dialogue: 0,1:23:52.99,1:23:59.90,常规,,0,0,0,,そのヒツジさん、多分PPPのファンです。PPPのライブでお見かけした事があります。\NSheep-san is probably a PPP fan. I've seen her at concerts before.
+Dialogue: 0,1:24:00.52,1:24:06.03,常规,,0,0,0,,だから、PPPの皆さんなら、そのヒツジさんの事を説得できるかもしれないです！\NSo maybe the PPP girls can persuade Sheep-san to let us use the song!
+Dialogue: 0,1:24:06.41,1:24:15.40,常规,,0,0,0,,｛｝\N｛太阳战队火神豹 豹之银河猎豹腿 出击｝
+Dialogue: 0,1:24:18.76,1:24:23.81,常规,,0,0,0,,そして、その夜、私達の所に、チーターに乗ったタヌキが慌てた様子でやってきました。\NAnd so, that night, Tanuki, riding on Cheetah and looking ｛flustered｝, came to us.
+Dialogue: 0,1:24:25.24,1:24:26.30,常规,,0,0,0,,タヌキちゃん。\NTanuki-chan.
+Dialogue: 0,1:24:26.30,1:24:28.90,常规,,0,0,0,,プリンセスさん！お力を貸してください！\NPrincess-san! Please lend us your ｛support｝!
+Dialogue: 0,1:24:29.18,1:24:34.94,常规,,0,0,0,,そこで私は、サバンナガールズのみんなが困っている事と、高原に住むヒツジの事を聞きました。\NAnd there, I ｛was told｝ of the Savanna Girls' troubles and of Sheep.
+Dialogue: 0,1:24:35.64,1:24:39.84,常规,,0,0,0,,間違いないわ。そのヒツジちゃんは、私達のファンの一人だと思う。\NThere is no mistaking it. Sheep-chan is probably one of our fans.
+Dialogue: 0,1:24:39.84,1:24:43.07,常规,,0,0,0,,この前も、この合宿所に来てたんじゃないかな。\NDidn't she come to this ｛｝ before too?
+Dialogue: 0,1:24:43.07,1:24:48.17,常规,,0,0,0,,じゃあ、プリンセスさんから彼女にお話をしてもらったり、なんて事は…\NThen, Princess-san, could you perhaps talk to her for us…?
+Dialogue: 0,1:24:48.17,1:24:53.84,常规,,0,0,0,,まかせて！サバンナガールズのみんなに助けてもらったお礼がしたいから、力になれるよう、頑張る！\NLeave it to me! I want to return the favor to the Savanna Girls; I will do my best to be of assistance!
+Dialogue: 0,1:24:54.21,1:24:55.60,常规,,0,0,0,,お願いします！\N｛Please do!｝
+Dialogue: 0,1:24:56.88,1:25:01.22,常规,,0,0,0,,そしてそれから、私達がいつものようにリハーサルをしていると、\NAnd ｛after that｝, as we were rehearsing as normal,
+Dialogue: 0,1:25:01.22,1:25:03.22,常规,,0,0,0,,1·2 papapipupepebupapopapapepapu
+Dialogue: 0,1:25:07.50,1:25:09.66,常规,,0,0,0,,間違いない。あの子ね。\NThere's no mistaking it. It's her.
+Dialogue: 0,1:25:11.04,1:25:14.19,常规,,0,0,0,,はい！じゃあ、今日はここまで！今日は以上よ！\NOK! Let's leave it at that! That's all for today!
+Dialogue: 0,1:25:14.19,1:25:16.19,常规,,0,0,0,,お疲れ様でした！\N｛｝!
+Dialogue: 0,1:25:16.19,1:25:18.39,常规,,0,0,0,,よーし！部屋に戻るぜ！\NAlright, I'm going back to my room!
+Dialogue: 0,1:25:18.39,1:25:20.39,常规,,0,0,0,,部屋に戻って、ダンスの練習をしましょう！\NLet's return to our rooms and practice dancing ｛some more｜｝!
+Dialogue: 0,1:25:20.39,1:25:23.39,常规,,0,0,0,,えぇ、それより部屋に戻って怖い話したい。\NAww, I'd rather return and tell scary stories.
+Dialogue: 0,1:25:23.39,1:25:26.39,常规,,0,0,0,,いーや！部屋に戻ってプロレス｛｝｛するんだ｝！\N｛不要 回到房间之后来玩职业摔跤吧｝
+Dialogue: 0,1:25:26.39,1:25:30.32,注释,,0,0,0,,Rain Maker：一个摔角动作的名称，取自美国同名电影。\N这部电影的标题的意思是“如果把钱比作雨的话，律师的收入就好比下大雨一样吧，\N所谓的‘造雨人’就是来人工降下这比钞票雨的人”。\N所以这个摔角动作叫这个名字的寓意就是这个动作可以引起观众的欢呼和轰动，观众开心了就有钱赚了。\N日本有个有名的摔跤选手冈田和睦的外号就叫“Rain Maker"这个摔角动作正是他原创，\N也有叫"让天上下钱雨的男人"
+Dialogue: 0,1:25:26.39,1:25:30.32,常规,,0,0,0,,Rain Maker! ジャパリコインの雨が降るぜ！\NRain Maker! A rain of Japari Coins shall fall!
+Dialogue: 0,1:25:30.32,1:25:31.51,常规,,0,0,0,,何あれ？\NWhat's that?
+Dialogue: 0,1:25:31.68,1:25:33.34,常规,,0,0,0,,特になし。\NAh, nothing.
+Dialogue: 0,1:25:37.97,1:25:40.68,常规,,0,0,0,,あれ。プリンセスは戻らないのか？\NHuh? Aren't you going back too?
+Dialogue: 0,1:25:40.68,1:25:43.47,常规,,0,0,0,,ん。私が新曲を選ばないといけないから。\NNope. I must choose the new song.
+Dialogue: 0,1:25:43.47,1:25:45.47,常规,,0,0,0,,そうか。お疲れ様。\NI see. ｛｝.
+Dialogue: 0,1:25:49.38,1:25:50.45,常规,,0,0,0,,こんばんは！\NGood evening!
+Dialogue: 0,1:25:51.70,1:25:53.70,常规,,0,0,0,,あなたも一緒に選んでくれる？\NCould you help choose along with me?
+Dialogue: 0,1:25:54.86,1:25:57.81,常规,,0,0,0,,あなた、よく来てくれるファンの子よね？\NYou're one of our fans who visits often, right?
+Dialogue: 0,1:25:58.46,1:26:00.86,常规,,0,0,0,,はい。ヒツジです。///\NYes. I'm Sheep.
+Dialogue: 0,1:26:01.60,1:26:05.45,常规,,0,0,0,,記念祭で歌う新曲、選んでる｛の｜｝最中なんだけど…\NI'm in the middle of choosing the new song we're going to sing at the anniversary celebration.
+Dialogue: 0,1:26:06.50,1:26:11.07,常规,,0,0,0,,そんな大事な曲を、プリンセスさんと一緒に選ばれるなんて…！\NMe, choose such an important song with Princess-san!?
+Dialogue: 0,1:26:11.59,1:26:14.39,常规,,0,0,0,,夢のようです！\NIt's like a dream ｛come true｜｝!
+Dialogue: 0,1:26:14.56,1:26:16.56,常规,,0,0,0,,この中から｛選ぶ｝んだけど…\NThese are the options.
+Dialogue: 0,1:26:17.23,1:26:18.53,常规,,0,0,0,,何ですか？それ。\NWhat are those?
+Dialogue: 0,1:26:20.70,1:26:25.90,常规,,0,0,0,,うわぁ、すごい。これ、全部曲が入ってるんですね！\NWow, amazing. They all have songs in them!
+Dialogue: 0,1:26:26.94,1:26:32.24,常规,,0,0,0,,これ全部、サバンナのみんながくれたの。\NThe girls from the Savanna gave them to us.
+Dialogue: 0,1:26:33.84,1:26:35.64,常规,,0,0,0,,ライバルなのに変だよね。\NIt's funny; they're supposed to be our rivals.
+Dialogue: 0,1:26:36.01,1:26:41.31,常规,,0,0,0,,でも、サバンナガールズのみんながそういう所が私は大好き。\NBut that's what I like about them.
+Dialogue: 0,1:26:41.82,1:26:46.78,常规,,0,0,0,,だって、パークの私達はみんな、仲間だもんね！\NAfter all, everyone in the Park, we're all friends!
+Dialogue: 0,1:26:47.70,1:26:50.26,常规,,0,0,0,,そうですね。\NI-indeed.
+Dialogue: 0,1:26:50.26,1:26:56.73,常规,,0,0,0,,だからお願い。あなたの家の近くで流れているっていう曲、独り占めしないで、\NSo, I beg you: don't keep the song that's playing by your place all to yourself.
+Dialogue: 0,1:26:56.73,1:26:59.90,常规,,0,0,0,,サバンナガールズのみんなにも歌わせてあげてほしいの！\NI want you to let the Savanna Girls sing it!
+Dialogue: 0,1:27:08.81,1:27:15.03,常规,,0,0,0,,あの曲は、私にとって、とっても、とっっても大事な曲なんです。\NIt is a song that is very, very, very important to me.
+Dialogue: 0,1:27:17.16,1:27:22.27,常规,,0,0,0,,でも、プリンセスさんがそこまでおっしゃるんなら…\NBut, if Princess-san ｛says so｝…
+Dialogue: 0,1:27:23.64,1:27:24.27,常规,,0,0,0,,はい！\NI will!
+Dialogue: 0,1:27:24.27,1:27:27.81,常规,,0,0,0,,ありがとう！よかった！\NThank you so much! ｛｝!
+Dialogue: 0,1:27:27.81,1:27:29.81,常规,,0,0,0,,こちらこそありがとうございます！\NNo, thank you!
+Dialogue: 0,1:27:30.21,1:27:32.13,常规,,0,0,0,,じゃあ、一緒に曲を探そう！\NNow, let's look for a song!
+Dialogue: 0,1:27:47.58,1:27:52.12,常规,,0,0,0,,でも知らなかったなぁ。高原にそんないい曲が流れる場所があるなんて…\NBut I had no idea that there was a place in the Highlands that played such a fantastic song…
+Dialogue: 0,1:27:52.64,1:27:56.54,常规,,0,0,0,,曲だけじゃないんです。なんか、知らない声が流れて…\NIt's not only a song. There's, like, some voice, too…
+Dialogue: 0,1:27:56.76,1:27:59.74,常规,,0,0,0,,その声がなんかとってもやさしくて、\NIt's very ｛gentle｝,
+Dialogue: 0,1:27:59.80,1:28:01.22,常规,,0,0,0,,すっごくいい声で…\Nvery nice…
+Dialogue: 0,1:28:02.04,1:28:04.86,常规,,0,0,0,,どんな声なんだろう？聞いてみたいなぁ。\NWhat does it sound like? I wish I could hear it too.
+Dialogue: 0,1:28:07.30,1:28:10.40,常规,,0,0,0,,じゃあ、次はこの中からあなたが選んで！\NAlright, next, you choose one out of these!
+Dialogue: 0,1:28:13.76,1:28:14.90,常规,,0,0,0,,｛｝\NUhm…
+Dialogue: 0,1:28:17.42,1:28:18.00,常规,,0,0,0,,これ！\NThis one!
+Dialogue: 0,1:28:19.96,1:28:22.79,常规,,0,0,0,,私、ついに発見したの！\NI've finally figured it out!
+Dialogue: 0,1:28:23.64,1:28:27.78,常规,,0,0,0,,こうやって…入れるのよ！\NYou put it in… like this!
+Dialogue: 0,1:28:34.96,1:28:36.62,常规,,0,0,0,,さて、始まりました。\NNow, ｛let us start｝.
+Dialogue: 0,1:28:36.70,1:28:38.37,常规,,0,0,0,,こちら、ジャパリパークラジオ。\NThis is the Japari Park Radio Station.
+Dialogue: 0,1:28:38.72,1:28:40.04,常规,,0,0,0,,この声です！\NIt's this voice!
+Dialogue: 0,1:28:40.26,1:28:44.14,常规,,0,0,0,,この子の声が、高原にいると聞こえてくるんです！\NThis girl's voice can be heard in the Highlands!
+Dialogue: 0,1:28:44.88,1:28:47.82,常规,,0,0,0,,大丈夫！みんながいるから！\NIt's alright! You've got us here too!
+Dialogue: 0,1:28:48.74,1:28:49.88,常规,,0,0,0,,誰の声なんだろう…\NI wonder, whose voice is it?
+Dialogue: 0,1:28:49.90,1:28:53.22,常规,,0,0,0,,では、まずは私達の歌でお楽しみください！\NNow, first, please enjoy our song!
+Dialogue: 0,1:28:57.12,1:29:01.66,开场OP,,0,0,0,,welcome to 欢迎来到加帕里公园
+Dialogue: 0,1:28:59.40,1:29:00.32,常规,,0,0,0,,歌い出した！\NIt ｛sang｜started singing｝!
+Dialogue: 0,1:29:01.90,1:29:08.26,开场OP,,0,0,0,,今天也要啪嗒砰哒的大闹一场
+Dialogue: 0,1:29:06.50,1:29:07.94,常规,,0,0,0,,素敵な歌声ね。\N真是美妙的歌声呢
+Dialogue: 0,1:29:09.18,1:29:22.34,开场OP,,0,0,0,,模样可是十人十色 所以才会各有魅力
+Dialogue: 0,1:29:17.10,1:29:21.40,常规,,0,0,0,,ねぇ、この声が誰の声なのか、博物館で調べてもらわない？\NHey, ｛|will you let me｜let's｝ investigate whose voice it is at the Museum｛?｜!｝
+Dialogue: 0,1:29:31.58,1:29:33.82,常规,,0,0,0,,サバンナガールズの｛一員｝になって…\NBecoming a member of the Savanna Girls,
+Dialogue: 0,1:29:33.82,1:29:35.56,常规,,0,0,0,,ふとこんな事を思った。\Nsuddenly I wondered.
+Dialogue: 0,1:29:36.78,1:29:39.72,常规,,0,0,0,,そもそも、アイドルって、何だろう？\NWhat is an idol anyway?
+Dialogue: 0,1:29:40.54,1:29:44.96,常规,,0,0,0,,みんなの前で、かわいい格好で歌って…\NLooking cute and singing in from of everyone….
+Dialogue: 0,1:29:45.36,1:29:46.96,常规,,0,0,0,,なんだ？それ。\NWhat's that?
+Dialogue: 0,1:29:48.30,1:29:49.92,常规,,0,0,0,,こんな楽しい事を、\NExactly who first thought up
+Dialogue: 0,1:29:49.92,1:29:52.72,常规,,0,0,0,,一体誰が最初に考えたんだろう。\Nsomething so fun?
+Dialogue: 0,1:29:53.80,1:29:56.22,常规,,0,0,0,,こんな楽しいを考えたこと｛の｜｜を｝、\NWhoever thought this up,
+Dialogue: 0,1:29:56.72,1:29:58.74,常规,,0,0,0,,私はお友達になりたい…！\NI want to be their friend…!
+Dialogue: 0,1:30:03.82,1:30:04.18,常规,,0,0,0,,これ、\NThis
+Dialogue: 0,1:30:05.27,1:30:07.52,常规,,0,0,0,,もしかしたら、人の声かもしれない。\Nmight be the voice of a human.
+Dialogue: 0,1:30:08.14,1:30:08.82,常规,,0,0,0,,人？\NHuman?
+Dialogue: 0,1:30:09.56,1:30:12.14,常规,,0,0,0,,シロナガスクジラさんに聞いた事がある。\NI've heard of them from Mother:
+Dialogue: 0,1:30:12.16,1:30:16.24,常规,,0,0,0,,昔、このパークに、「人」という動物がいた、って…\Nthat there used to be animals called "humans" in this park…
+Dialogue: 0,1:30:16.68,1:30:19.80,常规,,0,0,0,,じゃ、もしかして、お日様システムも、\NIf that's the case, maybe the ones who created the solar system
+Dialogue: 0,1:30:19.80,1:30:22.64,常规,,0,0,0,,この音の出る箱も作ったのは…\Nand the box that makes noise…
+Dialogue: 0,1:30:23.92,1:30:26.58,常规,,0,0,0,,人…なのかもしれないね。\Nmight possibly be humans.
+Dialogue: 0,1:30:26.70,1:30:28.92,常规,,0,0,0,,へぇ…すっごいね！\NAmazing!
+Dialogue: 0,1:30:29.02,1:30:32.34,常规,,0,0,0,,でもこの歌声、やさしくて、まっすぐで、\NThis ｛voice｜singing voice｝, so gentle and ｛｝;
+Dialogue: 0,1:30:32.38,1:30:34.04,常规,,0,0,0,,とっても素敵だよね！\NI like it a lot!
+Dialogue: 0,1:30:35.20,1:30:43.38,常规,,0,0,0,,私、もっと人の事を知りたいなぁ…もっと、この声、聴いてたいなぁ。\NI want to know more about humans; more about this voice.
+Dialogue: 0,1:30:44.46,1:30:47.62,常规,,0,0,0,,さて、お聞きいただいてますのはジャパリパークラジオ。\N｛｝, you are currently listening to the Japari Park Radio Station.
+Dialogue: 0,1:30:48.26,1:30:51.30,常规,,0,0,0,,そう、そう、今日はパークの開園記念日でしたが、\NAh, that's right; today is the Park's ｛opening｝ anniversary.
+Dialogue: 0,1:30:51.92,1:30:54.86,常规,,0,0,0,,実は、そこで、重大発表がありました。\NActually, we ｛have｜had｝ a very important announcement to make.
+Dialogue: 0,1:30:55.72,1:30:59.94,常规,,0,0,0,,なんと、私達、ジャパリパークの｛新米｝飼育員の四人は、\NIt seems like we, Japari Park's ｛new｝ ｛｝, the four of us,
+Dialogue: 0,1:31:00.10,1:31:04.66,常规,,0,0,0,,これから、パークのアイドルとしても、活動していく事になりました！\Nwill also be the Park's idols starting today!
+Dialogue: 0,1:31:05.30,1:31:06.78,常规,,0,0,0,,いぇーい！\NYay!
+Dialogue: 0,1:31:07.42,1:31:09.94,常规,,0,0,0,,今の声の感じがウキウキしてて、\NShe sounds so ｛excited｝;
+Dialogue: 0,1:31:09.98,1:31:11.48,常规,,0,0,0,,楽しそうだよね！\Nit sounds so fun!
+Dialogue: 0,1:31:12.34,1:31:14.22,常规,,0,0,0,,その時、私は思ってた。\NIt was then that I thought:
+Dialogue: 0,1:31:15.18,1:31:17.14,常规,,0,0,0,,きっと、この子達もアイドル｛なんだ｝。\Nthose girls are definitely idols as well.
+Dialogue: 0,1:31:18.12,1:31:18.96,常规,,0,0,0,,私達も、\NAnd we
+Dialogue: 0,1:31:19.44,1:31:21.70,常规,,0,0,0,,この子達みたいなアイドルになりたい！\Nwant to be idols, just like them!
+Dialogue: 0,1:31:27.18,1:31:32.30,常规,,0,0,0,,さて、ではここでまた、私達の歌でお楽しみいただきましょう！\N｛｝, please enjoy our song once again!
+Dialogue: 0,1:31:32.74,1:31:36.58,常规,,0,0,0,,パークの飼育員の私達が、大切な友達、\NWe, the park's ｛｝s, made this song ｛｝ing of
+Dialogue: 0,1:31:36.70,1:31:40.02,常规,,0,0,0,,フレンズ達の気持ちを想像しながら作った曲です。\Nthe feelings of our friends and Friends, who are important to us.
+Dialogue: 0,1:31:40.90,1:31:42.02,常规,,0,0,0,,「けもの道」。\N"Kemono Road".
+Dialogue: 0,1:31:53.54,1:32:06.70,动物之道回忆版,,0,0,0,,孤零零一个人 站在山坡上 太阳……
+Dialogue: 0,1:32:00.70,1:32:02.08,常规,,0,0,0,,このメロディーです！\NThis is the tune!
+Dialogue: 0,1:32:02.82,1:32:06.32,常规,,0,0,0,,いつも高原にいると、夕方にこのメロディーが流れるんです！\N｛｝ in the evening, this is the tune that plays!
+Dialogue: 0,1:32:10.56,1:32:11.50,常规,,0,0,0,,本当だ。\NYou're right.
+Dialogue: 0,1:32:12.20,1:32:13.32,常规,,0,0,0,,この歌だね。\NThis is it.
+Dialogue: 0,1:32:14.84,1:32:17.12,常规,,0,0,0,,この歌、いい歌だね！\NIt's a great song!
+Dialogue: 0,1:32:23.04,1:32:26.60,常规,,0,0,0,,｛｝\N｛(轰隆  轰隆 )｝
+Dialogue: 0,1:32:26.64,1:32:27.64,常规,,0,0,0,,何？\NWhat was that?
+Dialogue: 0,1:32:28.70,1:32:29.50,常规,,0,0,0,,これは…\NIt…
+Dialogue: 0,1:32:30.10,1:32:31.06,常规,,0,0,0,,もしかして…！\NCan it be…?
+Dialogue: 0,1:32:31.54,1:32:32.42,常规,,0,0,0,,皆さん！\NEveryone!
+Dialogue: 0,1:32:32.42,1:32:33.30,常规,,0,0,0,,セルリアンです！\NThere are Ceruleans!
+Dialogue: 0,1:32:33.30,1:32:34.36,常规,,0,0,0,,逃げてください！\NRun!
+Dialogue: 0,1:32:35.72,1:32:36.36,常规,,0,0,0,,さあ！\N｛Now!｝
+Dialogue: 0,1:32:55.86,1:32:56.56,常规,,0,0,0,,プリンセス！\NPrincess!
+Dialogue: 0,1:32:56.58,1:32:58.26,常规,,0,0,0,,私達はいいから逃げて！\NDon't mind me; run!
+Dialogue: 0,1:32:58.28,1:32:59.24,常规,,0,0,0,,逃げない｛で｝\N｛我逃不掉啊｝
+Dialogue: 0,1:32:59.30,1:33:00.26,常规,,0,0,0,,｛させるかぁ｝！\N｛休想得逞｝
+Dialogue: 0,1:33:08.60,1:33:09.46,常规,,0,0,0,,｛｝\N｛嗬啊——｝
+Dialogue: 0,1:33:17.32,1:33:18.84,常规,,0,0,0,,サーバルさん…！\NSaber-san…!
+Dialogue: 0,1:33:19.18,1:33:20.26,常规,,0,0,0,,みんな逃げて！\NRun! All of you!
+Dialogue: 0,1:33:20.48,1:33:21.56,常规,,0,0,0,,うわぁ！\NAah!
+Dialogue: 0,1:33:29.22,1:33:31.16,常规,,0,0,0,,止めてー！\NStop it!
+Dialogue: 0,1:33:33.00,1:33:34.76,常规,,0,0,0,,おい、許さないんだから！\NOi, I won't allow this!
+Dialogue: 0,1:33:36.14,1:33:37.10,常规,,0,0,0,,みんな行くよ！\NLet's go!
+Dialogue: 0,1:33:38.30,1:33:39.78,常规,,0,0,0,,野生開放！\NWild Release!
+Dialogue: 0,1:33:42.48,1:33:44.58,开场OP,,0,0,0,,welcome to 欢迎来到加帕里公园
+Dialogue: 0,1:33:44.62,1:33:48.26,开场OP,,0,0,0,,今天也要啪嗒砰哒地大闹一场
+Dialogue: 0,1:33:52.28,1:33:53.04,常规,,0,0,0,,呜—
+Dialogue: 0,1:33:53.04,1:33:54.06,常规,,0,0,0,,嘎哦
+Dialogue: 0,1:34:11.06,1:34:12.82,常规,,0,0,0,,どうやって倒せばいいの？\NHow do we defeat them?
+Dialogue: 0,1:34:12.86,1:34:14.72,常规,,0,0,0,,大量の水をかけるんです！\NDrench them in large amounts of water!
+Dialogue: 0,1:34:15.10,1:34:16.02,常规,,0,0,0,,水！？\NWater!?
+Dialogue: 0,1:34:16.08,1:34:16.86,常规,,0,0,0,,はい。\NYes.
+Dialogue: 0,1:34:17.92,1:34:19.22,常规,,0,0,0,,お待たせ！\NSorry for making you all wait!
+Dialogue: 0,1:34:19.90,1:34:21.32,常规,,0,0,0,,お母さん！\NMother!
+Dialogue: 0,1:34:21.32,1:34:24.02,常规,,0,0,0,,マンモスちゃん、記念祭まで待ちきれないわ。\NMammoth-chan, I cannot wait until the anniversary celebration.
+Dialogue: 0,1:34:24.08,1:34:25.60,常规,,0,0,0,,ここであなたと勝負よ！\NLet's settle things right now!
+Dialogue: 0,1:34:25.78,1:34:28.44,常规,,0,0,0,,(´Д｀)ﾊｧ？急に何をおっしゃってるんですか！？\NHuh? ｛What are you saying all of a sudden?｝
+Dialogue: 0,1:34:28.50,1:34:32.40,常规,,0,0,0,,題して「シロナガスクジラとマンモスの水鉄砲対決！」\N｛主题就是 蓝鲸与猛犸象的 洒水大对决｝
+Dialogue: 0,1:34:32.44,1:34:37.90,常规,,0,0,0,,私の頭の上から出す潮水と、あなたのそんな長ーい鼻で吐き出す鼻水！\NThe ｛｝ from the top of my head, and the ｛｝ from your long nose!
+Dialogue: 0,1:34:37.90,1:34:41.10,常规,,0,0,0,,よりセルリアンにダメージを与えた方が勝ち！\NThe one who deals the most damage to the Ceruleans is the winner!
+Dialogue: 0,1:34:41.10,1:34:41.78,常规,,0,0,0,,いい？\NAgree?
+Dialogue: 0,1:34:42.68,1:34:45.06,常规,,0,0,0,,その勝負、受けて｛立ちます｝！\NI accept!
+Dialogue: 0,1:34:46.68,1:34:48.78,常规,,0,0,0,,レディー…\NReady…
+Dialogue: 0,1:34:48.86,1:34:56.76,常规,,0,0,0,,｛｝\N｛加油加油加油加油｝
+Dialogue: 0,1:34:56.80,1:35:02.92,常规,,0,0,0,,ゴーー！！\NGo!!
+Dialogue: 0,1:34:59.02,1:35:03.26,开场OP,,0,0,0,,啦啦啦啦 啦啦啦啦 啦啦  welcome to the 加帕里公园
+Dialogue: 0,1:35:03.28,1:35:08.88,开场OP,,0,0,0,,啦啦啦啦 啦啦啦啦 啦啦  朋友们聚集在一起
+Dialogue: 0,1:35:09.40,1:35:12.68,常规,,0,0,0,,みゃー！！\NMya!!
+Dialogue: 0,1:35:13.92,1:35:19.92,开场OP,,0,0,0,,啦啦啦啦 啦啦啦啦 啦啦  多么美妙的旅行
+Dialogue: 0,1:35:19.96,1:35:22.90,开场OP,,0,0,0,,欢迎来到加帕里公园
+Dialogue: 0,1:35:25.46,1:35:29.32,常规,,0,0,0,,やったーー！！\NWe did it!
+Dialogue: 0,1:35:31.12,1:35:32.98,常规,,0,0,0,,皆さんのご協力ありがとうございます！\NThank you all for your assistance!
+Dialogue: 0,1:35:32.98,1:35:35.38,常规,,0,0,0,,おかげでパークに平和が戻りました！\NWith your help, the Park is at peace once again!
+Dialogue: 0,1:35:36.56,1:35:37.52,常规,,0,0,0,,悔しいけれど\NIt's a bit ｛｝,
+Dialogue: 0,1:35:37.58,1:35:39.54,常规,,0,0,0,,今回の勝負も引き分けね。\Nbut I guess it's a draw again.
+Dialogue: 0,1:35:39.84,1:35:42.46,常规,,0,0,0,,さすがの潮水パワーでした、お母さん。\NYour ｛｝ power was ｛｝, Mother.
+Dialogue: 0,1:35:42.98,1:35:45.48,常规,,0,0,0,,それでは皆さん、また。記念祭で！\NWell, see you all next time! Until the celebration!
+Dialogue: 0,1:35:49.32,1:35:51.42,常规,,0,0,0,,みんなが無事で何よりだよね！\N｛｝ that everyone is alright!
+Dialogue: 0,1:35:51.90,1:35:54.78,常规,,0,0,0,,高原にあった高い奴は、壊されちゃったけど。\NAlthough the tall thing from the highlands broke.
+Dialogue: 0,1:35:58.68,1:36:01.06,常规,,0,0,0,,でも、あの音の出る箱があれば…！\N\NBut if we have the box that makes sound…！
+Dialogue: 0,1:36:02.20,1:36:02.82,常规,,0,0,0,,ない！\NIt's not here!
+Dialogue: 0,1:36:02.86,1:36:04.94,常规,,0,0,0,,あの箱がどっか行っちゃった…！\NThe box disappeared somewhere!
+Dialogue: 0,1:36:05.92,1:36:07.98,常规,,0,0,0,,｛｝なのだ！\N｛在这儿呐喏哒｝
+Dialogue: 0,1:36:10.12,1:36:11.52,常规,,0,0,0,,ちゃんと守ってたよ。\NWe made sure to protect it.
+Dialogue: 0,1:36:11.82,1:36:13.52,常规,,0,0,0,,よかったー！\NOh, thank goodness!
+Dialogue: 0,1:36:13.52,1:36:17.66,常规,,0,0,0,,アライさんは、大事な物は大事にするのだ！\NArai-san treats important things accordingly!
+Dialogue: 0,1:36:17.90,1:36:18.78,常规,,0,0,0,,うん、そうだね。\NMm-hmm.
+Dialogue: 0,1:36:19.08,1:36:19.74,常规,,0,0,0,,ふふーん。\N｛哼哼｝
+Dialogue: 0,1:36:24.46,1:36:25.98,常规,,0,0,0,,あ…！\NAh!
+Dialogue: 0,1:36:31.96,1:36:35.56,常规,,0,0,0,,さっき結構水｛被っちゃった｝からかなぁ…？\NIs it because it got covered in so much water just now?
+Dialogue: 0,1:36:36.56,1:36:39.90,常规,,0,0,0,,もうこの曲聞けなくなっちゃうのかな？\NDoes that mean we won't be able to hear that song again?
+Dialogue: 0,1:36:40.82,1:36:41.84,常规,,0,0,0,,どうしよう？\NWhat do we do?
+Dialogue: 0,1:36:44.90,1:36:45.54,常规,,0,0,0,,よし！\NI've got it!
+Dialogue: 0,1:36:46.76,1:36:48.36,常规,,0,0,0,,みんなで｛｝！｛大家一起来传唱吧｝
+Dialogue: 0,1:36:49.48,1:36:50.36,常规,,0,0,0,,え？\NHuh?
+Dialogue: 0,1:36:51.30,1:36:53.38,常规,,0,0,0,,このフレンズが作った素敵なこの歌、\NThe fantastic song this Friend wrote;
+Dialogue: 0,1:36:54.22,1:36:55.48,常规,,0,0,0,,いつまでも忘れないように\Nso that it may never be forgotten,
+Dialogue: 0,1:36:56.44,1:36:57.76,常规,,0,0,0,,私達が歌って、\Nwe'll sing it,
+Dialogue: 0,1:36:58.24,1:37:00.24,常规,,0,0,0,,パークのみんなに伝えていこう！\Nand ｛pass it on to｝ everyone in the Park!
+Dialogue: 0,1:37:01.52,1:37:02.32,常规,,0,0,0,,うん！\NYeah!
+Dialogue: 0,1:37:09.50,1:37:12.26,动物之道回忆版,,0,0,0,,孤零零的一个人
+Dialogue: 0,1:37:13.36,1:37:16.96,动物之道回忆版,,0,0,0,,站在山坡上
+Dialogue: 0,1:37:17.08,1:37:19.68,动物之道回忆版,,0,0,0,,晒着太阳
+Dialogue: 0,1:37:20.08,1:37:25.40,动物之道回忆版,,0,0,0,,望着云彩发着呆
+Dialogue: 0,1:37:28.64,1:37:31.78,动物之道回忆版,,0,0,0,,一直都是一个人
+Dialogue: 0,1:37:32.04,1:37:35.64,动物之道回忆版,,0,0,0,,有点寂寞呢
+Dialogue: 0,1:37:35.74,1:37:38.38,动物之道回忆版,,0,0,0,,摸索着前进吧
+Dialogue: 0,1:37:38.38,1:37:40.58,动物之道回忆版,,0,0,0,,这条道路
+Dialogue: 0,1:37:40.58,1:37:44.56,动物之道回忆版,,0,0,0,,就是动物之道
+Dialogue: 0,1:37:44.58,1:37:47.86,动物之道回忆版,,0,0,0,,跨出自己的地盘向前奔跑吧
+Dialogue: 0,1:37:47.98,1:37:52.14,动物之道回忆版,,0,0,0,,向着山的那一侧
+Dialogue: 0,1:37:52.72,1:37:55.90,动物之道回忆版,,0,0,0,,跨出自己的地盘向前奔跑吧
+Dialogue: 0,1:37:55.92,1:37:59.56,动物之道回忆版,,0,0,0,,那样就能听见啦
+Dialogue: 0,1:38:00.02,1:38:02.44,动物之道回忆版,,0,0,0,,动物们的声音
+Dialogue: 0,1:38:02.44,1:38:06.66,动物之道回忆版,,0,0,0,,在心中回响
+Dialogue: 0,1:38:08.00,1:38:10.14,动物之道回忆版,,0,0,0,,请多多关照哟
+Dialogue: 0,1:38:10.66,1:38:14.54,动物之道回忆版,,0,0,0,,挂满笑容的面庞
+Dialogue: 0,1:38:16.00,1:38:18.42,动物之道回忆版,,0,0,0,,想要大声呼喊
+Dialogue: 0,1:38:18.64,1:38:23.16,动物之道回忆版,,0,0,0,,嘎哦嘎哦嘎哦
+Dialogue: 0,1:38:24.68,1:38:26.86,常规,,0,0,0,,嘎哦——
+Dialogue: 0,1:38:34.98,1:38:37.52,常规,,0,0,0,,そして、記念祭の日がやってきました。\NAnd so, the day of the anniversary celebration finally arrived.
+Dialogue: 0,1:38:37.90,1:38:38.48,常规,,0,0,0,,そう。\NThat's right.
+Dialogue: 0,1:38:38.90,1:38:40.12,常规,,0,0,0,,この日は待ちに待った、\NThis is the long-awaited day of
+Dialogue: 0,1:38:40.46,1:38:42.56,常规,,0,0,0,,サバンナガールズのデビューの日…！\Nthe Savanna Girls' debut!
+Dialogue: 0,1:38:44.52,1:38:47.14,常规,,0,0,0,,手編み｛な｜の｝衣装を徹夜して作ったから、\NI was up all night knitting costumes by hand;
+Dialogue: 0,1:38:48.34,1:38:49.00,常规,,0,0,0,,これ！\Nhere!
+Dialogue: 0,1:38:49.84,1:38:52.56,常规,,0,0,0,,うわぁ！かわいい！\NWow! So adorable!
+Dialogue: 0,1:38:53.00,1:38:54.60,常规,,0,0,0,,すっごーい！\NAmazing!
+Dialogue: 0,1:38:54.60,1:38:56.08,常规,,0,0,0,,ありがとう！ヒツジ！\NThank you, Sheep!
+Dialogue: 0,1:39:06.62,1:39:09.38,常规,,0,0,0,,これで、かわいい衣装は完璧だね！\NWith this, your cute dress is perfect!
+Dialogue: 0,1:39:10.70,1:39:12.66,常规,,0,0,0,,サーバルちゃん、オカピちゃん、\NServal-chan, Okapi-chan,
+Dialogue: 0,1:39:12.96,1:39:15.42,常规,,0,0,0,,みんな、頑張ってね！\Nall of you: break a leg!
+Dialogue: 0,1:39:16.80,1:39:18.16,常规,,0,0,0,,うん！\NYes!
