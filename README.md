@@ -21,7 +21,7 @@ My hope is that this can be a general KF translation repository that is not run 
 - [00_youkoso_japaripark_e](https://vacaran2017.github.io/00_youkoso_japaripark_e.html)
 ***
 - [01_12-1_basuteki](https://vacaran2017.github.io/01_12-1_basuteki.ass) [ASS subtitles]
-- [01_12-4_japarimangar](https://vacaran2017.github.io/01_12-4_japarimangari.ass) [ASS subtitles]
+- [01_12-4_japarimangari](https://vacaran2017.github.io/01_12-4_japarimangari.ass) [ASS subtitles]
 - [01_butai](https://vacaran2017.github.io/01_butai.ass) [ASS subtitles] (work in progress; many thanks to [加帕里图书馆](http://www.japari-cn.com/doku.php) for letting me use their subtitle file)
 - [01_keibajou](https://vacaran2017.github.io/01_keibajou.ass) [ASS subtitles]
 - [01_oshiete juuishi-san! mashita-onii-san no sarabureddo kaisetsu](https://vacaran2017.github.io/01_oshiete%20juuishi-san!%20mashita-onii-san%20no%20sarabureddo%20kaisetsu.ass) [ASS subtitles]
