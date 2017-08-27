@@ -18,11 +18,14 @@ My hope is that this can be a general KF translation repository that is not run 
 - [00_kemono_parade](https://vacaran2017.github.io/00_kemono_parade.html)
 - [00_kimi_no_mama_de](https://vacaran2017.github.io/00_kimi_no_mama_de.html)
 - [00_youkoso_japaripark_e](https://vacaran2017.github.io/00_youkoso_japaripark_e.html)
-- [01_12-4_japarimangari.ass](https://vacaran2017.github.io/01_12-4_japarimangari.ass) [ASS subtitles]
-- [01_butai.ass](https://vacaran2017.github.io/01_butai.ass) [ASS subtitles] (work in progress)
+- [01_12-1_basuteki](https://vacaran2017.github.io/01_12-1_basuteki.ass) [ASS subtitles]
+- [01_12-4_japarimangar](https://vacaran2017.github.io/01_12-4_japarimangari.ass) [ASS subtitles]
+- [01_butai](https://vacaran2017.github.io/01_butai.ass) [ASS subtitles] (work in progress; many thanks to [加帕里图书馆](http://www.japari-cn.com/doku.php) for letting me use their subtitle file)
+- [01_keibajou](https://vacaran2017.github.io/01_keibajou.ass) [ASS subtitles]
+- [01_oshiete juuishi-san! mashita-onii-san no sarabureddo kaisetsu](https://vacaran2017.github.io/01_oshiete juuishi-san! mashita-onii-san no sarabureddo kaisetsu.ass) [ASS subtitles]
 - [02_guidebook_01](https://vacaran2017.github.io/02_guidebook_01.html)
 
 ## Notes
 - Pink highlighting means I got stuck, please send help
-  - In the .ass subtitles ```｛｝``` is used instead
+  - In the ASS subtitles, ```｛｝``` is used instead
 - Does [シリーズ]構成 translate to "story", or "[series] composition"
