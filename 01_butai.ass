@@ -15,9 +15,9 @@ Video File: KemoFure_Stageplay_Recording_v2.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 264
-Active Line: 307
-Video Position: 34804
+Scroll Position: 1770
+Active Line: 1791
+Video Position: 202909
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1455,9 +1455,9 @@ Dialogue: 0,1:25:14.19,1:25:16.19,常规,,0,0,0,,お疲れ様でした！\N｛�
 Dialogue: 0,1:25:16.19,1:25:18.39,常规,,0,0,0,,よーし！部屋に戻るぜ！\NAlright, I'm going back to my room!
 Dialogue: 0,1:25:18.39,1:25:20.39,常规,,0,0,0,,部屋に戻って、ダンスの練習をしましょう！\NLet's return to our rooms and practice dancing ｛some more｜｝!
 Dialogue: 0,1:25:20.39,1:25:23.39,常规,,0,0,0,,えぇ、それより部屋に戻って怖い話したい。\NAww, I'd rather return and tell scary stories.
-Dialogue: 0,1:25:23.39,1:25:26.39,常规,,0,0,0,,いーや！部屋に戻ってプロレス｛｝｛するんだ｝！\N｛不要 回到房间之后来玩职业摔跤吧｝
+Dialogue: 0,1:25:23.39,1:25:26.39,常规,,0,0,0,,いーやっ！部屋に戻ってプロレスごっこするんだ！\NNah, we'll go back and pretend to be wrestlers!
 Dialogue: 0,1:25:26.39,1:25:30.32,注释,,0,0,0,,Rain Maker：一个摔角动作的名称，取自美国同名电影。\N这部电影的标题的意思是“如果把钱比作雨的话，律师的收入就好比下大雨一样吧，\N所谓的‘造雨人’就是来人工降下这比钞票雨的人”。\N所以这个摔角动作叫这个名字的寓意就是这个动作可以引起观众的欢呼和轰动，观众开心了就有钱赚了。\N日本有个有名的摔跤选手冈田和睦的外号就叫“Rain Maker"这个摔角动作正是他原创，\N也有叫"让天上下钱雨的男人"
-Dialogue: 0,1:25:26.39,1:25:30.32,常规,,0,0,0,,Rain Maker! ジャパリコインの雨が降るぜ！\NRain Maker! A rain of Japari Coins shall fall!
+Dialogue: 0,1:25:26.39,1:25:30.32,常规,,0,0,0,,Rainmaker! ジャパリコインの雨が降るぜ！\NRainmaker! A rain of Japari Coins shall fall!
 Dialogue: 0,1:25:30.32,1:25:31.51,常规,,0,0,0,,何あれ？\NWhat's that?
 Dialogue: 0,1:25:31.68,1:25:33.34,常规,,0,0,0,,特になし。\NAh, nothing.
 Dialogue: 0,1:25:37.97,1:25:40.68,常规,,0,0,0,,あれ。プリンセスは戻らないのか？\NHuh? Aren't you going back too?
@@ -1661,14 +1661,14 @@ Dialogue: 0,1:39:06.62,1:39:09.38,常规,,0,0,0,,これで、かわいい衣装�
 Dialogue: 0,1:39:10.70,1:39:12.66,常规,,0,0,0,,サーバルちゃん、オカピちゃん、\NServal-chan, Okapi-chan,
 Dialogue: 0,1:39:12.96,1:39:15.42,常规,,0,0,0,,みんな、頑張ってね！\Nall of you: break a leg!
 Dialogue: 0,1:39:16.80,1:39:18.16,常规,,0,0,0,,うん！\NYes!
-Dialogue: 0,1:39:19.86,1:39:21.88,常规,,0,0,0,,皆さん、お待たせいたしました！\N大家久等啦
-Dialogue: 0,1:39:21.94,1:39:24.54,常规,,0,0,0,,それでは、ジャパリパーク記念祭を始めます！\N加帕里公园纪念祭马上就要开始啦
-Dialogue: 0,1:39:24.84,1:39:29.10,常规,,0,0,0,,皆さん、光る棒の準備はできてますか？\N各位 应援棒都准备好了吗
-Dialogue: 0,1:39:29.56,1:39:31.26,常规,,0,0,0,,いぇーい！\NYEAH——
-Dialogue: 0,1:39:31.30,1:39:32.34,常规,,0,0,0,,ありがとうございます！\N谢谢大家
-Dialogue: 0,1:39:32.74,1:39:35.96,常规,,0,0,0,,まずは、私達のデビューライブでお楽しみください！\N首先是我们的开幕表演
-Dialogue: 0,1:39:37.52,1:39:38.40,常规,,0,0,0,,私達…\N我们是
-Dialogue: 0,1:39:39.40,1:39:41.26,常规,,0,0,0,,サバンナガールズ！\N热带稀树草原girls
+Dialogue: 0,1:39:19.86,1:39:21.88,常规,,0,0,0,,皆さん、お待たせいたしました！\NThank you all for waiting!
+Dialogue: 0,1:39:21.94,1:39:24.54,常规,,0,0,0,,それでは、ジャパリパーク記念祭を始めます！\NNow, let us start the Japari Park Anniversary Celebration!
+Dialogue: 0,1:39:24.84,1:39:29.10,常规,,0,0,0,,皆さん、光る棒の準備はできてますか？\NEveryone, do you have your ｛｝ ready?
+Dialogue: 0,1:39:29.56,1:39:31.26,常规,,0,0,0,,いぇーい！\NYeah!
+Dialogue: 0,1:39:31.30,1:39:32.34,常规,,0,0,0,,ありがとうございます！\NThank you!
+Dialogue: 0,1:39:32.74,1:39:35.96,常规,,0,0,0,,まずは、私達のデビューライブでお楽しみください！\NFirst, please enjoy our debut live performance!
+Dialogue: 0,1:39:37.52,1:39:38.40,常规,,0,0,0,,私達…\NWe are…
+Dialogue: 0,1:39:39.40,1:39:41.26,常规,,0,0,0,,サバンナガールズ！\Nthe Savanna Girls!
 Dialogue: 0,1:39:47.28,1:39:50.40,动物之道,,0,0,0,,｛｝\N｛孤零零的一个人｝
 Dialogue: 0,1:39:50.76,1:39:54.26,动物之道,,0,0,0,,｛｝\N｛站在山坡上｝
 Dialogue: 0,1:39:54.26,1:39:57.08,动物之道,,0,0,0,,｛｝\N｛晒着太阳｝
@@ -1712,12 +1712,12 @@ Dialogue: 0,1:42:16.30,1:42:17.88,动物之道,,0,0,0,,｛｝\N｛很漂亮吧�
 Dialogue: 0,1:42:18.34,1:42:21.68,动物之道,,0,0,0,,｛｝\N｛无法忍受了吧｝
 Dialogue: 0,1:42:22.32,1:42:24.26,动物之道,,0,0,0,,｛｝\N｛想要大声呼喊｝
 Dialogue: 0,1:42:24.26,1:42:28.40,动物之道,,0,0,0,,｛｝\N｛嘎哦嘎哦嘎哦｝
-Dialogue: 0,1:42:38.75,1:42:42.44,常规,,0,0,0,,さて、それでは本日のお祭りの主役の登場です！\N那么 接下来有请这次纪念祭的主角登场——
+Dialogue: 0,1:42:38.75,1:42:42.44,常规,,0,0,0,,さて、それでは本日のお祭りの主役の登場です！\NAnd now, let us welcome the stars of today's celebration!
 Dialogue: 0,1:42:43.03,1:42:45.98,常规,,0,0,0,,Penguin Performance Project！\NPenguin Performance Project!
-Dialogue: 0,1:42:50.50,1:42:53.67,常规,,0,0,0,,サバンナガールズのみんな、音の出る箱を届けてくれて、\NSBN girls的大伙儿 帮我们送来了发音箱子的零件
-Dialogue: 0,1:42:54.61,1:42:56.07,常规,,0,0,0,,どうもありがとう！\N谢谢你们
-Dialogue: 0,1:42:56.49,1:43:00.26,常规,,0,0,0,,今日はその箱の中から見つけ出し一曲をやっちゃうわよ！\N今天 就用从那个箱子里找到的新歌 大闹一场吧
-Dialogue: 0,1:43:00.79,1:43:02.66,常规,,0,0,0,,ミュージック・スタート！\N｛｝
+Dialogue: 0,1:42:50.50,1:42:53.67,常规,,0,0,0,,サバンナガールズのみんな、音の出る箱を届けてくれて、\NTo all the Savanna Girls, thank you for
+Dialogue: 0,1:42:54.61,1:42:56.07,常规,,0,0,0,,どうもありがとう！\Ngetting the box that makes sound to us!
+Dialogue: 0,1:42:56.49,1:43:00.26,常规,,0,0,0,,今日はその箱の中から見つけ出し一曲をやっちゃうわよ！\NToday, we'll do one of the songs we found in it!
+Dialogue: 0,1:43:00.79,1:43:02.66,常规,,0,0,0,,ミュージック・スタート！\NStart the music!
 Dialogue: 0,1:43:05.41,1:43:08.47,哆来咪之歌,,0,0,0,,｛｝\N｛PEPAPU的哆来咪之歌 要上了哟｝
 Dialogue: 0,1:43:08.95,1:43:13.91,哆来咪之歌,,0,0,0,,｛｝\N｛YEAH—— 呸哒嘿 呸哒嘿 呸哒嘿 呸哒嘿 呸哒嘿 呸哒嘿｝
 Dialogue: 0,1:43:13.91,1:43:14.91,哆来咪之歌,,0,0,0,,｛｝\N｛pe·pa·pu｝
@@ -1757,17 +1757,17 @@ Dialogue: 0,1:45:26.35,1:45:28.87,哆来咪之歌,,0,0,0,,｛｝\N｛五人一�
 Dialogue: 0,1:45:28.87,1:45:31.14,哆来咪之歌,,0,0,0,,｛｝\N｛pepa pepa pepa 好可爱｝
 Dialogue: 0,1:45:31.64,1:45:42.95,哆来咪之歌,,0,0,0,,｛｝\N｛呸哒嘿 呸哒嘿 呸哒嘿 呸哒嘿 呸哒嘿 呸哒嘿｝
 Dialogue: 0,1:45:42.95,1:45:43.93,哆来咪之歌,,0,0,0,,｛｝\N｛pe·pa·pu｝
-Dialogue: 0,1:45:59.19,1:46:00.74,常规,,0,0,0,,PPPもサバンナガールズも\NPEPAPU也好 SBN girls也好
-Dialogue: 0,1:46:00.74,1:46:02.55,常规,,0,0,0,,どちらも素晴らしかったわ！\N两边都太出色了
-Dialogue: 0,1:46:03.49,1:46:07.69,常规,,0,0,0,,それでは、どっちが優勝したのか、結果発表をしていただきましょう！\N那么 究竟哪边更出色 就由她来公布结果吧
-Dialogue: 0,1:46:08.53,1:46:11.79,常规,,0,0,0,,審査委員長の…サーベルタイガーさん！\N有请评委  剑齿虎
-Dialogue: 0,1:46:16.22,1:46:19.28,常规,,0,0,0,,それでは、審査結果を発表いたします。\N那么 就由我来公布评选结果
-Dialogue: 0,1:46:20.93,1:46:23.46,常规,,0,0,0,,PPPとサバンナガールズのアイドル対決。\NPEPAPU与SBN girls的偶像对决
-Dialogue: 0,1:46:24.70,1:46:25.58,常规,,0,0,0,,優勝は…\N优胜者是
-Dialogue: 0,1:46:31.83,1:46:35.06,常规,,0,0,0,,｛２組います。｝PPPとサバンナガールズ！！\N两组同时 PEPAPU与SBN girls
-Dialogue: 0,1:46:35.83,1:46:41.51,常规,,0,0,0,,｛｝\N哇啊 太好啦
-Dialogue: 0,1:46:46.35,1:46:50.42,常规,,0,0,0,,それでは、優勝チームの皆さんにもう｛一度｝歌っていただきましょう！\N接下来就由获得优胜的队伍与大家一起再唱一首歌吧
-Dialogue: 0,1:46:50.96,1:46:52.05,常规,,0,0,0,,いぇー！！\NYEAH
+Dialogue: 0,1:45:59.19,1:46:00.74,常规,,0,0,0,,PPPもサバンナガールズも\NBoth PPP and the Savanna Girls
+Dialogue: 0,1:46:00.74,1:46:02.55,常规,,0,0,0,,どちらも素晴らしかったわ！\Nwere excellent!
+Dialogue: 0,1:46:03.49,1:46:07.69,常规,,0,0,0,,それでは、どっちが優勝したのか、結果発表をしていただきましょう！\NNow, let us present the results of who won!
+Dialogue: 0,1:46:08.53,1:46:11.79,常规,,0,0,0,,審査委員長の…サーベルタイガーさん！\NJudge Sabre-toothed Tiger-san!
+Dialogue: 0,1:46:16.22,1:46:19.28,常规,,0,0,0,,それでは、審査結果を発表いたします。\NNow, we shall announce the results of the ｛｝.
+Dialogue: 0,1:46:20.93,1:46:23.46,常规,,0,0,0,,PPPとサバンナガールズのアイドル対決。\NThe idol faceoff between PPP and the Savanna Girls;
+Dialogue: 0,1:46:24.70,1:46:25.58,常规,,0,0,0,,優勝は…\Nthe winner is…
+Dialogue: 0,1:46:31.83,1:46:35.06,常规,,0,0,0,,｛２組います。｝PPPとサバンナガールズ！！\Ntwo groups: PPP and the Savanna Girls!
+Dialogue: 0,1:46:35.83,1:46:41.51,常规,,0,0,0,,｛｝\N｛哇啊 太好啦｝
+Dialogue: 0,1:46:46.35,1:46:50.42,常规,,0,0,0,,それでは、優勝チームの皆さんにもう｛一度｝歌っていただきましょう！\NNow, let us enjoy one more song from the members of the winning groups!
+Dialogue: 0,1:46:50.96,1:46:52.05,常规,,0,0,0,,いぇー！！\NYay!!
 Dialogue: 0,1:46:54.78,1:46:56.97,开场OP,,0,0,0,,welcome to 欢迎来到加帕里公园
 Dialogue: 0,1:46:56.97,1:47:00.63,开场OP,,0,0,0,,今天也要啪嗒砰哒的大闹一场
 Dialogue: 0,1:47:04.60,1:47:05.89,开场OP,,0,0,0,,呜 嘎哦
@@ -1827,7 +1827,7 @@ Dialogue: 0,1:50:22.56,1:50:24.92,staff,,0,0,0,,这部作品所传递的积极�
 Dialogue: 0,1:50:25.20,1:50:27.48,staff,,0,0,0,,就请爽快的打开钱包 订购将于十一月发售的本次舞台剧的DVD吧
 Dialogue: 0,1:51:46.78,1:51:47.90,常规,,0,0,0,,うー…\N呜——
 Dialogue: 0,1:51:48.49,1:51:50.15,常规,,0,0,0,,がぉー！！\N嘎哦——
-Dialogue: 0,1:52:28.64,1:52:34.57,常规,,0,0,0,,本日は、舞台「けものフレンズ」千秋楽にご来場いただきまして、誠にありがとうございます！\N非常感谢大家前来观看兽娘动物园舞台剧的闭幕演出
-Dialogue: 0,1:52:35.02,1:52:36.83,常规,,0,0,0,,本日は千秋楽という事で、\N因为今天是最后一场演出
-Dialogue: 0,1:52:36.83,1:52:40.77,常规,,0,0,0,,みんなに一言ずつご挨拶をしていただきたいと思います。\N所以参加演出的伙伴们都有话要一个一个地对大家说
-Dialogue: 0,1:52:41.05,1:52:43.42,常规,,0,0,0,,まずは、アンサンブルのフレンズ達！\N首先是合唱团的friends们
+Dialogue: 0,1:52:28.64,1:52:34.57,常规,,0,0,0,,本日は、舞台「けものフレンズ」千秋楽にご来場いただきまして、誠にありがとうございます！\NWe sincerely thank you all for coming to the final performance of Stage Play "Kemono Friends"!
+Dialogue: 0,1:52:35.02,1:52:36.83,常规,,0,0,0,,本日は千秋楽という事で、\NBecause today is the last day,
+Dialogue: 0,1:52:36.83,1:52:40.77,常规,,0,0,0,,みんなに一言ずつご挨拶をしていただきたいと思います。\Nwe would all like to say a few words.
+Dialogue: 0,1:52:41.05,1:52:43.42,常规,,0,0,0,,まずは、アンサンブルのフレンズ達！\NLet us begin with the Ensemble Friends!
