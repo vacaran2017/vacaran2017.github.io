@@ -56,18 +56,16 @@ function createToc() {
 }
 
 function paragraphHighlight() {
-	var paragraphs = document.getElementsByTagName('p');
+	var paragraphs = document.getElementsByTagName('p')
 
 	for (var i = 0; i < paragraphs.length; i++) {
 		// on mouse over a paragraph
 		paragraphs[i].addEventListener(
 			'mouseover',
 			function(event) {
-console.log();
-				var pTargets = document.getElementsByClassName('p--target');
+				var pTargets = Array.prototype.slice.call(document.getElementsByClassName('p--target'), 0);
 
 				for (var j = 0; j < pTargets.length; j++) {
-console.log(j, '/', pTargets.length, pTargets);
 					pTargets[j].classList.remove('p--target'); // unhighlight any highlighted paragraphs
 				}
 
