@@ -1,3 +1,5 @@
+'use strict';
+
 var otherLang = {
 	ja: 'en',
 	en: 'ja',
