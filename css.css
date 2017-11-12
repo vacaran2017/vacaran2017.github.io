@@ -192,7 +192,7 @@ nav ul {
 }
 
 nav:hover ul {
-	display: unset;
+	display: block;
 }
 
 nav .toc__level--2 {
