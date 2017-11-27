@@ -1589,7 +1589,7 @@ Dialogue: 0,1:34:28.50,1:34:32.40,常规,,0,0,0,,題して「シロナガスク�
 Dialogue: 0,1:34:32.44,1:34:37.90,常规,,0,0,0,,私の頭の上から出す潮水と、あなたのそんな長ーい鼻で吐き出す鼻水！\NThe ｛｝ from the top of my head, and the ｛｝ from your long nose!
 Dialogue: 0,1:34:37.90,1:34:41.10,常规,,0,0,0,,よりセルリアンにダメージを与えた方が勝ち！\NThe one who deals the most damage to the Ceruleans is the winner!
 Dialogue: 0,1:34:41.10,1:34:41.78,常规,,0,0,0,,いい？\NAgree?
-Dialogue: 0,1:34:42.68,1:34:45.06,常规,,0,0,0,,その勝負、受けて｛立ちます｝！\NI accept!
+Dialogue: 0,1:34:42.68,1:34:45.06,常规,,0,0,0,,その勝負、受けて立ちます！\NBring it on!
 Dialogue: 0,1:34:46.68,1:34:48.78,常规,,0,0,0,,レディー…\NReady…
 Dialogue: 0,1:34:48.86,1:34:56.76,常规,,0,0,0,,｛｝\N｛加油加油加油加油｝
 Dialogue: 0,1:34:56.80,1:35:02.92,常规,,0,0,0,,ゴーー！！\NGo!!
@@ -1601,9 +1601,9 @@ Dialogue: 0,1:35:19.96,1:35:22.90,开场OP,,0,0,0,,欢迎来到加帕里公园
 Dialogue: 0,1:35:25.46,1:35:29.32,常规,,0,0,0,,やったーー！！\NWe did it!
 Dialogue: 0,1:35:31.12,1:35:32.98,常规,,0,0,0,,皆さんのご協力ありがとうございます！\NThank you all for your assistance!
 Dialogue: 0,1:35:32.98,1:35:35.38,常规,,0,0,0,,おかげでパークに平和が戻りました！\NWith your help, the Park is at peace once again!
-Dialogue: 0,1:35:36.56,1:35:37.52,常规,,0,0,0,,悔しいけれど\NIt's a bit ｛｝,
+Dialogue: 0,1:35:36.56,1:35:37.52,常规,,0,0,0,,悔しいけれど\NIt's a bit disappointing,
 Dialogue: 0,1:35:37.58,1:35:39.54,常规,,0,0,0,,今回の勝負も引き分けね。\Nbut I guess it's a draw again.
-Dialogue: 0,1:35:39.84,1:35:42.46,常规,,0,0,0,,さすがの潮水パワーでした、お母さん。\NYour ｛｝ power was ｛｝, Mother.
+Dialogue: 0,1:35:39.84,1:35:42.46,常规,,0,0,0,,さすがの塩水パワーでした、お母さん。\NYour brine power was remarkable as ever, Mother.
 Dialogue: 0,1:35:42.98,1:35:45.48,常规,,0,0,0,,それでは皆さん、また。記念祭で！\NWell, see you all next time! Until the celebration!
 Dialogue: 0,1:35:49.32,1:35:51.42,常规,,0,0,0,,みんなが無事で何よりだよね！\N｛｝ that everyone is alright!
 Dialogue: 0,1:35:51.90,1:35:54.78,常规,,0,0,0,,高原にあった高い奴は、壊されちゃったけど。\NAlthough the tall thing from the highlands broke.
@@ -1621,12 +1621,12 @@ Dialogue: 0,1:36:31.96,1:36:35.56,常规,,0,0,0,,さっき結構水｛被っち�
 Dialogue: 0,1:36:36.56,1:36:39.90,常规,,0,0,0,,もうこの曲聞けなくなっちゃうのかな？\NDoes that mean we won't be able to hear that song again?
 Dialogue: 0,1:36:40.82,1:36:41.84,常规,,0,0,0,,どうしよう？\NWhat do we do?
 Dialogue: 0,1:36:44.90,1:36:45.54,常规,,0,0,0,,よし！\NI've got it!
-Dialogue: 0,1:36:46.76,1:36:48.36,常规,,0,0,0,,みんなで｛｝！｛大家一起来传唱吧｝
+Dialogue: 0,1:36:46.76,1:36:48.36,常规,,0,0,0,,みんなで｛歌っておこう｝よ！\NLet's all sing it!
 Dialogue: 0,1:36:49.48,1:36:50.36,常规,,0,0,0,,え？\NHuh?
 Dialogue: 0,1:36:51.30,1:36:53.38,常规,,0,0,0,,このフレンズが作った素敵なこの歌、\NThe fantastic song this Friend wrote;
 Dialogue: 0,1:36:54.22,1:36:55.48,常规,,0,0,0,,いつまでも忘れないように\Nso that it may never be forgotten,
 Dialogue: 0,1:36:56.44,1:36:57.76,常规,,0,0,0,,私達が歌って、\Nwe'll sing it,
-Dialogue: 0,1:36:58.24,1:37:00.24,常规,,0,0,0,,パークのみんなに伝えていこう！\Nand ｛pass it on to｝ everyone in the Park!
+Dialogue: 0,1:36:58.24,1:37:00.24,常规,,0,0,0,,パークのみんなに伝えていこう！\Nand have everyone else in the Park hear it too!
 Dialogue: 0,1:37:01.52,1:37:02.32,常规,,0,0,0,,うん！\NYeah!
 Dialogue: 0,1:37:09.50,1:37:12.26,动物之道回忆版,,0,0,0,,｛｝\N｛孤零零的一个人｝
 Dialogue: 0,1:37:13.36,1:37:16.96,动物之道回忆版,,0,0,0,,｛｝\N｛站在山坡上｝
@@ -1795,16 +1795,16 @@ Dialogue: 0,1:48:28.06,1:48:34.01,开场OP,,0,0,0,,一直用一如既往的温�
 Dialogue: 0,1:48:34.56,1:48:38.89,开场OP,,0,0,0,,若是敞开的大门里 讲述着数不尽的梦想
 Dialogue: 0,1:48:39.09,1:48:41.79,开场OP,,0,0,0,,无论到何处
 Dialogue: 0,1:48:41.79,1:48:45.32,开场OP,,0,0,0,,美妙的旅程都将会继续
-Dialogue: 0,1:48:45.74,1:48:48.79,开场OP,,0,0,0,,这里是加帕里公园  大家集合了哦
-Dialogue: 0,1:48:48.97,1:48:50.44,开场OP,,0,0,0,,热带稀树草原girls
-Dialogue: 0,1:48:50.86,1:48:51.54,开场OP,,0,0,0,,好的
-Dialogue: 0,1:48:51.70,1:48:52.69,开场OP,,0,0,0,,PEPAPU的成员
-Dialogue: 0,1:48:52.95,1:48:53.71,开场OP,,0,0,0,,在这里
-Dialogue: 0,1:48:53.87,1:48:56.23,开场OP,,0,0,0,,阿莱桑和耳廓狐也要把手举起来喏哒
-Dialogue: 0,1:48:56.23,1:48:57.21,开场OP,,0,0,0,,好的哟
-Dialogue: 0,1:48:57.21,1:49:00.23,开场OP,,0,0,0,,之后是所有在场的friends们
-Dialogue: 0,1:49:00.49,1:49:01.89,开场OP,,0,0,0,,大家好
-Dialogue: 0,1:49:01.89,1:49:03.13,开场OP,,0,0,0,,那么 好开始了哟
+Dialogue: 0,1:48:45.74,1:48:48.79,开场OP,,0,0,0,,ここはジャパリパーク！みんな、出欠取るよ！\NThis is Japari Park! Roll call, girls!
+Dialogue: 0,1:48:48.97,1:48:50.44,开场OP,,0,0,0,,サバンナガールズのみんな！\NSavanna Girls!
+Dialogue: 0,1:48:50.86,1:48:51.54,开场OP,,0,0,0,,はい！\NHere!
+Dialogue: 0,1:48:51.70,1:48:52.69,开场OP,,0,0,0,,PPPのみんな！\NPPP!
+Dialogue: 0,1:48:52.95,1:48:53.71,开场OP,,0,0,0,,はーい！\NHere!
+Dialogue: 0,1:48:53.87,1:48:56.23,开场OP,,0,0,0,,アライさんとフェネックも手を挙げるのだ！\NArai-san and Fennec will raise their hands too!
+Dialogue: 0,1:48:56.23,1:48:57.21,开场OP,,0,0,0,,はいよー。\NGot it.
+Dialogue: 0,1:48:57.21,1:49:00.23,开场OP,,0,0,0,,そして今名前を呼ばれなかったフレンズの皆さん！\NAnd finally, all the other Friends!
+Dialogue: 0,1:49:00.49,1:49:01.89,开场OP,,0,0,0,,はーい！\NHere!
+Dialogue: 0,1:49:01.89,1:49:03.13,开场OP,,0,0,0,,それじゃ行くよー！\NAlright, let's go!
 Dialogue: 0,1:49:03.13,1:49:04.45,开场OP,,0,0,0,,噢——
 Dialogue: 0,1:49:04.45,1:49:09.15,开场OP,,0,0,0,,向东边咆哮吧 向西边咆哮吧
 Dialogue: 0,1:49:09.68,1:49:15.86,开场OP,,0,0,0,,在世界中回响的 远征的旋律
