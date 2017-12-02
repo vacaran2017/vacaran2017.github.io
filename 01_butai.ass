@@ -155,13 +155,13 @@ Dialogue: 0,0:08:56.81,0:08:59.40,常规,,0,0,0,,間もなく開演いたしま�
 Dialogue: 0,0:08:59.77,0:09:00.62,常规,,0,0,0,,あ？マンモス！\NAh, Mammoth!
 Dialogue: 0,0:09:01.08,0:09:03.17,常规,,0,0,0,,あ、サーバル！どうしたの？\NAh, Serval! What's up?
 Dialogue: 0,0:09:03.17,0:09:06.30,常规,,0,0,0,,PPPのライブ、見たいんだけど、チケット持ってなくて…\NWe want to see the PPP concert, but we don't have tickets…
-Dialogue: 0,0:09:06.70,0:09:09.78,常规,,0,0,0,,ごめんね、PPPのチケットは｛｝が激しくて…\NI'm sorry! PPP tickets are ｛｝…
-Dialogue: 0,0:09:10.28,0:09:13.20,常规,,0,0,0,,それでもできる限り席を｛｝はいるんだけど…\N｛虽然我们已经准备了尽可能多的座位了｝
+Dialogue: 0,0:09:06.70,0:09:09.78,常规,,0,0,0,,ごめんね、PPPのチケットは争奪戦が激しくて…\NI'm sorry! Competition for the PPP tickets has been very fierce…
+Dialogue: 0,0:09:10.28,0:09:13.20,常规,,0,0,0,,それでもできる限り席を多く作ってはいるんだけど…\NWe've been trying to make new seats to the best of our ability, but…
 Dialogue: 0,0:09:13.43,0:09:16.82,常规,,0,0,0,,で、せやったら「不正にチケットを入手しよう！」とか言い出して！\NAnd then they said things like "let's get them illegally!"
 Dialogue: 0,0:09:17.01,0:09:21.76,注释,,0,0,0,,Note: Refers to an incident where a previous Kemono Friends event had many empty seats despite selling out of tickets, because of scalpers
 Dialogue: 0,0:09:17.01,0:09:21.76,常规,,0,0,0,,それはダメ！チケットはちゃんとした所から買わなきゃダメ。\NAbsolutely not! You must buy tickets from the proper channels.
 Dialogue: 0,0:09:22.74,0:09:23.42,常规,,0,0,0,,分かった！\NGot it!
-Dialogue: 0,0:09:23.91,0:09:26.42,常规,,0,0,0,,よし！私達の席を案内するから、\N｛我带你们去我们的座位上看吧｝
+Dialogue: 0,0:09:23.91,0:09:26.42,常规,,0,0,0,,よし！私達の席を案内するから、\NAlright, we'll let you have our seats, so
 Dialogue: 0,0:09:26.42,0:09:28.03,常规,,0,0,0,,今日は特別にそこで見ていいよ。\Nyou can specially watch it there!
 Dialogue: 0,0:09:28.03,0:09:29.40,常规,,0,0,0,,やった！ありがとう！\NThat's great! Thank you!
 Dialogue: 0,0:09:29.72,0:09:33.56,常规,,0,0,0,,その代わり、今度また倉庫の片付け、手伝ってもらうからね。\NBut in return, next time the warehouse will be cleaned, we'll be asking you to help out.
@@ -464,7 +464,7 @@ Dialogue: 0,0:25:33.04,0:25:34.46,常规,,0,0,0,,密林を歩いていました�
 Dialogue: 0,0:25:35.14,0:25:37.19,常规,,0,0,0,,早くメンバーを探そうよ！\NLet's hurry up and look for members!
 Dialogue: 0,0:25:37.19,0:25:39.23,常规,,0,0,0,,でもクロやんこんな状態だし…\NBut Kuro-yan's already ｛like this｜all tired｝…
 Dialogue: 0,0:25:39.23,0:25:41.67,常规,,0,0,0,,もう｛｝や。おばちゃん限界や。\NGranny can't go no more. She's at her limit and can't walk any further!
-Dialogue: 0,0:25:42.40,0:25:44.06,常规,,0,0,0,,クロやん、｛｝を出して！\N｛黑豹 拿出韧性来｝
+Dialogue: 0,0:25:42.40,0:25:44.06,常规,,0,0,0,,クロやん、｛好調｝を出して！\N｛黑豹 拿出韧性来｝
 Dialogue: 0,0:25:44.23,0:25:49.82,常规,,0,0,0,,でも、よく考えたら、メンバーは特にさばんなちほーの子に限定しなくてもいいんじゃないかな。\NBut, thinking about it, we don't necessarily have to restrict ourselves to Friends only from the Savanna Area.
 Dialogue: 0,0:25:50.08,0:25:50.46,常规,,0,0,0,,え？\NHuh?
 Dialogue: 0,0:25:51.18,0:25:52.22,常规,,0,0,0,,どう？サーバルちゃん。\NWhat do you think, Serval-chan?
@@ -706,7 +706,7 @@ Dialogue: 0,0:38:10.41,0:38:14.24,常规,,0,0,0,,記念祭に向けて、地獄�
 Dialogue: 0,0:38:14.88,0:38:16.69,常规,,0,0,0,,地獄のプログラム？\NHellish program?
 Dialogue: 0,0:38:16.69,0:38:20.72,常规,,0,0,0,,私達に足りないのは、ダンスの表現力、エレガントな身のこなし、\NWhat we're missing is expressiveness in our dance, elegance in our motions,
 Dialogue: 0,0:38:20.72,0:38:23.20,常规,,0,0,0,,そして、一糸乱れぬチームワーク！\Nand flawless teamwork!
-Dialogue: 0,0:38:23.76,0:38:27.64,常规,,0,0,0,,そのあたりを、今日からこの人に｛｝直してもらいます！\N｛所以从今天开始就由她来对我们进行指导｝
+Dialogue: 0,0:38:23.76,0:38:27.64,常规,,0,0,0,,そのあたりを、今日からこの人に｛徹底と｝｛｝直してもらいます！\N｛所以从今天开始就由她来对我们进行指导｝
 Dialogue: 0,0:38:36.64,0:38:39.44,常规,,0,0,0,,うわあ！すっげぇなぁ！\NWow, amazing!
 Dialogue: 0,0:38:39.96,0:38:43.96,常规,,0,0,0,,こんにちは。華やかに踊るが大好きな湖畔の女王、\NGood morning. I am the queen of the lake shore who likes dancing resplendently,
 Dialogue: 0,0:38:44.52,0:38:45.67,常规,,0,0,0,,オオフラミンゴです！\NGreater Flamingo!
@@ -1068,7 +1068,7 @@ Dialogue: 0,0:57:56.82,0:57:58.45,常规,,0,0,0,,そんな事ないよ！\NNot a
 Dialogue: 0,0:57:58.45,0:58:00.45,常规,,0,0,0,,タイガー、タイガー、タイガー！\NTiger, Tiger, Tiger!
 Dialogue: 0,0:58:00.45,0:58:03.45,常规,,0,0,0,,もっと自信を持ってやるのだ！\NBe more confident in yourself!
 Dialogue: 0,0:58:03.45,0:58:06.14,常规,,0,0,0,,でも、キャラがよく分からないんです。\NBut I don't really know what she's supposed to be like.
-Dialogue: 0,0:58:06.14,0:58:09.34,常规,,0,0,0,,なんかシュッとしたかっこいい事｛｝しかないよ。\N｛说点什么帅气的东西蒙混过去吧｝
+Dialogue: 0,0:58:06.14,0:58:09.34,常规,,0,0,0,,なんかシュッとしたかっこいい事｛に捲る｝しかないよ。\N｛说点什么帅气的东西蒙混过去吧｝
 Dialogue: 0,0:58:09.34,0:58:10.65,常规,,0,0,0,,かっこいい事？\NCool things?
 Dialogue: 0,0:58:10.95,0:58:13.52,常规,,0,0,0,,さあ！好きな言葉は？\N｛Like｝, what's your favorite word?
 Dialogue: 0,0:58:16.29,0:58:18.48,常规,,0,0,0,,好きな言葉は…\NMy favorite word is…
@@ -1095,7 +1095,7 @@ Dialogue: 0,0:59:45.02,0:59:45.82,常规,,0,0,0,,それは…\NI…
 Dialogue: 0,0:59:45.82,0:59:47.06,常规,,0,0,0,,無理です！\Ncannot do that!
 Dialogue: 0,0:59:47.06,0:59:48.27,常规,,0,0,0,,どうして！？\NWhy!?
 Dialogue: 0,0:59:48.27,0:59:50.27,常规,,0,0,0,,決まってるじゃないですか。\NWhy else?
-Dialogue: 0,0:59:50.72,0:59:52.48,常规,,0,0,0,,怖いからですよ。\N｛It's scary.｜I'm scared.｝
+Dialogue: 0,0:59:50.72,0:59:52.48,常规,,0,0,0,,怖いからですよ。\N｛｝
 Dialogue: 0,0:59:52.48,0:59:55.11,常规,,0,0,0,,ねぇ、今ふざけてる場合とちゃうやけど！\NHey, this isn't the time to be joking around.
 Dialogue: 0,0:59:55.11,0:59:57.11,常规,,0,0,0,,ごめんなさい、実は私、\NI'm sorry. To tell the truth,
 Dialogue: 0,0:59:57.11,1:00:00.04,常规,,0,0,0,,ホワイトタイガーじゃないんです！\NI'm not White Tiger!
@@ -1154,7 +1154,7 @@ Dialogue: 0,1:03:44.58,1:03:45.69,常规,,0,0,0,,姉さん？\NNee-san?
 Dialogue: 0,1:03:46.30,1:03:50.16,常规,,0,0,0,,私も本当はやりやい！\NI also really want to be an idol!
 Dialogue: 0,1:03:50.69,1:03:55.01,常规,,0,0,0,,さっきはつい格好をつけて、アイドルはちょっと｛｝けど、\N｛刚才虽然一不小心就找了各种各样的借口｝
 Dialogue: 0,1:03:55.29,1:03:57.29,常规,,0,0,0,,本当はめちゃくちゃやりたい！\Nbut actually, I really want to be an idol!
-Dialogue: 0,1:03:58.39,1:04:00.39,常规,,0,0,0,,なの｛に｜で｝ごめんなさい！\NI'm sorry!
+Dialogue: 0,1:03:58.39,1:04:00.39,常规,,0,0,0,,なの｛に｝ごめんなさい！\NI'm sorry!
 Dialogue: 0,1:04:02.34,1:04:05.20,常规,,0,0,0,,ああ！いい事思い付いたよ！\NAh! I've got a great idea!
 Dialogue: 0,1:04:07.32,1:04:11.16,常规,,0,0,0,,だったら、みんなでやろうよ、サバンナガールズ！\NWhy don't we all be part of the Savanna Girls together!
 Dialogue: 0,1:04:11.16,1:04:15.71,常规,,0,0,0,,私と、オカピちゃんと、マンモス姉さんと、クロやんと、タヌキちゃん！\NMe and Okapi-chan and Mammoth-nee-san and Kuro-yan and Tanuki-chan!
@@ -1251,7 +1251,7 @@ Dialogue: 0,1:11:08.15,1:11:10.15,常规,,0,0,0,,それじゃ配達に行って�
 Dialogue: 0,1:11:10.63,1:11:12.63,常规,,0,0,0,,いってらっしゃーい！\NTake care!
 Dialogue: 0,1:11:13.98,1:11:17.27,常规,,0,0,0,,いやー、本真に部品が見つかってよかったな。\NMan, good thing we found the parts.
 Dialogue: 0,1:11:17.62,1:11:20.38,常规,,0,0,0,,PPPのみんな、喜んでくれるといいなぁ。\NI hope PPP will be pleased.
-Dialogue: 0,1:11:20.38,1:11:22.38,常规,,0,0,0,,あの箱｛から｝いい｛｝を見つけて、\NI hope that they'll be able to find some good songs
+Dialogue: 0,1:11:20.38,1:11:22.38,常规,,0,0,0,,あの箱｛から｝いい｛｝を見つけて、\NI hope that they'll be able to find ｛some good songs｝
 Dialogue: 0,1:11:22.38,1:11:24.38,常规,,0,0,0,,ナンバーワンアイドルになってほしいよね！\Nand become the number one idols!
 Dialogue: 0,1:11:24.46,1:11:25.93,常规,,0,0,0,,サーバル！\NServal!
 Dialogue: 0,1:11:26.34,1:11:28.34,常规,,0,0,0,,私達なんてアイドル目指すんでしょ？\NAren't {\i1}we{\i0} aiming to be idols?
@@ -1388,7 +1388,7 @@ Dialogue: 0,1:19:25.33,1:19:29.17,常规,,0,0,0,,実は先程、ハンターか�
 Dialogue: 0,1:19:29.17,1:19:30.49,常规,,0,0,0,,ハンター、って？\NHunter?
 Dialogue: 0,1:19:31.02,1:19:36.41,常规,,0,0,0,,失礼します。パークの安全と平和を守る、ハンターのサーベルタイガーです。\N｛｝. I am Sabre-toothed Tiger, Hunter who protects the safety and peace of the Park.
 Dialogue: 0,1:19:36.62,1:19:39.44,常规,,0,0,0,,皆さんはこの所のパークの異変にお気づきですか？\NHave you noticed the abnormalities in the Park around here?
-Dialogue: 0,1:19:42.22,1:19:48.92,常规,,0,0,0,,山の頂きを見てください。｛｝が黒くなっています。何か起きるかもしれません。\NLook at the peak of the mountain. ｛狼烟升起来了｝. It is possible that something might happen.
+Dialogue: 0,1:19:42.22,1:19:48.92,常规,,0,0,0,,山の頂きを見てください。｛風炎｝が黒くなっています。何か起きるかもしれません。\NLook at the peak of the mountain. ｛狼烟升起来了｝. It is possible that something might happen.
 Dialogue: 0,1:19:54.44,1:19:57.08,常规,,0,0,0,,万が一に備えて、警戒が必要です。\N｛In order to prepare for the worst, we must issue an alarm.｝
 Dialogue: 0,1:19:57.43,1:20:01.24,常规,,0,0,0,,私達にできる事があれば、どんな事でも協力しますので…\NIf there is any way we can help out, we'll do it…
 Dialogue: 0,1:20:01.24,1:20:02.63,常规,,0,0,0,,よろしくお願いします。\N｛多谢合作｝
