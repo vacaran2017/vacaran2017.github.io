@@ -56,7 +56,7 @@ function createToc() {
 }
 
 function paragraphHighlight() {
-	var paragraphs = document.getElementsByTagName('p')
+	var paragraphs = document.getElementsByTagName('p');
 
 	for (var i = 0; i < paragraphs.length; i++) {
 		// on mouse over a paragraph
