@@ -1,5 +1,10 @@
 # Translations of Kemono Friends stuff
 
+## note
+![syazai](https://i.imgur.com/KxE9hKzm.jpg)
+
+i haven't forgotten about this.
+
 ## Disclaimers
 1. I am not good at idiomatic English
 2. My Japanese isn't perfect either
