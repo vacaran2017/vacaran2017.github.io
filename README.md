@@ -32,6 +32,8 @@ My hope is that this can be a general KF translation repository that is not run 
 | [00_boku_no_friend](https://vacaran2017.github.io/00_boku_no_friend.html) | 「ぼくのフレンド」<br>"My Friend" |
 | [00_kemono_parade](https://vacaran2017.github.io/00_kemono_parade.html) | 「けものパレード～ジャパリパークメモリアル～」<br>"Kemono Parade ~Japari Park Memorial~" |
 | [00_kimi_no_mama_de](https://vacaran2017.github.io/00_kimi_no_mama_de.html) | 「きみのままで」<br>"Just the Way You Are" |
+| [00_oozora_dreamer](https://vacaran2017.github.io/00_oozora_dreamer.html) | 「大空ドリーマー」<br>"Sky Dreamers" |
+| [ppp_no_doremi_no_uta](https://vacaran2017.github.io/00_oozora_dreamer.html) | 「PPPのドレミのうた」<br>"PPP's Do-Re-Mi Song" |
 | [00_youkoso_japaripark_e](https://vacaran2017.github.io/00_youkoso_japaripark_e.html) | 「ようこそジャパリパークへ」<br>"Welcome to Japari Park" |
 
 ### Subtitles
