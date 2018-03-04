@@ -11,7 +11,7 @@ i haven't forgotten about this.
 3. It doesn't help that I worry too much about the original meaning
 4. **Not all of these are complete**
 
-My hope is that this can be a general KF translation repository that is not run exclusively by me; please feel free to help out (file an issue, make a pull request, whatever it is people do on github)
+~~My hope is that this can be a general KF translation repository that is not run exclusively by me; please feel free to help out (file an issue, make a pull request, whatever it is people do on github)~~ just kidding of course
 
 ## Contents
 
