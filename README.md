@@ -1,17 +1,7 @@
 ﻿# Translations of Kemono Friends stuff
 
 ## note
-![syazai](https://i.imgur.com/KxE9hKzm.jpg)
-
-i haven't forgotten about this.
-
-## Disclaimers
-1. I am not good at idiomatic English
-2. My Japanese isn't perfect either
-3. It doesn't help that I worry too much about the original meaning
-4. **Not all of these are complete**
-
-My hope is that this can be a general KF translation repository that is not run exclusively by me; please feel free to help out (file an issue, make a pull request, whatever it is people do on github)
+- http://4taba.net/ni/162
 
 ## Contents
 
