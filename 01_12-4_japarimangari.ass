@@ -5,322 +5,327 @@ Title: Default Aegisub file
 ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
-YCbCr Matrix: None
-PlayResX: 640
-PlayResY: 480
+YCbCr Matrix: TV.601
+PlayResX: 1280
+PlayResY: 720
 
 [Aegisub Project Garbage]
-Audio File: 06-オリジナルドラマ「じゃぱりまんがり」(監督・脚本：たつき).mp3
-Video File: ?dummy:23.976000:40000:640:480:47:163:254:
-Video AR Value: 1.333333
+Export Encoding: Unicode (UTF-8)
+Last Style Storage: 12.12
+Audio File: jmfinal2 (1).mkv
+Video File: jmfinal2 (1).mkv
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.750000
+Scroll Position: 229
+Active Line: 259
+Video Position: 4599
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: yellow,Yu Gothic UI Semibold,32,&H0000FFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,10,1
+Style: gen,Candara,47,&H0082A5FF,&H000000FF,&H003A000D,&HB1000000,-1,0,0,0,100,100,0,0,1,2,3,2,11,11,11,1
+Style: Joshu,Candara,48,&H0078A8E5,&H000BFF00,&H0004071E,&H80000000,-1,0,0,0,100,100,1,0,1,2,3,2,11,11,11,1
+Style: Hakase,Candara,48,&H00DBDBDB,&H000BFF00,&H00080716,&H80000000,-1,0,0,0,100,100,1,0,1,2,3,2,11,11,11,1
+Style: araisan,Candara,48,&H00F1BAB5,&H000BFF00,&H00453A33,&H80000000,-1,0,0,0,100,100,1,0,1,2,3,2,11,11,11,1
+Style: fennec,Candara,48,&H008E8EFF,&H000BFF00,&H00132936,&H80000000,-1,0,0,0,100,100,1,0,1,2,3,2,11,11,11,1
+Style: kaban,Candara,47,&H000014CB,&H000BFF00,&H00E2FAEF,&H93000000,-1,0,0,0,100,100,1,0,1,2,3,2,11,11,11,1
+Style: serval,Candara,45,&H0094ECFF,&H000BFF00,&H000D3554,&H80000000,-1,0,0,0,100,100,1,0,1,2,3,2,11,11,11,1
+Style: princess,Candara,47,&H00E2BFF4,&H000BFF00,&H0012008F,&H81000000,-1,0,0,0,100,100,1,0,1,2,3,2,11,11,11,1
+Style: hululu,Candara,47,&H00CCB4FF,&H000BFF00,&H0017181C,&H7C000000,-1,0,0,0,100,100,1,0,1,2,3,2,11,11,11,1
+Style: margay,Candara,47,&H00DBEBEE,&H000BFF00,&H001E324E,&H84000000,-1,0,0,0,100,100,1,0,1,2,3,2,11,11,11,1
+Style: iwabi,Candara,47,&H003A15B4,&H000BFF00,&H0097D9FF,&H7C000000,-1,0,0,0,100,100,1,0,1,2.3,3,2,11,11,11,1
+Style: koutei,Candara,47,&H006CD7FF,&H000BFF00,&H00252500,&H7C000000,-1,0,0,0,100,100,1,0,1,2.5,3,2,11,11,11,1
+Style: ppp,Candara,47,&H00F7F9F8,&H000BFF00,&H00393631,&H7C000000,-1,0,0,0,100,100,1,0,1,2,3,2,11,11,11,1
+Style: giant,Candara,47,&H00772864,&H000BFF00,&H00FFE3AB,&H7C000000,-1,0,0,0,100,100,1,0,1,2,3,2,11,11,11,1
+Style: boss,Candara,47,&H00ADFFC7,&H000BFF00,&H00222025,&H7C000000,-1,0,0,0,100,100,1,0,1,2,3,2,11,11,11,1
+Style: Play,Play,31,&H00376B70,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,2.5,0,1,2.5,0,3,0,91,11,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:00.00,yellow,,0,0,0,,https://aqua.komica.org/68/pixmicat.php?res=14151
-Comment: 0,0:00:00.00,0:00:00.00,yellow,,0,0,0,,https://pastebin.com/CrKgnTA5
-Dialogue: 0,0:00:00.00,0:00:12.00,yellow,,0,0,0,,12.4話「じゃぱりまんがり」\NEpisode 12.4 "Japari Bun Harvesting"
-Dialogue: 0,0:00:15.90,0:00:17.74,yellow,margay,0,0,0,,集まってもらってすみません！\NSorry for making you girls come!
-Dialogue: 0,0:00:18.06,0:00:19.49,yellow,princess,0,0,0,,どうしたの、マーゲイ？\NWhat's the matter, Margay?
-Dialogue: 0,0:00:19.74,0:00:21.39,yellow,princess,0,0,0,,今日はオフの日だって。\NI thought today was an off day?
-Dialogue: 0,0:00:21.69,0:00:23.64,yellow,gen,0,0,0,,何かあれば、お手伝いしますよ。\NWe'll help you out if you need it.
-Dialogue: 0,0:00:24.08,0:00:25.55,yellow,margay,0,0,0,,えーっとですね…\NWell, you see…
-Dialogue: 0,0:00:25.74,0:00:30.00,yellow,margay,0,0,0,,ハカセ達から頼まれまして、一つお仕事をお願いしたいんです。\NI'd like to ask your assistance in a favor from the owls.
-Dialogue: 0,0:00:30.53,0:00:34.28,yellow,koutei,0,0,0,,直々にとは珍しいな。どんな仕事なんだ？\NIt's rare for them to be so personal. What kind of favor?
-Dialogue: 0,0:00:34.85,0:00:36.10,yellow,margay,0,0,0,,ジャパリまんを百個！\NWe need to provide 100 Japari buns!
-Dialogue: 0,0:00:36.48,0:00:40.35,yellow,margay,0,0,0,,できれば、二百個以上用意して欲しいとのことです。\NMore than 200, if possible.
-Dialogue: 0,0:00:40.79,0:00:41.98,yellow,hululu,0,0,0,,ジャパリまん～\NJapari buns~
-Dialogue: 0,0:00:42.27,0:00:44.83,yellow,iwabi,0,0,0,,フルル、食べてんじゃねぇよ…\NHululu, we're not eating..
-Dialogue: 0,0:00:45.37,0:00:48.27,yellow,gen,0,0,0,,あ、かばんさんが今度、旅に出るから？\NAh, is this for Kaban-san's journey?
-Dialogue: 0,0:00:48.62,0:00:52.49,yellow,koutei,0,0,0,,ん？それって、ボスが用意させたんじゃなかったか？\NHuh? Didn't Boss prepare that for her?
-Dialogue: 0,0:00:52.81,0:00:55.93,yellow,princess,0,0,0,,あれよ、コウテイ！サーバルが付いて行くでしょう？\NIsn't Serval following along? That must be it!
-Dialogue: 0,0:00:56.36,0:00:57.92,yellow,koutei,0,0,0,,ああ、なるほど。\NAh, I see.
-Dialogue: 0,0:00:58.46,0:01:03.56,yellow,iwabi,0,0,0,,あいつ、自分で食べ物取れずに、飢え死にしそうだもんな…\NNot bringing along her own food… she'll die of starvation.
-Dialogue: 0,0:01:03.60,0:01:06.60,yellow,margay,0,0,0,,大体この袋いっぱいで、二百個らしいです！\NWe need to prepare 200 buns, just about enough to fill this sack!
-Dialogue: 0,0:01:06.83,0:01:08.27,yellow,margay,0,0,0,,お願いできますか？\NCan you girls do it?
-Dialogue: 0,0:01:08.38,0:01:09.29,yellow,gen,0,0,0,,分かりました！\NGot it!
-Dialogue: 0,0:01:10.01,0:01:13.15,yellow,princess,0,0,0,,百個…結構な量よね…\N100 buns… that's quite the amount.
-Dialogue: 0,0:01:13.36,0:01:16.02,yellow,iwabi,0,0,0,,ボスは食べる分しかくれねぇしなぁ…\NBut Boss only gives us as much as we need to eat…
-Dialogue: 0,0:01:16.41,0:01:18.52,yellow,iwabi,0,0,0,,精々五、六個だよな？\NAbout 5, 6 buns at the most.
-Dialogue: 0,0:01:18.86,0:01:21.14,yellow,koutei,0,0,0,,何か当てがあればいいのだが…\NIf only there was something we could rely on…
-Dialogue: 0,0:01:21.80,0:01:24.67,yellow,princess,0,0,0,,プリンセス、島にそういう所ってないか？\NPrincess, is there a place for that somewhere in this island?
-Dialogue: 0,0:01:25.61,0:01:30.79,yellow,princess,0,0,0,,噂で、ボスがジャパリまんを作っている場所があるって、聞いたことあるけど…\NWell, I heard rumors that there is a place where Boss makes Japari Buns…
-Dialogue: 0,0:01:31.48,0:01:36.51,yellow,gen,0,0,0,,ああ、私も聞いたことあります、でも誰も見たことないんですよね。\NAh! I've also heard that. But no one's ever actually seen it…
-Dialogue: 0,0:01:36.80,0:01:38.11,yellow,margay,0,0,0,,まさにハカセが、\NIt must be that
-Dialogue: 0,0:01:38.43,0:01:41.46,yellow,margay,0,0,0,,「そこに行ってちょいちょいしてくるのです」、と！\Nthe professor wants us to "go real quick and do it for us".
-Dialogue: 0,0:01:41.87,0:01:42.75,yellow,princess,0,0,0,,ええ？\NEhh!?
-Dialogue: 0,0:01:43.40,0:01:48.30,yellow,iwabi,0,0,0,,まあ、この先食べる分には変わりないから、前以て貰う感じか。\NWell, it's not like the amount they're eating will change in the future. It'll be like getting it in advance.
-Dialogue: 0,0:01:48.76,0:01:50.68,yellow,koutei,0,0,0,,それって、どこにあるんだ？\NWell, where is it?
-Dialogue: 0,0:01:51.00,0:01:51.86,yellow,margay,0,0,0,,それが、\NWell, they said,
-Dialogue: 0,0:01:52.36,0:01:56.60,yellow,margay,0,0,0,,「では頼んだですよ。我々忙しいのです。」\N"We're leaving the rest to you. We are busy."
-Dialogue: 0,0:01:57.05,0:02:00.35,yellow,margay,0,0,0,,「ハカセ。行きましょう。じゅるり。」\N"Let us go, professor. Slurp."
-Dialogue: 0,0:02:00.80,0:02:05.40,yellow,margay,0,0,0,,「行きますか、ジョシュ。じゅるり。」、と。\N"Let us go, assistant. Slurp."
-Dialogue: 0,0:02:05.54,0:02:06.94,yellow,iwabi,0,0,0,,丸投げかよ！\NThey're dumping it all on us?!
-Dialogue: 0,0:02:07.15,0:02:10.01,yellow,iwabi,0,0,0,,あの二人、本当に忙しいのか？\NAre those two actually busy?
-Dialogue: 0,0:02:10.25,0:02:13.90,yellow,princess,0,0,0,,うぅぅ…他のフレンズに聞いてみましょうか！\NHrmm… Let's go ask other Friends!
-Dialogue: 0,0:02:14.40,0:02:16.54,yellow,koutei,0,0,0,,サーバル達のためだ。頑張ろう！\NIt's for Serval and Kaban. Let's do our best!
-Dialogue: 0,0:02:20.83,0:02:24.40,yellow,princess,0,0,0,,何人か聞いてみたけど、誰も知らないわね。\NWe asked a bunch of Friends, but none of them knew.
-Dialogue: 0,0:02:25.16,0:02:28.94,yellow,koutei,0,0,0,,みんな自分の縄張りの外は、そこまで詳しくないからなぁ。\NWell, they wouldn't know about much outside of their territory…
-Dialogue: 0,0:02:30.00,0:02:32.84,yellow,serval,0,0,0,,あれ？PPPのみんな、どうしたの？\NHm? Hey, PPP, what's the matter?
-Dialogue: 0,0:02:33.45,0:02:36.76,yellow,kaban,0,0,0,,こんにちは！この前はありがとうございました。\NHello! Thanks for your help last time.
-Dialogue: 0,0:02:37.11,0:02:39.47,yellow,gen,0,0,0,,いえいえかばんさん、こちらこそ！\NNot at all, Kaban-san. We owe it to you as well.
-Dialogue: 0,0:02:39.91,0:02:41.55,yellow,,0,0,0,,お元気そうで何よりです。\NWe're glad that you're fine.
-Dialogue: 0,0:02:41.74,0:02:44.97,yellow,iwabi,0,0,0,,よう、サーバル。今ジャパリまんを探しててな！\NYo, Serval! We're looking for Japari buns.
-Dialogue: 0,0:02:45.26,0:02:48.32,yellow,serval,0,0,0,,へぇ、なんでなんで？何かやるの？\NHuh! Why; what are you girls doing?
-Dialogue: 0,0:02:48.64,0:02:52.66,yellow,hululu,0,0,0,,それはね、サーバルがかばんちゃんに付いて行く時に…\NIt's for when you're going to follow Kaban…
-Dialogue: 0,0:02:53.96,0:02:56.11,yellow,iwabi,0,0,0,,ちょ、ちょ、ちょっと事情があってさ…\NW-Well, we have our reasons…
-Dialogue: 0,0:02:56.11,0:02:59.60,yellow,princess,0,0,0,,それで、ジャパリまんを作ってる所を探してるの！\NAnd so we're looking for where Japari buns are made!
-Dialogue: 0,0:02:59.72,0:03:03.86,yellow,koutei,0,0,0,,ボスが作ってる所があるらしいんだけど、誰も知らないんだ。\NSupposedly there's a place where Boss makes them, but no one knows where it is.
-Dialogue: 0,0:03:04.27,0:03:07.61,yellow,serval,0,0,0,,そうなんだ。あたしも知らないな。\NI see. I don't know either…
-Dialogue: 0,0:03:07.86,0:03:10.60,yellow,serval,0,0,0,,かばんちゃん、何かいい案ないかな？\NKaban-chan, do you have any idea?
-Dialogue: 0,0:03:13.92,0:03:17.09,yellow,kaban,0,0,0,,そうだ！ジャパリまんを配ってるラッキーさん、\NI know! When Lucky-san has no more Japari buns to distribute,
-Dialogue: 0,0:03:17.59,0:03:20.95,yellow,kaban,0,0,0,,籠が空になったら新しいのを取りに行くだろうから、\Nit'll go back to fetch some more;
-Dialogue: 0,0:03:21.25,0:03:24.11,yellow,kaban,0,0,0,,それに付いて行ってみる！ってどうでしょう。\NLet's try to follow it!
-Dialogue: 0,0:03:25.31,0:03:26.26,yellow,gen,0,0,0,,なるほど！\NI see!
-Dialogue: 0,0:03:26.81,0:03:28.27,yellow,koutei,0,0,0,,かばんはさすがだな！\NYou're amazing as usual, Kaban.
-Dialogue: 0,0:03:28.32,0:03:29.85,yellow,princess,0,0,0,,早速探すわよ！\NLet's go find one now!
-Dialogue: 0,0:03:30.26,0:03:31.88,yellow,ppp,0,0,0,,おぅー！\NYeah!
-Dialogue: 0,0:03:39.34,0:03:43.36,yellow,kaban,0,0,0,,よく分からないけど、力になれたならよかった。\NI don't really get it, but I'm glad I was able to help out.
-Dialogue: 0,0:03:43.84,0:03:45.82,yellow,serval,0,0,0,,私達も遊びに行こう！\NLet's also go and have some fun!
-Dialogue: 0,0:03:45.82,0:03:50.33,yellow,serval,0,0,0,,あ、アリツカゲラが寝床の見つけ方を教えてくれるって言ってたよ！\NOh yeah, Campo Flick said she would teach us how to find a place to sleep!
-Dialogue: 0,0:03:50.54,0:03:51.63,yellow,serval,0,0,0,,行ってみない？\NWanna go?
-Dialogue: 0,0:03:51.85,0:03:52.36,yellow,kaban,0,0,0,,うん！\NYeah!
-Dialogue: 0,0:03:59.70,0:04:02.65,yellow,koutei,0,0,0,,ボス、ボス…\NBoss… Boss…
-Dialogue: 0,0:04:03.23,0:04:05.56,yellow,koutei,0,0,0,,籠を持ったボス…\NA Boss with a basket…
-Dialogue: 0,0:04:05.85,0:04:10.12,yellow,iwabi,0,0,0,,いつもジャパリまんがなくなった頃にふらっと現れるんだよなぁ。\NHe always appears out of nowhere when we're out of Japari buns…
-Dialogue: 0,0:04:11.37,0:04:12.12,yellow,princess,0,0,0,,いたわよ！\NThere it is!
-Dialogue: 0,0:04:13.81,0:04:16.08,yellow,gen,0,0,0,,ちょうどフレンズが貰いに来てますね。\NIt seems like a bunch of Friends have just come to get them.
-Comment: 0,0:00:00.00,0:00:00.00,yellow,,0,0,0,,pastebin translation + komica has 群れに, but this doesn't seem quite right
-Dialogue: 0,0:04:16.44,0:04:18.77,yellow,koutei,0,0,0,,残り、あと二、三個ぐらいか。\NThere's about 2 or 3 buns left.
-Dialogue: 0,0:04:19.33,0:04:22.27,yellow,hululu,0,0,0,,いいなぁ、あたしも食べたいなぁ…\NAww, I want some too…
-Dialogue: 0,0:04:22.41,0:04:25.00,yellow,iwabi,0,0,0,,お前、さっき喰ってなかったか？\NDidn't you already eat just now?
-Dialogue: 0,0:04:25.25,0:04:27.15,yellow,gen,0,0,0,,ああ！なくなりましたよ！\NAh! There's no more!
-Dialogue: 0,0:04:29.85,0:04:30.80,yellow,princess,0,0,0,,どうするのかしら…\NWhat shall we do…
-Dialogue: 0,0:04:31.31,0:04:33.00,yellow,koutei,0,0,0,,考えた事がなかったなぁ。\NWe didn't think about that, did we…
-Dialogue: 0,0:04:34.91,0:04:36.03,yellow,iwabi,0,0,0,,歩き始めたぜ。\NHe's started to move.
-Dialogue: 0,0:04:36.48,0:04:37.45,yellow,princess,0,0,0,,追いかけましょう！\NLet's follow it!
-Dialogue: 0,0:04:48.46,0:04:52.01,yellow,koutei,0,0,0,,うう…この体とは言え、\NUrgh… it's actually pretty hard
-Dialogue: 0,0:04:52.43,0:04:56.03,yellow,koutei,0,0,0,,ぼこぼこした所を歩くのは、苦手だ…\Nto walk on rough paths in this body…
-Dialogue: 0,0:04:56.30,0:04:57.58,yellow,hululu,0,0,0,,そう？\NIs that so?
-Dialogue: 0,0:04:58.00,0:04:59.71,yellow,princess,0,0,0,,無理しちゃダメよ、コウテイ\NDon't push yourself too hard, Emperor.
-Dialogue: 0,0:04:59.90,0:05:02.11,yellow,iwabi,0,0,0,,ボスを見失わないようにしないとな！\NWe can't lose sight of Boss!
-Dialogue: 0,0:05:02.71,0:05:04.74,yellow,gen,0,0,0,,あ！何か見えてきましたよ。\NAh! I see something.
-Dialogue: 0,0:05:06.53,0:05:07.89,yellow,princess,0,0,0,,崖に穴が…\NThere's a hole in the cliff…
-Dialogue: 0,0:05:08.67,0:05:09.63,yellow,princess,0,0,0,,トンネルかしら?\NIs it a tunnel?
-Dialogue: 0,0:05:10.40,0:05:13.45,yellow,gen,0,0,0,,入口の左右に、別のボスがいますね。\NThere are other Bosses around the entrance.
-Dialogue: 0,0:05:14.09,0:05:16.41,yellow,iwabi,0,0,0,,籠持ったボスが、中に入ってくぞ！\NA Boss with a basket is entering!
-Dialogue: 0,0:05:16.66,0:05:17.55,yellow,princess,0,0,0,,追いかけましょう！\NLet's follow it!
-Dialogue: 0,0:05:21.84,0:05:24.48,yellow,princess,0,0,0,,な、何？なんで邪魔するの？\NH-huh? Why are you obstructing me?
-Dialogue: 0,0:05:26.81,0:05:28.60,yellow,gen,0,0,0,,ボス、怒ってますね。\NIt looks like Boss is angry.
-Dialogue: 0,0:05:29.88,0:05:31.77,yellow,princess,0,0,0,,ちょ、ちょっと離れるわよ。\NI-I'll move farther away.
-Dialogue: 0,0:05:35.48,0:05:36.60,yellow,koutei,0,0,0,,どうしようか。\NWhat do we do?
-Dialogue: 0,0:05:37.07,0:05:39.31,yellow,koutei,0,0,0,,ちょっと、無理して間を取ってみるか？\N｛｝
-Dialogue: 0,0:05:39.70,0:05:44.03,yellow,iwabi,0,0,0,,でもよ、ボスを怒らせると、追いかける所じゃなくなるぜ。\NBut, if we make Boss angry, ｛｝.
-Dialogue: 0,0:05:44.59,0:05:48.52,yellow,gen,0,0,0,,ボスとお話できるかばんさんに、説得をお願いしてみますか？\NKaban-san can talk to Bosses. Should we try and ask her to persuade Boss?
-Dialogue: 0,0:05:48.68,0:05:52.83,yellow,princess,0,0,0,,でも、サーバルが付いて行くことはまだ内緒にしてあげなくちゃ…\NBut then, we have to keep secret the fact that Serval is tagging along…
-Dialogue: 0,0:05:53.08,0:05:54.88,yellow,princess,0,0,0,,あまり話したらバレちゃうわよ。\NIf we say too much, she'll find out.
-Dialogue: 0,0:05:58.13,0:05:58.53,yellow,giant,0,0,0,,よ！\NYo!
-Dialogue: 0,0:05:58.61,0:05:59.53,yellow,ppp,0,0,0,,うわぁ！\NWhoa!
-Dialogue: 0,0:05:59.53,0:06:00.84,yellow,giant,0,0,0,,かさ…こそ。\NRustle…rustle.
-Dialogue: 0,0:06:01.03,0:06:02.23,yellow,giant,0,0,0,,かさ、こそ、かさ…\NRustle, rustle, rustle…
-Dialogue: 0,0:06:02.23,0:06:02.79,yellow,ppp,0,0,0,,へぇ？\NHuh?
-Dialogue: 0,0:06:02.79,0:06:04.16,yellow,iwabi,0,0,0,,ジャイアント先輩！？\NGiant-senpai!?
-Dialogue: 0,0:06:04.30,0:06:07.78,yellow,giant,0,0,0,,何だ？まだ見つかってないのか？ジャパリまん。\NWhat? Haven't you girls found any Japari buns yet?
-Dialogue: 0,0:06:08.25,0:06:09.44,yellow,hululu,0,0,0,,そうなの…\NNo, not yet…
-Dialogue: 0,0:06:09.56,0:06:12.37,yellow,princess,0,0,0,,っていうか、なんでそれを知ってるんですか？\NBut how on earth did you know?
-Dialogue: 0,0:06:12.65,0:06:15.30,yellow,koutei,0,0,0,,相変わらず、謎の多い…\NMysterious, as always…
-Dialogue: 0,0:06:15.30,0:06:16.99,yellow,giant,0,0,0,,しっしっしっし。\NHehehe.
-Dialogue: 0,0:06:16.99,0:06:20.97,yellow,gen,0,0,0,,それが、あそこの入口からボスが入れてくれなくて…\NWell, the Bosses won't let us in through the entrance over there…
-Dialogue: 0,0:06:21.39,0:06:22.36,yellow,giant,0,0,0,,なるほどな。\NI seel.
-Dialogue: 0,0:06:23.44,0:06:28.13,yellow,giant,0,0,0,,じゃあ、ラッキービーストの前で心底困ってるふりをしてみろ。\NHow about pretending to be sincerely troubled in front of Lucky Beast?
-Dialogue: 0,0:06:28.28,0:06:29.47,yellow,princess,0,0,0,,困ってるふり？\NPretending to be troubled?
-Dialogue: 0,0:06:29.94,0:06:32.71,yellow,giant,0,0,0,,あいつは人しか助けないわけじゃない。\NIt's not that that thing helps people only.
-Dialogue: 0,0:06:33.36,0:06:37.66,yellow,giant,0,0,0,,なんだかんだ困ってるフレンズがいると、サポートするんだ。\NBoss'll support Friends who are troubled about this and that.
-Dialogue: 0,0:06:37.66,0:06:39.24,yellow,hululu,0,0,0,,へぇー。\NHuh.
-Dialogue: 0,0:06:39.56,0:06:40.66,yellow,giant,0,0,0,,じゃあな。\NSee ya!
-Dialogue: 0,0:06:40.96,0:06:45.78,yellow,giant,0,0,0,,まあ、うまくやりなー。がさごそがさごそ。\NWell, try to do well. Rustle, rustle, rustle.
-Dialogue: 0,0:06:47.46,0:06:48.61,yellow,iwabi,0,0,0,,何だったんだ？\NWhat was that about?
-Dialogue: 0,0:06:48.97,0:06:52.62,yellow,koutei,0,0,0,,あの先輩の言う事は、なんだかんだ当たる｛からな｝。\N｛｝
-Dialogue: 0,0:06:52.92,0:06:53.89,yellow,princess,0,0,0,,やってみましょう！\NLet's try it!
-Dialogue: 0,0:06:57.04,0:06:58.22,yellow,iwabi,0,0,0,,よう、ボス！\NYo, Boss!
-Dialogue: 0,0:06:58.60,0:07:00.61,yellow,iwabi,0,0,0,,さらにロックな｛生き方｝をするために、\N｛｝
-Dialogue: 0,0:07:00.73,0:07:02.56,yellow,iwabi,0,0,0,,そこを通してほしいんだ！\NI want to enter!
-Dialogue: 0,0:07:03.81,0:07:04.20,yellow,iwabi,0,0,0,,えっ。\NUh, well…
-Dialogue: 0,0:07:04.45,0:07:06.43,yellow,iwabi,0,0,0,,ロックってのはその…\NBy "rock" I mean…
-Dialogue: 0,0:07:06.73,0:07:09.71,yellow,iwabi,0,0,0,,ほら、岸壁、とかさぁ、\NYou know, like cliffs, things like that…
-Dialogue: 0,0:07:09.71,0:07:11.71,yellow,iwabi,0,0,0,,困難を…\NOr rather, only by…
-Dialogue: 0,0:07:12.79,0:07:14.99,yellow,iwabi,0,0,0,,越えてこそ、っていうか…\Nconquering hardships… or something…
-Dialogue: 0,0:07:19.30,0:07:19.96,yellow,iwabi,0,0,0,,ダメだ。\NIt's no use.
-Dialogue: 0,0:07:20.33,0:07:22.26,yellow,iwabi,0,0,0,,ボス怖ぇよ…\NBoss is too scary…
-Dialogue: 0,0:07:22.26,0:07:24.03,yellow,hululu,0,0,0,,よしよしー。\NThere, there.
-Dialogue: 0,0:07:24.35,0:07:25.72,yellow,koutei,0,0,0,,次は、私が行こう。\NI'll go next.
-Dialogue: 0,0:07:28.28,0:07:29.86,yellow,koutei,0,0,0,,えっとだな、ボス。\NWell, um, Boss.
-Dialogue: 0,0:07:30.44,0:07:31.22,yellow,koutei,0,0,0,,困ってるんだ。\NI need your help.
-Dialogue: 0,0:07:33.10,0:07:34.80,yellow,koutei,0,0,0,,私は、その。\NI, uh…
-Dialogue: 0,0:07:38.35,0:07:39.46,yellow,princess,0,0,0,,気絶してるー！\NShe's passed out!
-Dialogue: 0,0:07:40.44,0:07:40.97,yellow,koutei,0,0,0,,ダメだ。\NIt's no use.
-Dialogue: 0,0:07:41.52,0:07:42.97,yellow,koutei,0,0,0,,ブリザードのような目だ。\NHer eyes are like a blizzard.
-Dialogue: 0,0:07:43.36,0:07:44.90,yellow,hululu,0,0,0,,よしよしー。\NThere, there.
-Dialogue: 0,0:07:46.01,0:07:46.70,yellow,princess,0,0,0,,ジェーン？\NGen?
-Dialogue: 0,0:07:49.27,0:07:52.47,yellow,gen,0,0,0,,ボス、私達、助けたい子がいて、\NBoss, there's a girl we want to help.
-Dialogue: 0,0:07:53.09,0:07:55.56,yellow,gen,0,0,0,,そのためにジャパリまんが必要なんです。\NIn order to do that, we need Japari buns.
-Dialogue: 0,0:07:56.75,0:07:59.06,yellow,gen,0,0,0,,どうかそこ、通してもらえませんか？\NPlease, could you let us through?
-Dialogue: 0,0:08:03.49,0:08:04.67,yellow,gen,0,0,0,,ありがとうございます！\NThank you so much!
-Dialogue: 0,0:08:05.04,0:08:06.08,yellow,iwabi,0,0,0,,えぇ！？\NHuh!?
-Dialogue: 0,0:08:06.24,0:08:07.94,yellow,hululu,0,0,0,,ジェーン、すごーい！\NGen, you're awesome!
-Dialogue: 0,0:08:08.12,0:08:09.56,yellow,princess,0,0,0,,さっすがね、ジェーン！\NNice one, Gen!
-Dialogue: 0,0:08:09.69,0:08:12.20,yellow,koutei,0,0,0,,正直が一番、と言う事か。\NI guess "honesty is the best policy", eh?
-Dialogue: 0,0:08:21.44,0:08:23.44,yellow,princess,0,0,0,,出口から光が射してるけど、\NThere's light coming from the exit,
-Dialogue: 0,0:08:23.80,0:08:25.26,yellow,princess,0,0,0,,薄暗いわね。\Nbut it's still pretty dark, huh.
-Dialogue: 0,0:08:26.27,0:08:26.85,yellow,iwabi,0,0,0,,いっ、てっ…\NOw…!
-Dialogue: 0,0:08:27.58,0:08:30.32,yellow,gen,0,0,0,,イワビーさん、跳ねたら頭をぶつけますよ。\NYou'll hit your head if you jump in here, Iwabi-san.
-Dialogue: 0,0:08:30.73,0:08:32.05,yellow,gen,0,0,0,,ゆっくり歩きましょう。\NLet's walk slowly.
-Dialogue: 0,0:08:36.87,0:08:37.80,yellow,koutei,0,0,0,,見えてきたわ。\NI can see it now.
-Dialogue: 0,0:08:42.11,0:08:43.72,yellow,iwabi,0,0,0,,うわぁー。\NWow…
-Dialogue: 0,0:08:44.46,0:08:46.04,yellow,gen,0,0,0,,大きい池ですね。\NWhat a huge lake.
-Dialogue: 0,0:08:46.69,0:08:48.75,yellow,princess,0,0,0,,パークにこんな所があったなんて…\NFor a place like this to exist in the park…
-Dialogue: 0,0:08:49.47,0:08:51.30,yellow,hululu,0,0,0,,島があるね。\NThere's an island.
-Dialogue: 0,0:08:51.79,0:08:53.20,yellow,koutei,0,0,0,,ボスは、あそこだろうか。\NMaybe that's where Boss is.
-Dialogue: 0,0:08:53.80,0:08:54.25,yellow,koutei,0,0,0,,行こう。\NLet's go.
-Dialogue: 0,0:09:12.78,0:09:14.32,yellow,koutei,0,0,0,,不思議な所だな。\NWhat a mysterious place.
-Dialogue: 0,0:09:14.78,0:09:16.70,yellow,gen,0,0,0,,木漏れ日が気持ちいいですね。\NThe sunlight through the trees feels nice.
-Dialogue: 0,0:09:17.88,0:09:19.18,yellow,princess,0,0,0,,あ！見て！\NAh! Look over there!
-Dialogue: 0,0:09:19.45,0:09:21.21,yellow,princess,0,0,0,,木にジャパリまんがぶら下がってる！\NJapari buns are hanging from the trees!
-Dialogue: 0,0:09:23.19,0:09:25.76,yellow,iwabi,0,0,0,,しかも、すげぇ沢山あるぞ。\NAnd there's a lot too.
-Dialogue: 0,0:09:26.33,0:09:27.40,yellow,koutei,0,0,0,,どう言う事だ？\NWhat could it mean?
-Dialogue: 0,0:09:27.96,0:09:30.54,yellow,koutei,0,0,0,,ジャパリまんって、木に生るのか？\NDo Japari buns grow on trees?
-Dialogue: 0,0:09:33.17,0:09:34.68,yellow,gen,0,0,0,,あ！ボスですよ！\NAh! Bosses!
-Dialogue: 0,0:09:39.88,0:09:43.07,yellow,iwabi,0,0,0,,ジャパリまんの束を投げて、木に引っ掛けてるぜ。\NThey're throwing bunches of Japari buns into the trees and letting them hang.
-Dialogue: 0,0:09:43.96,0:09:45.31,yellow,princess,0,0,0,,なにしてるのかしら。\NWhat are they doing?
-Dialogue: 0,0:09:45.69,0:09:47.66,yellow,hululu,0,0,0,,キラキラして綺麗ー。\NIt's shiny and pretty.
-Dialogue: 0,0:09:57.28,0:09:58.42,yellow,gen,0,0,0,,行っちゃいましたね。\NThey left.
-Dialogue: 0,0:09:59.18,0:10:01.85,yellow,koutei,0,0,0,,あれは、どこから持ってきたんだろうか。\NWhere did they bring it here from?
-Dialogue: 0,0:10:02.39,0:10:03.24,yellow,iwabi,0,0,0,,チャンスだぜ。\NNow's our chance.
-Dialogue: 0,0:10:03.67,0:10:05.62,yellow,iwabi,0,0,0,,ここにあるやつを、貰って行こう！\NLet's go get the ones here!
-Dialogue: 0,0:10:06.02,0:10:07.85,yellow,princess,0,0,0,,そうね。行きましょう！\NYou're right. Let's go!
-Dialogue: 0,0:10:13.40,0:10:14.13,yellow,koutei,0,0,0,,これは…\NThis is…
-Dialogue: 0,0:10:14.73,0:10:16.89,yellow,koutei,0,0,0,,なかなか大変だな。\Nquite a tough job.
-Dialogue: 0,0:10:19.12,0:10:23.37,yellow,iwabi,0,0,0,,こういう細かい作業、未だに苦手なんだよなぁ。\NI'm still not good at such precise work yet…
-Dialogue: 0,0:10:23.80,0:10:27.96,yellow,princess,0,0,0,,あの子達のために、少しでも多めに用意してあげないと…\NWe have to prepare a decent amount for those girls, if even a little bit.
-Dialogue: 0,0:10:27.96,0:10:30.97,yellow,princess,0,0,0,,島の外に、食べ物があるか分からないもの！\NWe don't know if there's anything to eat outside of the island!
-Dialogue: 0,0:10:31.71,0:10:34.67,yellow,gen,0,0,0,,早くしないと、またボスが来そうですね。\NIf we don't hurry up, Boss will come back.
-Dialogue: 0,0:10:34.83,0:10:38.28,yellow,hululu,0,0,0,,よ、よ、よ、よ、よ、よ、よ、よ…\NHeave-ho, heave-ho- heave-ho.
-Dialogue: 0,0:10:39.00,0:10:40.36,yellow,iwabi,0,0,0,,すげぇ速いなぁ！\NMan, she's fast!
-Dialogue: 0,0:10:40.67,0:10:44.22,yellow,koutei,0,0,0,,フルル、ジャパリまんの事になると動きが…\NWhen it comes to Japari buns, Hululu'll work faster…
-Dialogue: 0,0:10:44.26,0:10:48.40,yellow,gen,0,0,0,,すごいですね。一人で百個ぐらい集めてるんじゃないですか。\NAmazing. She's collected about 100 all by herself.
-Dialogue: 0,0:10:50.21,0:10:51.61,yellow,koutei,0,0,0,,ああ！ボスが！\NAh! Bosses!
-Dialogue: 0,0:10:51.88,0:10:53.48,yellow,iwabi,0,0,0,,ヤバい、見つかった！\NShoot, they've spotted us!
-Dialogue: 0,0:10:53.69,0:10:55.12,yellow,princess,0,0,0,,に、逃げましょう！\NL-let's make a run for it!
-Dialogue: 0,0:11:03.29,0:11:06.27,yellow,gen,0,0,0,,どうしましょう？どんどん増えてきてますよ！\NWhat do we do? More of them are coming!
-Dialogue: 0,0:11:06.33,0:11:09.33,yellow,iwabi,0,0,0,,ひぃー！すごい怒ってるぜ！\NEek! They're really furious!
-Dialogue: 0,0:11:09.39,0:11:12.21,yellow,koutei,0,0,0,,泳いで逃げよう！池に飛び込むぞ！\NLet's get away by swimming. Jump into the lake!
-Dialogue: 0,0:11:12.60,0:11:13.74,yellow,princess,0,0,0,,えぇーい！\NHup!
-Dialogue: 0,0:11:21.90,0:11:25.51,yellow,gen,0,0,0,,やっぱり水の中は落ち着くわね。\NIn the end, the water is pretty soothing, huh.
-Dialogue: 0,0:11:25.74,0:11:27.68,yellow,koutei,0,0,0,,よし。距離を稼ごう。\NAlright. Let's gather distance.
-Dialogue: 0,0:11:28.21,0:11:28.67,yellow,gen,0,0,0,,ふん！\NMm!
-Dialogue: 0,0:11:29.74,0:11:31.76,yellow,hululu,0,0,0,,ジェーン相変わらず速ーい。\NGen is fast as always~.
-Dialogue: 0,0:11:35.72,0:11:37.17,yellow,iwabi,0,0,0,,行くぜ行くぜ！\NLet's go, let's go!
-Dialogue: 0,0:11:38.85,0:11:41.13,yellow,hululu,0,0,0,,イワビー相変わらず速ーい。\NIwabi is fast as always~.
-Dialogue: 0,0:11:45.69,0:11:47.82,yellow,koutei,0,0,0,,よし。大分撒いたな。\NAlright. We've shaken them off.
-Dialogue: 0,0:11:48.47,0:11:50.43,yellow,princess,0,0,0,,このまま一気に出口まで！\NLet's keep this pace all the way to the exit!
-Dialogue: 0,0:11:52.83,0:11:54.70,yellow,iwabi,0,0,0,,トンネルの中からもボスが！\NThere are more Bosses coming from the tunnel too!
-Dialogue: 0,0:11:55.12,0:11:56.32,yellow,koutei,0,0,0,,うっ、うぅえ…\NU, uurgh…
-Dialogue: 0,0:11:56.84,0:11:59.88,yellow,gen,0,0,0,,どうしよう？後ろからも沢山来ますよ。\NWhat do we do? There's a bunch of them coming from behind too.
-Dialogue: 0,0:12:00.55,0:12:02.46,yellow,iwabi,0,0,0,,ひぃー！ダメだ！\NEek! It's hopeless!
-Dialogue: 0,0:12:03.08,0:12:05.07,yellow,princess,0,0,0,,くっ…ここまでなの？\NDarn! Is this the end?
-Dialogue: 0,0:12:06.62,0:12:09.43,yellow,,0,0,0,,わっせ、わっせ、わっせ、わっせ…\NHeave-ho, heave-ho, heave-ho, heave-ho…
-Dialogue: 0,0:12:09.66,0:12:12.06,yellow,araisan,0,0,0,,一番乗りなのだ！\NWe're the first to arrive!
-Dialogue: 0,0:12:12.80,0:12:13.10,yellow,boss,0,0,0,,うっ。\NOof.
-Dialogue: 0,0:12:13.89,0:12:14.22,yellow,koutei,0,0,0,,え？\NEh?
-Dialogue: 0,0:12:14.55,0:12:15.28,yellow,princess,0,0,0,,何？\NWhat?
-Dialogue: 0,0:12:15.37,0:12:16.62,yellow,iwabi,0,0,0,,なんだ、なんだ？\NWhat is it? What is it?
-Dialogue: 0,0:12:16.62,0:12:19.00,yellow,araisan,0,0,0,,真ん丸はどこにあるのだ！\NWhere's the round thing!
-Dialogue: 0,0:12:19.32,0:12:20.84,yellow,araisan,0,0,0,,どこなのだ！\NWhere is it!
-Dialogue: 0,0:12:21.32,0:12:25.01,yellow,fennec,0,0,0,,あれー？今は何かにぶつかったようなー…\NHuh? It seems like we hit something just right now…
-Dialogue: 0,0:12:25.41,0:12:26.84,yellow,,0,0,0,,あなた達は確か…\NYou girls are…
-Dialogue: 0,0:12:26.98,0:12:28.32,yellow,araisan,0,0,0,,アライさんなのだ！\NI'm Arai-san!
-Dialogue: 0,0:12:28.88,0:12:30.24,yellow,fennec,0,0,0,,フェネクスなのさー。\NI'm Fennec.
-Dialogue: 0,0:12:30.65,0:12:32.36,yellow,hululu,0,0,0,,わぁ、何これ。\NWow, what is that?
-Dialogue: 0,0:12:32.62,0:12:36.69,yellow,araisan,0,0,0,,ふっふーん。これは、「ばすてき」って言うのだ！\NHeheh. It's a "bus-ish"!
-Dialogue: 0,0:12:37.11,0:12:38.64,yellow,araisan,0,0,0,,ハカセに貰ったのだ！\NThe Professor gave it to us!
-Dialogue: 0,0:12:39.13,0:12:40.00,yellow,koutei,0,0,0,,へぇ。\NHmm.
-Dialogue: 0,0:12:40.88,0:12:42.45,yellow,boss,0,0,0,,わ…わ…\NAh… ah…
-Dialogue: 0,0:12:42.87,0:12:45.64,yellow,fennec,0,0,0,,あ。アライさん、大変だよー。\NAh. Bad news, Arai-san.
-Dialogue: 0,0:12:46.16,0:12:49.15,yellow,fennec,0,0,0,,どうやらボスを撥ねちゃったみたいだねー。\NIt seems like we hit a Boss.
-Dialogue: 0,0:12:49.36,0:12:52.95,yellow,araisan,0,0,0,,え？あ！へぇ！？\NHuh? Ah! What!?
-Dialogue: 0,0:12:54.80,0:12:58.06,yellow,araisan,0,0,0,,ご、ご、ごめんなさいなのだ、ボス！\NI-I-I'm sorry, Boss!
-Dialogue: 0,0:12:58.68,0:13:00.88,yellow,fennec,0,0,0,,体は大丈夫みたいだねー。\NIt seems like their body is okay.
-Dialogue: 0,0:13:01.44,0:13:04.43,yellow,fennec,0,0,0,,でも、なんか怒ってるから逃げようかー。\NBut they seem kind of angry. Let's get away.
-Dialogue: 0,0:13:04.57,0:13:05.93,yellow,araisan,0,0,0,,ひぃー！？\NEek!
-Dialogue: 0,0:13:10.06,0:13:15.82,yellow,,0,0,0,,わっせ、わっせ、わっせ、わっせ、わっせ、わっせ、わっせ…\NHeave-ho, heave-ho, heave-ho, heave-ho, heave-ho, heave-ho, heave-ho…
-Dialogue: 0,0:13:15.82,0:13:17.48,yellow,hululu,0,0,0,,速い、速ーい。\NWow, so fast~.
-Dialogue: 0,0:13:17.88,0:13:19.36,yellow,princess,0,0,0,,助かったわ！\NYou saved us!
-Dialogue: 0,0:13:19.69,0:13:21.20,yellow,gen,0,0,0,,二人は、どうしてここに？\NSo, what are you two doing here?
-Dialogue: 0,0:13:21.87,0:13:23.69,yellow,fennec,0,0,0,,こーんな格好の子がー、\NA girl who looked kind of like this
-Dialogue: 0,0:13:24.08,0:13:28.11,yellow,fennec,0,0,0,,ここに私達の探し物があるって言ってたからー…\Nsaid that the thing we're looking for would be somewhere around here…
-Dialogue: 0,0:13:28.33,0:13:30.50,yellow,araisan,0,0,0,,真ん丸がなかったのだ！\NThere was no round thing!
-Dialogue: 0,0:13:30.61,0:13:32.73,yellow,araisan,0,0,0,,騙されたのだ！\NShe tricked us!
-Dialogue: 0,0:13:32.81,0:13:34.58,yellow,koutei,0,0,0,,ジャイアント先輩だ…\NIt must be Giant-senpai…
-Dialogue: 0,0:13:35.11,0:13:37.07,yellow,princess,0,0,0,,全部お見通し、って事ね…\NShe saw it all coming, didn't she…?
-Dialogue: 0,0:13:37.49,0:13:39.64,yellow,iwabi,0,0,0,,あの人怖ぇよ…\NMan, she's creepy…
-Dialogue: 0,0:13:39.81,0:13:41.92,yellow,gen,0,0,0,,取り敢えずよかった、ですかね。\NWell, we're okay for now, I suppose.
-Dialogue: 0,0:13:42.31,0:13:43.71,yellow,araisan,0,0,0,,よくないのだ！\NIt's not okay!
-Dialogue: 0,0:13:43.98,0:13:45.79,yellow,araisan,0,0,0,,真ん丸がなかったのだ！\NThere's no round thing!
-Dialogue: 0,0:13:46.20,0:13:47.24,yellow,fennec,0,0,0,,まあ、まあ。\NNow, now.
-Dialogue: 0,0:13:47.55,0:13:50.89,yellow,fennec,0,0,0,,結果オーライでフレンズ助けになったっぽいよー。\NWe got out alright in the end and helped out some Friends.
-Dialogue: 0,0:13:51.13,0:13:52.67,yellow,araisan,0,0,0,,オーラくないのだ！\NIt's alwrong!
-Dialogue: 0,0:13:52.97,0:13:55.62,yellow,araisan,0,0,0,,アライさんの今後の危機なのだ！\NArai-san's future is in danger!
-Dialogue: 0,0:14:02.69,0:14:04.89,yellow,margay,0,0,0,,お、お疲れ様でしたー！\NThank you all so much for your hard work!
-Dialogue: 0,0:14:05.05,0:14:07.66,yellow,princess,0,0,0,,もー、めっちゃめっちゃ怖かったわよ！\NMan, it was scary!
-Dialogue: 0,0:14:07.83,0:14:10.74,yellow,iwabi,0,0,0,,いやー、歩いた泳いだ！\NAhh, we had a nice walk and a nice swim!
-Dialogue: 0,0:14:10.97,0:14:12.61,yellow,iwabi,0,0,0,,いい汗かいたぜ！\NWorked up a good sweat!
-Dialogue: 0,0:14:13.05,0:14:18.69,yellow,araisan,0,0,0,,お前！真ん丸がないどころか、ボスに怒られたのだ！\NWhy you…! Now only was there not a round thing, but Boss got angry at us!
-Dialogue: 0,0:14:18.81,0:14:20.35,yellow,araisan,0,0,0,,怖かったのだ！\NIt was scary!
-Dialogue: 0,0:14:20.38,0:14:23.21,yellow,giant,0,0,0,,まあ、まあ。ラッキービーストなんて、\NNow, now. In comparison to dinosaurs,
-Dialogue: 0,0:14:23.61,0:14:26.73,yellow,giant,0,0,0,,恐竜に比べたらかわいいもんだよ！\NLucky Beast is pretty cute!
-Dialogue: 0,0:14:26.76,0:14:27.95,yellow,hululu,0,0,0,,キョーリュー？\NDyna-sore?
-Dialogue: 0,0:14:28.52,0:14:30.33,yellow,serval,0,0,0,,なんだか大変だったんだね！\NSounds like it was rough!
-Dialogue: 0,0:14:30.75,0:14:33.23,yellow,serval,0,0,0,,料理食べる？もうすぐできるよ！\NWanna eat? It's almost ready!
-Dialogue: 0,0:14:33.44,0:14:35.83,yellow,gen,0,0,0,,食べます、食べます。\NYes, yes, we'll eat.
-Dialogue: 0,0:14:35.83,0:14:38.63,yellow,gen,0,0,0,,これが噂の、「料理」、ですか？\NIs this the "cooking" of legend?
-Dialogue: 0,0:14:39.13,0:14:42.60,yellow,kaban,0,0,0,,今日は、ほとんどサーバルちゃんが作ってくれたんですよ。\NServal-chan cooked most of everything tiday.
-Dialogue: 0,0:14:42.83,0:14:44.03,yellow,serval,0,0,0,,ふっふーん。\NThat's right!
-Dialogue: 0,0:14:44.48,0:14:47.24,yellow,boss,0,0,0,,かばん。味見をちゃんとしてね。\NKaban. Make sure to taste-test it.
-Dialogue: 0,0:14:47.58,0:14:50.41,yellow,koutei,0,0,0,,いただこう。お腹がペコペコだよ。\NLet us eat. I'm starving.
-Dialogue: 0,0:14:50.83,0:14:53.43,yellow,serval,0,0,0,,ジャパリまん持ってないの？あげようか？\NDon't you girls have Japari buns? Should I give you some of mine?
-Dialogue: 0,0:14:53.74,0:14:55.72,yellow,koutei,0,0,0,,いや、持ってるんだが…\NNo, we have some, just that
-Dialogue: 0,0:14:55.72,0:14:58.03,yellow,koutei,0,0,0,,食べさしてやりたいやつがいてな。\Nthere's someone we want to feed.
-Dialogue: 0,0:14:58.64,0:14:59.60,yellow,koutei,0,0,0,,控えてるんだ。\NWe're getting ready.
-Dialogue: 0,0:14:59.75,0:15:02.43,yellow,princess,0,0,0,,なんだか雛鳥みたいね。\NAlmost like a little bird.
-Dialogue: 0,0:15:02.81,0:15:06.42,yellow,hululu,0,0,0,,飲み込んで運べばよかったかもー。\NMaybe we should have carried them by swallowing them first.
-Dialogue: 0,0:15:06.48,0:15:09.83,yellow,margay,0,0,0,,なっ！？それはいいですねー！\NWhat!? That's an excellent idea!
-Dialogue: 0,0:15:09.94,0:15:12.68,yellow,margay,0,0,0,,ペンギンさんらしい運搬方法！\NA very penguin-like way of transport!
-Dialogue: 0,0:15:12.79,0:15:16.19,yellow,margay,0,0,0,,うへへ…一度ご馳走なりたいです…\NUhehe… I'd like to get to eat that way sometime…
-Dialogue: 0,0:15:16.19,0:15:18.96,yellow,margay,0,0,0,,うへへ…はははは…へへへへ…\NUhehe… hahahaha… hehehehe…
-Dialogue: 0,0:15:18.96,0:15:20.87,yellow,serval,0,0,0,,何の事か分からないけど、\NI don't know what you're talking about,
-Dialogue: 0,0:15:21.07,0:15:23.35,yellow,serval,0,0,0,,私は普通に貰う方がいいかな。\Nbut I think I prefer receiving them normally.
-Dialogue: 0,0:15:24.01,0:15:26.22,yellow,princess,0,0,0,,かばんは？今日どこに行ってたの？\NWhat about Kaban? Where did you go today?
-Dialogue: 0,0:15:26.67,0:15:29.90,yellow,kaban,0,0,0,,今日は、アリツカゲラさんにお話を聞きに。\NToday, I had Campo Flicker tell me some things.
-Dialogue: 0,0:15:30.30,0:15:32.10,yellow,kaban,0,0,0,,すごく勉強になりました！\NI learned a lot!
-Dialogue: 0,0:15:32.66,0:15:36.23,yellow,boss,0,0,0,,蟻塚に寝るのは、難しいかもしれないけど、\NAlthough living in an anthill may be difficult,
-Dialogue: 0,0:15:36.64,0:15:40.77,yellow,boss,0,0,0,,既にある物を寝床に利用するのは、大事な事だね。\Nit is importnat to reuse things that already exist as beds.
-Dialogue: 0,0:15:41.04,0:15:41.42,yellow,koutei,0,0,0,,うわ！？\NWhoa!?
-Dialogue: 0,0:15:41.66,0:15:42.65,yellow,iwabi,0,0,0,,へぇ！？\NHuh!?
-Dialogue: 0,0:15:43.21,0:15:45.67,yellow,princess,0,0,0,,すっかりボス恐怖症ね…\NThey're right petrified of Boss…
-Dialogue: 0,0:15:46.41,0:15:49.14,yellow,hululu,0,0,0,,でもこのボスあまり怖くないね。\NBut this Boss isn't that scary.
-Dialogue: 0,0:15:49.53,0:15:53.24,yellow,gen,0,0,0,,お話ができたら、他のボスも実は優しいのかも。\NMaybe other Bosses would be nice too if they could talk.
-Dialogue: 0,0:15:53.74,0:15:56.80,yellow,koutei,0,0,0,,ところで、「まんまる」って、何なんだ？\NBy the way, what's the "round thing"?
-Dialogue: 0,0:15:57.18,0:15:59.84,yellow,araisan,0,0,0,,ハカセに頼まれて、探しているのだ！\NThe Professor asked us to look for it!
-Dialogue: 0,0:16:00.30,0:16:01.89,yellow,fennec,0,0,0,,サプライズでねー。\NIt's a surprise.
-Dialogue: 0,0:16:02.35,0:16:04.17,yellow,fennec,0,0,0,,道のりは長いよー。\NThe journey is a long one.
-Dialogue: 0,0:16:04.24,0:16:07.87,yellow,iwabi,0,0,0,,こっちのこれも、サプライズだぜ！\NOurs is a surprise too!
-Dialogue: 0,0:16:08.16,0:16:12.62,yellow,serval,0,0,0,,そうなんだ！誰かを喜ばせるの？楽しみだね！\NIs that so? Are you girls going to please someone? I can't wait!
-Dialogue: 0,0:16:13.29,0:16:16.08,yellow,kaban,0,0,0,,みんな、楽しそうですね！\NIt looks like you're all having fun!
-Dialogue: 0,0:16:16.84,0:16:18.78,yellow,serval,0,0,0,,あ、料理ができたよ！\NAh, the cooking is ready!!
-Dialogue: 0,0:16:19.13,0:16:20.32,yellow,serval,0,0,0,,食べよう、食べよう\NLet's eat!
-Dialogue: 0,0:16:20.61,0:16:24.94,yellow,giant,0,0,0,,料理か。久しぶりだなぁ。しっしっしっし。\NCooking, huh. It's been a while. Hehehe.
-Dialogue: 0,0:16:25.26,0:16:27.26,yellow,kaban,0,0,0,,ありがとう、サーバルちゃん。\NThank you, Serval-chan.
-Dialogue: 0,0:16:27.26,0:16:29.64,yellow,boss,0,0,0,,かばん、味見をちゃんとしてね。\NKaban. Make sure to taste-test it.
+
+Dialogue: 0,0:00:00.00,0:00:12.78,Play,,0,0,0,,{\fade(0,967)}Episode 12.4 «Japari Bun Harvesting»
+Dialogue: 0,0:00:15.90,0:00:17.74,margay,,0,0,0,,Sorry for gathering you!
+Dialogue: 0,0:00:18.06,0:00:19.49,princess,,0,0,0,,What's the matter, Margay?
+Dialogue: 0,0:00:19.74,0:00:21.39,princess,,0,0,0,,I thought today was an off day?
+Dialogue: 0,0:00:21.69,0:00:23.64,gen,,0,0,0,,We'll help you out if you need it.
+Dialogue: 0,0:00:24.08,0:00:25.55,margay,,0,0,0,,Well, you see…
+Dialogue: 0,0:00:25.74,0:00:30.00,margay,,0,0,0,,I'd like to ask your assistance in a favor from the owls.
+Dialogue: 0,0:00:30.53,0:00:34.28,koutei,,0,0,0,,It's rare for them to be so personal. What kind of favor?
+Dialogue: 0,0:00:34.85,0:00:36.10,margay,,0,0,0,,We need to provide 100 Japari buns!
+Dialogue: 0,0:00:36.48,0:00:40.35,margay,,0,0,0,,More than 200, if possible.
+Dialogue: 0,0:00:40.79,0:00:41.98,hululu,,0,0,0,,Japari buns~
+Dialogue: 0,0:00:42.27,0:00:44.83,iwabi,,0,0,0,,Hululu, we're not eating...
+Dialogue: 0,0:00:45.37,0:00:48.27,gen,,0,0,0,,Ah, is this for Kaban-san's journey?
+Dialogue: 0,0:00:48.62,0:00:52.49,koutei,,0,0,0,,Huh? Didn't Boss prepare that for her?
+Dialogue: 0,0:00:52.81,0:00:55.93,princess,,0,0,0,,Isn't Serval following along? That must be it!
+Dialogue: 0,0:00:56.36,0:00:57.92,koutei,,0,0,0,,Ah, I see.
+Dialogue: 0,0:00:58.46,0:01:03.56,iwabi,,0,0,0,,Not bringing along her own food… she'll die of starvation.
+Dialogue: 0,0:01:03.60,0:01:06.60,margay,,0,0,0,,We need to prepare 200 buns, just about enough to fill this sack!
+Dialogue: 0,0:01:06.83,0:01:08.27,margay,,0,0,0,,Can you girls do it?
+Dialogue: 0,0:01:08.38,0:01:09.29,gen,,0,0,0,,Got it!
+Dialogue: 0,0:01:10.01,0:01:13.15,princess,,0,0,0,,100 buns… that's quite the amount.
+Dialogue: 0,0:01:13.36,0:01:16.02,iwabi,,0,0,0,,But Boss only gives us as much as we need to eat…
+Dialogue: 0,0:01:16.41,0:01:18.52,iwabi,,0,0,0,,About 5-6 buns at the most.
+Dialogue: 0,0:01:18.86,0:01:21.14,koutei,,0,0,0,,If only there was something we could rely on…
+Dialogue: 0,0:01:21.80,0:01:24.67,koutei,,0,0,0,,Princess, is there a place for that somewhere in this island?
+Dialogue: 0,0:01:25.61,0:01:30.79,princess,,0,0,0,,Well, I heard rumors that there is a place where Boss makes Japari Buns…
+Dialogue: 0,0:01:31.48,0:01:36.51,gen,,0,0,0,,Ah! I've also heard that. But no one's ever actually seen it…
+Dialogue: 0,0:01:36.80,0:01:38.11,margay,,0,0,0,,It must be that the professor
+Dialogue: 0,0:01:38.43,0:01:41.46,margay,,0,0,0,,wants us to {\c&HD8D9D9&\3c&H080514&}«go real quick and do it for us».
+Dialogue: 0,0:01:43.40,0:01:46.26,iwabi,,0,0,0,,Well, it's not like the amount they're eating will change in the future.
+Dialogue: 0,0:01:46.30,0:01:48.30,iwabi,,0,0,0,, It'll be like getting it in advance.
+Dialogue: 0,0:01:48.76,0:01:50.68,koutei,,0,0,0,,Well, where is it?
+Dialogue: 0,0:01:51.00,0:01:51.86,margay,,0,0,0,,Well, they said,
+Dialogue: 0,0:01:52.36,0:01:56.60,Hakase,,0,0,0,,«We're leaving the rest to you. We are busy».
+Dialogue: 0,0:01:57.05,0:02:00.35,Joshu,,0,0,0,,«Let us go, professor. Slurp.»
+Dialogue: 0,0:02:00.80,0:02:05.40,Hakase,,0,0,0,,«Let us go, assistant. Slurp.»
+Dialogue: 0,0:02:05.54,0:02:06.94,iwabi,,0,0,0,,They're dumping it all on us?!
+Dialogue: 0,0:02:07.15,0:02:10.01,iwabi,,0,0,0,,Are those two actually busy?
+Dialogue: 0,0:02:10.25,0:02:13.90,princess,,0,0,0,,Hrmm… Let's go ask other Friends!
+Dialogue: 0,0:02:14.40,0:02:16.54,koutei,,0,0,0,,It's for Serval and Kaban. Let's do our best!
+Dialogue: 0,0:02:20.83,0:02:24.40,princess,,0,0,0,,We asked a bunch of Friends, but none of them knew.
+Dialogue: 0,0:02:25.16,0:02:28.94,koutei,,0,0,0,,Well, they wouldn't know about much outside of their territory…
+Dialogue: 0,0:02:30.00,0:02:32.84,serval,,0,0,0,,Hm? Hey, PPP, what's the matter?
+Dialogue: 0,0:02:33.45,0:02:36.76,kaban,,0,0,0,,Hello! Thanks for your help last time.
+Dialogue: 0,0:02:37.11,0:02:39.47,gen,,0,0,0,,Not at all, Kaban-san. We owe it to you as well.
+Dialogue: 0,0:02:39.91,0:02:41.55,gen,,0,0,0,,We're glad that you're fine.
+Dialogue: 0,0:02:41.74,0:02:44.97,iwabi,,0,0,0,,Yo, Serval! We're looking for Japari buns.
+Dialogue: 0,0:02:45.26,0:02:48.32,serval,,0,0,0,,Huh! Why; what are you girls doing?
+Dialogue: 0,0:02:48.64,0:02:52.66,hululu,,0,0,0,,It's for when you're going to follow Kaban-
+Dialogue: 0,0:02:53.96,0:02:56.11,iwabi,,0,0,0,,W-Well, we have our reasons…
+Dialogue: 0,0:02:56.11,0:02:59.60,princess,,0,0,0,,And so we're looking for where Japari buns are made!
+Dialogue: 0,0:02:59.72,0:03:03.86,koutei,,0,0,0,,Supposedly there's a place where Boss makes them, but no one knows where it is.
+Dialogue: 0,0:03:04.27,0:03:07.61,serval,,0,0,0,,I see. I don't know either…
+Dialogue: 0,0:03:07.86,0:03:10.60,serval,,0,0,0,,Kaban-chan, do you have any idea?
+Dialogue: 0,0:03:13.92,0:03:17.09,kaban,,0,0,0,,I know! When Lucky-san has no more Japari buns to distribute,
+Dialogue: 0,0:03:17.59,0:03:20.95,kaban,,0,0,0,,it'll go back to fetch some more;
+Dialogue: 0,0:03:21.25,0:03:24.11,kaban,,0,0,0,,Let's try to follow it!
+Dialogue: 0,0:03:25.31,0:03:26.26,gen,,0,0,0,,I see!
+Dialogue: 0,0:03:26.81,0:03:28.27,koutei,,0,0,0,,You're amazing as usual, Kaban.
+Dialogue: 0,0:03:28.32,0:03:29.85,princess,,0,0,0,,Let's go find one now!
+Dialogue: 0,0:03:30.26,0:03:31.88,ppp,,0,0,0,,Yeah!
+Dialogue: 0,0:03:39.34,0:03:43.36,kaban,,0,0,0,,I don't really get it, but I'm glad I was able to help out.
+Dialogue: 0,0:03:43.84,0:03:45.82,serval,,0,0,0,,Let's also go and have some fun!
+Dialogue: 0,0:03:45.82,0:03:50.33,serval,,0,0,0,,Oh yeah, Campo Flicker said she would teach us how to find a place to sleep!
+Dialogue: 0,0:03:50.54,0:03:51.63,serval,,0,0,0,,Wanna go?
+Dialogue: 0,0:03:51.85,0:03:52.36,kaban,,0,0,0,,Yeah!
+Dialogue: 0,0:03:59.70,0:04:02.65,koutei,,0,0,0,,Boss… Boss…
+Dialogue: 0,0:04:03.23,0:04:05.56,koutei,,0,0,0,,A Boss with a basket…
+Dialogue: 0,0:04:05.85,0:04:10.12,iwabi,,0,0,0,,He always appears out of nowhere when we're out of Japari buns…
+Dialogue: 0,0:04:11.37,0:04:12.12,princess,,0,0,0,,There it is!
+Dialogue: 0,0:04:13.81,0:04:16.08,gen,,0,0,0,,Seems, a bunch of Friends have just come to get them.
+Dialogue: 0,0:04:16.44,0:04:18.77,koutei,,0,0,0,,There's about 2 or 3 buns left.
+Dialogue: 0,0:04:19.33,0:04:22.27,hululu,,0,0,0,,Aww, I want some too…
+Dialogue: 0,0:04:22.41,0:04:25.00,iwabi,,0,0,0,,Didn't you already eat just now?
+Dialogue: 0,0:04:25.25,0:04:27.15,gen,,0,0,0,,Ah! There's no more!
+Dialogue: 0,0:04:29.85,0:04:30.80,princess,,0,0,0,,What shall we do…
+Dialogue: 0,0:04:31.31,0:04:33.00,koutei,,0,0,0,,We didn't think about that, did we…
+Dialogue: 0,0:04:34.91,0:04:36.03,iwabi,,0,0,0,,He's started to move.
+Dialogue: 0,0:04:36.48,0:04:37.45,princess,,0,0,0,,Let's follow it!
+Dialogue: 0,0:04:48.46,0:04:52.01,koutei,,0,0,0,,Urgh… it's actually pretty hard
+Dialogue: 0,0:04:52.43,0:04:56.03,koutei,,0,0,0,,to walk on rough paths in this body…
+Dialogue: 0,0:04:56.30,0:04:57.58,hululu,,0,0,0,,Is that so?
+Dialogue: 0,0:04:58.00,0:04:59.71,princess,,0,0,0,,Don't push yourself too hard, Emperor.
+Dialogue: 0,0:04:59.90,0:05:02.11,iwabi,,0,0,0,,We can't lose sight of Boss!
+Dialogue: 0,0:05:02.71,0:05:04.74,gen,,0,0,0,,Ah! I see something.
+Dialogue: 0,0:05:06.53,0:05:07.89,princess,,0,0,0,,There's a hole in the cliff…
+Dialogue: 0,0:05:08.67,0:05:09.63,princess,,0,0,0,,Is it a tunnel?
+Dialogue: 0,0:05:10.40,0:05:13.45,gen,,0,0,0,,There are other Bosses around the entrance.
+Dialogue: 0,0:05:14.09,0:05:16.41,iwabi,,0,0,0,,A Boss with a basket is entering!
+Dialogue: 0,0:05:16.66,0:05:17.55,princess,,0,0,0,,Let's follow it!
+Dialogue: 0,0:05:21.84,0:05:24.48,princess,,0,0,0,,H-huh? Why are you obstructing me?
+Dialogue: 0,0:05:26.81,0:05:28.60,gen,,0,0,0,,It looks like Boss is angry.
+Dialogue: 0,0:05:29.88,0:05:31.77,princess,,0,0,0,,I-I'll move farther away.
+Dialogue: 0,0:05:35.48,0:05:36.60,koutei,,0,0,0,,What do we do?
+Dialogue: 0,0:05:37.07,0:05:39.31,koutei,,0,0,0,,Should we force our way through?
+Dialogue: 0,0:05:39.70,0:05:44.03,iwabi,,0,0,0,,But, if we make Boss angry, there'd be nowhere to run.
+Dialogue: 0,0:05:44.59,0:05:48.52,gen,,0,0,0,,Kaban-san can talk to Bosses. Should we try and ask her to persuade Boss?
+Dialogue: 0,0:05:48.68,0:05:52.83,princess,,0,0,0,,But then, we have to keep secret the fact that Serval is tagging along…
+Dialogue: 0,0:05:53.08,0:05:54.88,princess,,0,0,0,,If we say too much, she'll find out.
+Dialogue: 0,0:05:58.13,0:05:58.53,giant,,0,0,0,,Yo!
+Dialogue: 0,0:05:59.53,0:06:00.84,giant,,0,0,0,,{\i1}rustle… rustle...{\i0}
+Dialogue: 0,0:06:02.23,0:06:02.79,ppp,,0,0,0,,Huh?
+Dialogue: 0,0:06:02.79,0:06:04.16,iwabi,,0,0,0,,Giant-senpai?!
+Dialogue: 0,0:06:04.30,0:06:07.78,giant,,0,0,0,,What? Haven't you girls found any Japari buns yet?
+Dialogue: 0,0:06:08.25,0:06:09.44,hululu,,0,0,0,,No, not yet…
+Dialogue: 0,0:06:09.56,0:06:12.37,princess,,0,0,0,,But how on earth did you know?
+Dialogue: 0,0:06:12.65,0:06:15.30,koutei,,0,0,0,,Mysterious, as always…
+Dialogue: 0,0:06:15.30,0:06:16.99,giant,,0,0,0,,Ni-hi-hi
+Dialogue: 0,0:06:16.99,0:06:20.97,gen,,0,0,0,,Well, the Bosses won't let us in through the entrance over there…
+Dialogue: 0,0:06:21.39,0:06:22.36,giant,,0,0,0,,I see.
+Dialogue: 0,0:06:23.44,0:06:28.13,giant,,0,0,0,,How about pretending to be sincerely troubled in front of Lucky Beast?
+Dialogue: 0,0:06:28.28,0:06:29.47,princess,,0,0,0,,Pretending to be troubled?
+Dialogue: 0,0:06:29.94,0:06:32.71,giant,,0,0,0,,It's not that that thing helps people only.
+Dialogue: 0,0:06:33.36,0:06:37.66,giant,,0,0,0,,Boss will support Friends who are troubled about this and that.
+Dialogue: 0,0:06:37.66,0:06:39.24,hululu,,0,0,0,,Huh.
+Dialogue: 0,0:06:39.56,0:06:40.66,giant,,0,0,0,,See ya!
+Dialogue: 0,0:06:40.96,0:06:45.78,giant,,0,0,0,,Well, try to do well. \N{\i1}rustle, rustle, rustle...{\i0}
+Dialogue: 0,0:06:47.46,0:06:48.61,iwabi,,0,0,0,,What was that about?
+Dialogue: 0,0:06:48.97,0:06:52.62,koutei,,0,0,0,,Somehow, everything Senpai says is usually spot-on...
+Dialogue: 0,0:06:52.92,0:06:53.89,princess,,0,0,0,,Let's try it!
+Dialogue: 0,0:06:57.04,0:06:58.22,iwabi,,0,0,0,,Yo, Boss!
+Dialogue: 0,0:06:58.60,0:07:00.61,iwabi,,0,0,0,,Could you let us in
+Dialogue: 0,0:07:00.73,0:07:02.56,iwabi,,0,0,0,,to make it more rockin'?
+Dialogue: 0,0:07:03.81,0:07:04.20,iwabi,,0,0,0,,Uh, well...
+Dialogue: 0,0:07:04.45,0:07:06.43,iwabi,,0,0,0,,«Rocky» not like
+Dialogue: 0,0:07:06.73,0:07:09.71,iwabi,,0,0,0,,cliffs, but I mean
+Dialogue: 0,0:07:09.71,0:07:11.71,iwabi,,0,0,0,,like cool
+Dialogue: 0,0:07:12.79,0:07:14.99,iwabi,,0,0,0,,conquering hardships… or something…
+Dialogue: 0,0:07:19.30,0:07:19.96,iwabi,,0,0,0,,It's no use.
+Dialogue: 0,0:07:20.33,0:07:22.26,iwabi,,0,0,0,,Boss is too scary…
+Dialogue: 0,0:07:22.26,0:07:24.03,hululu,,0,0,0,,There, there.
+Dialogue: 0,0:07:24.35,0:07:25.72,koutei,,0,0,0,,I'll go next.
+Dialogue: 0,0:07:28.28,0:07:29.86,koutei,,0,0,0,,Well, um, Boss.
+Dialogue: 0,0:07:30.44,0:07:31.22,koutei,,0,0,0,,I need your help.
+Dialogue: 0,0:07:33.10,0:07:34.80,koutei,,0,0,0,,I, uh…
+Dialogue: 0,0:07:38.35,0:07:39.46,princess,,0,0,0,,She's passed out!
+Dialogue: 0,0:07:40.44,0:07:40.97,koutei,,0,0,0,,No chance,
+Dialogue: 0,0:07:41.52,0:07:42.97,koutei,,0,0,0,,it's like a blizzard at glance.
+Dialogue: 0,0:07:43.36,0:07:44.90,hululu,,0,0,0,,There, there.
+Dialogue: 0,0:07:46.01,0:07:46.70,princess,,0,0,0,,Gen?
+Dialogue: 0,0:07:49.27,0:07:52.47,gen,,0,0,0,,Boss, there's a girl we want to help.
+Dialogue: 0,0:07:53.09,0:07:55.56,gen,,0,0,0,,In order to do that, we need Japari buns.
+Dialogue: 0,0:07:56.75,0:07:59.06,gen,,0,0,0,,Please, could you let us through?
+Dialogue: 0,0:08:03.49,0:08:04.67,gen,,0,0,0,,Thank you so much!
+Dialogue: 0,0:08:06.24,0:08:07.94,hululu,,0,0,0,,Gen, you're awesome!
+Dialogue: 0,0:08:08.12,0:08:09.56,princess,,0,0,0,,Nice one, Gen!
+Dialogue: 0,0:08:09.69,0:08:12.20,koutei,,0,0,0,,I guess «honesty is the best policy», eh?
+Dialogue: 0,0:08:21.44,0:08:23.44,princess,,0,0,0,,There's light coming from the exit,
+Dialogue: 0,0:08:23.80,0:08:25.26,princess,,0,0,0,,but it's still pretty dark, huh.
+Dialogue: 0,0:08:26.27,0:08:26.85,iwabi,,0,0,0,,Ow!..
+Dialogue: 0,0:08:27.58,0:08:30.32,gen,,0,0,0,,You'll hit your head if you jump in here, Iwabi.
+Dialogue: 0,0:08:30.73,0:08:32.05,gen,,0,0,0,,Let's walk slowly.
+Dialogue: 0,0:08:36.87,0:08:37.80,koutei,,0,0,0,,I can see it now.
+Dialogue: 0,0:08:44.46,0:08:46.04,gen,,0,0,0,,What a huge lake.
+Dialogue: 0,0:08:46.69,0:08:48.75,princess,,0,0,0,,For a place like this to exist in the park…
+Dialogue: 0,0:08:49.47,0:08:51.30,hululu,,0,0,0,,There's an island.
+Dialogue: 0,0:08:51.79,0:08:53.20,koutei,,0,0,0,,Maybe that's where Boss is.
+Dialogue: 0,0:08:53.80,0:08:54.25,koutei,,0,0,0,,Let's go.
+Dialogue: 0,0:09:12.78,0:09:14.32,koutei,,0,0,0,,What a mysterious place.
+Dialogue: 0,0:09:14.78,0:09:16.70,gen,,0,0,0,,The sunlight through the trees feels nice.
+Dialogue: 0,0:09:17.88,0:09:19.18,princess,,0,0,0,,Ah! Look over there!
+Dialogue: 0,0:09:19.45,0:09:21.21,princess,,0,0,0,,Japari buns are hanging from the trees!
+Dialogue: 0,0:09:23.19,0:09:25.76,iwabi,,0,0,0,,And there's a lot too.
+Dialogue: 0,0:09:26.33,0:09:27.40,koutei,,0,0,0,,What could it mean?
+Dialogue: 0,0:09:27.96,0:09:30.54,koutei,,0,0,0,,Do Japari buns grow on trees?
+Dialogue: 0,0:09:33.17,0:09:34.68,gen,,0,0,0,,Ah! Bosses!
+Dialogue: 0,0:09:39.88,0:09:43.07,iwabi,,0,0,0,,They're throwing bunches of Japari buns into the trees and letting them hang.
+Dialogue: 0,0:09:43.96,0:09:45.31,princess,,0,0,0,,What are they doing?
+Dialogue: 0,0:09:45.69,0:09:47.66,hululu,,0,0,0,,It's shiny and pretty.
+Dialogue: 0,0:09:57.28,0:09:58.42,gen,,0,0,0,,They left.
+Dialogue: 0,0:09:59.18,0:10:01.85,koutei,,0,0,0,,Where did they bring it here from?
+Dialogue: 0,0:10:02.39,0:10:03.24,iwabi,,0,0,0,,Now's our chance.
+Dialogue: 0,0:10:03.67,0:10:05.62,iwabi,,0,0,0,,Let's go get the ones here!
+Dialogue: 0,0:10:06.02,0:10:07.85,princess,,0,0,0,,You're right. Let's go!
+Dialogue: 0,0:10:13.40,0:10:14.13,koutei,,0,0,0,,This is…
+Dialogue: 0,0:10:14.73,0:10:16.89,koutei,,0,0,0,,quite a tough job.
+Dialogue: 0,0:10:19.12,0:10:23.37,iwabi,,0,0,0,,I'm still not good at such precise work yet…
+Dialogue: 0,0:10:23.80,0:10:27.96,princess,,0,0,0,,We have to prepare a a little more for those girls.
+Dialogue: 0,0:10:27.96,0:10:30.97,princess,,0,0,0,,We don't know if there's anything to eat outside of the island!
+Dialogue: 0,0:10:31.71,0:10:34.67,gen,,0,0,0,,If we don't hurry up, Boss will come back.
+Dialogue: 0,0:10:34.83,0:10:38.28,hululu,,0,0,0,,Heave-ho, heave-ho- heave-ho.
+Dialogue: 0,0:10:39.00,0:10:40.36,iwabi,,0,0,0,,Man, she's fast!
+Dialogue: 0,0:10:40.67,0:10:44.22,koutei,,0,0,0,,When it comes to Japari buns, Hululu'll work faster…
+Dialogue: 0,0:10:44.26,0:10:48.40,gen,,0,0,0,,Amazing. She's collected about 100 all by herself.
+Dialogue: 0,0:10:50.21,0:10:51.61,koutei,,0,0,0,,Ah! Bosses!
+Dialogue: 0,0:10:51.88,0:10:53.48,iwabi,,0,0,0,,Shoot, they've spotted us!
+Dialogue: 0,0:10:53.69,0:10:55.12,princess,,0,0,0,,L-let's make a run for it!
+Dialogue: 0,0:11:03.29,0:11:06.27,gen,,0,0,0,,What do we do? More of them are coming!
+Dialogue: 0,0:11:06.33,0:11:09.33,iwabi,,0,0,0,,Eek! They're really furious!
+Dialogue: 0,0:11:09.39,0:11:12.21,koutei,,0,0,0,,Let's get away by swimming. Jump into the lake!
+Dialogue: 0,0:11:12.60,0:11:13.74,princess,,0,0,0,,Hup!
+Dialogue: 0,0:11:21.90,0:11:25.51,princess,,0,0,0,,In the end, the water is pretty soothing, huh.
+Dialogue: 0,0:11:25.74,0:11:27.68,koutei,,0,0,0,,Alright. Let's gather distance.
+Dialogue: 0,0:11:29.74,0:11:31.76,hululu,,0,0,0,,Gen is fast as always~
+Dialogue: 0,0:11:35.72,0:11:37.17,iwabi,,0,0,0,,Let's go, let's go!
+Dialogue: 0,0:11:38.85,0:11:41.13,hululu,,0,0,0,,Iwabi is fast as always~
+Dialogue: 0,0:11:45.69,0:11:47.82,koutei,,0,0,0,,Alright. We've shaken them off.
+Dialogue: 0,0:11:48.47,0:11:50.43,princess,,0,0,0,,Let's keep this pace all the way to the exit!
+Dialogue: 0,0:11:52.83,0:11:54.70,iwabi,,0,0,0,,More Bosses coming from the tunnel!
+Dialogue: 0,0:11:56.84,0:11:59.88,gen,,0,0,0,,What do we do? There's a bunch of them coming from behind too.
+Dialogue: 0,0:12:00.55,0:12:02.46,iwabi,,0,0,0,,Eek! It's hopeless!
+Dialogue: 0,0:12:03.08,0:12:05.07,princess,,0,0,0,,Darn! Is this the end?
+Dialogue: 0,0:12:06.62,0:12:09.43,araisan,,0,0,0,,Heave-ho, heave-ho, heave-ho, heave-ho…
+Dialogue: 0,0:12:09.66,0:12:12.06,araisan,,0,0,0,,We're the first to arrive!
+Dialogue: 0,0:12:14.55,0:12:15.28,princess,,0,0,0,,What?
+Dialogue: 0,0:12:15.37,0:12:16.62,iwabi,,0,0,0,,What is it? What is it?
+Dialogue: 0,0:12:16.62,0:12:19.00,araisan,,0,0,0,,Where's the round thing?
+Dialogue: 0,0:12:19.32,0:12:20.84,araisan,,0,0,0,,Where is it?!
+Dialogue: 0,0:12:21.32,0:12:25.01,fennec,,0,0,0,,Huh? It seems like we hit something just right now…
+Dialogue: 0,0:12:25.41,0:12:26.84,gen,,0,0,0,,You girls are…
+Dialogue: 0,0:12:26.98,0:12:28.32,araisan,,0,0,0,,I'm Arai-san!
+Dialogue: 0,0:12:28.88,0:12:30.24,fennec,,0,0,0,,I'm Fennec.
+Dialogue: 0,0:12:30.65,0:12:32.36,hululu,,0,0,0,,Wow, what is that?
+Dialogue: 0,0:12:32.62,0:12:36.69,araisan,,0,0,0,,Heheh. It's a «bus-lookalike»!
+Dialogue: 0,0:12:37.11,0:12:38.64,araisan,,0,0,0,,The Professor gave it to us!
+Dialogue: 0,0:12:42.87,0:12:45.64,fennec,,0,0,0,,Ah. Bad news, Arai-san.
+Dialogue: 0,0:12:46.16,0:12:49.15,fennec,,0,0,0,,It seems like we hit a Boss.
+Dialogue: 0,0:12:54.80,0:12:58.06,araisan,,0,0,0,,I-I-I'm sorry, Boss!
+Dialogue: 0,0:12:58.68,0:13:00.88,fennec,,0,0,0,,It seems like their body is okay.
+Dialogue: 0,0:13:01.44,0:13:04.43,fennec,,0,0,0,,But they seem kind of angry. Let's get away.
+Dialogue: 0,0:13:10.06,0:13:15.82,araisan,,0,0,0,,Heave-ho, heave-ho, heave-ho, heave-ho, heave-ho, heave-ho, heave-ho…
+Dialogue: 0,0:13:15.82,0:13:17.48,hululu,,0,0,0,,Wow, so fast~
+Dialogue: 0,0:13:17.88,0:13:19.36,princess,,0,0,0,,You saved us!
+Dialogue: 0,0:13:19.69,0:13:21.20,gen,,0,0,0,,So, what are you two doing here?
+Dialogue: 0,0:13:21.87,0:13:23.69,fennec,,0,0,0,,A girl who looked kinda like this
+Dialogue: 0,0:13:24.08,0:13:28.11,fennec,,0,0,0,,said that the thing we're looking for would be somewhere around here…
+Dialogue: 0,0:13:28.33,0:13:30.50,araisan,,0,0,0,,There was no round thing!
+Dialogue: 0,0:13:30.61,0:13:32.73,araisan,,0,0,0,,She tricked us!
+Dialogue: 0,0:13:32.81,0:13:34.58,koutei,,0,0,0,,It must be Giant-senpai…
+Dialogue: 0,0:13:35.11,0:13:37.07,princess,,0,0,0,,She saw it all coming, didn't she?..
+Dialogue: 0,0:13:37.49,0:13:39.64,iwabi,,0,0,0,,Man, she's creepy…
+Dialogue: 0,0:13:39.81,0:13:41.92,gen,,0,0,0,,Well, we're okay for now, I suppose.
+Dialogue: 0,0:13:42.31,0:13:43.71,araisan,,0,0,0,,We're okayn't!
+Dialogue: 0,0:13:43.98,0:13:45.79,araisan,,0,0,0,,There's no round thing!
+Dialogue: 0,0:13:46.20,0:13:47.24,fennec,,0,0,0,,Now, now.
+Dialogue: 0,0:13:47.55,0:13:50.89,fennec,,0,0,0,,We got out alright in the end and helped out some Friends.
+Dialogue: 0,0:13:51.13,0:13:52.67,araisan,,0,0,0,,It's alwrong!
+Dialogue: 0,0:13:52.97,0:13:55.62,araisan,,0,0,0,,Arai-san's future is in danger!
+Dialogue: 0,0:14:02.69,0:14:04.89,margay,,0,0,0,,Thank you all so much for your hard work!
+Dialogue: 0,0:14:05.05,0:14:07.66,princess,,0,0,0,,Man, it was scary!
+Dialogue: 0,0:14:07.83,0:14:10.74,iwabi,,0,0,0,,Ahh, we had a nice walk and a nice swim!
+Dialogue: 0,0:14:10.97,0:14:12.61,iwabi,,0,0,0,,Worked up a good sweat!
+Dialogue: 0,0:14:13.05,0:14:18.69,araisan,,0,0,0,,Why you!.. Now only was there not a round thing, but Boss got angry at us!
+Dialogue: 0,0:14:18.81,0:14:20.35,araisan,,0,0,0,,It was scary!
+Dialogue: 0,0:14:20.38,0:14:23.21,giant,,0,0,0,,Now, now. In comparison to dinosaurs,
+Dialogue: 0,0:14:23.61,0:14:26.73,giant,,0,0,0,,Lucky Beast is pretty cute!
+Dialogue: 0,0:14:26.76,0:14:27.95,hululu,,0,0,0,,Dyna-sore?
+Dialogue: 0,0:14:28.52,0:14:30.33,serval,,0,0,0,,Sounds like it was rough!
+Dialogue: 0,0:14:30.75,0:14:33.23,serval,,0,0,0,,Wanna eat? It's almost ready!
+Dialogue: 0,0:14:33.44,0:14:35.83,gen,,0,0,0,,Yes, yes, we'll eat.
+Dialogue: 0,0:14:35.83,0:14:38.63,gen,,0,0,0,,Is this the rumored «cooking»?
+Dialogue: 0,0:14:39.13,0:14:42.60,kaban,,0,0,0,,Serval-chan cooked most of everything today.
+Dialogue: 0,0:14:42.83,0:14:44.03,serval,,0,0,0,,That's right!
+Dialogue: 0,0:14:44.48,0:14:47.24,boss,,0,0,0,,Kaban. Make sure to taste-test it.
+Dialogue: 0,0:14:47.58,0:14:50.41,koutei,,0,0,0,,Let us eat. I'm starving.
+Dialogue: 0,0:14:50.83,0:14:53.43,serval,,0,0,0,,Don't you girls have Japari buns? Want some of mine?
+Dialogue: 0,0:14:53.74,0:14:55.72,koutei,,0,0,0,,No, we have some, just that
+Dialogue: 0,0:14:55.72,0:14:58.03,koutei,,0,0,0,,there's someone we want to feed.
+Dialogue: 0,0:14:58.64,0:14:59.60,koutei,,0,0,0,,We're getting ready.
+Dialogue: 0,0:14:59.75,0:15:02.43,princess,,0,0,0,,Almost like for the chicks!
+Dialogue: 0,0:15:02.81,0:15:06.42,hululu,,0,0,0,,Maybe we should have carried them by swallowing them first.
+Dialogue: 0,0:15:06.48,0:15:09.83,margay,,0,0,0,,What?! That's an excellent idea!
+Dialogue: 0,0:15:09.94,0:15:12.68,margay,,0,0,0,,A very penguin-like way of transport!
+Dialogue: 0,0:15:12.79,0:15:16.19,margay,,0,0,0,,Uhehe… I'd like to get to eat that way sometime…
+Dialogue: 0,0:15:18.96,0:15:20.87,serval,,0,0,0,,I don't know what you're talking about,
+Dialogue: 0,0:15:21.07,0:15:23.35,serval,,0,0,0,,but I think I prefer receiving them normally.
+Dialogue: 0,0:15:24.01,0:15:26.22,princess,,0,0,0,,What about Kaban? Where did you go today?
+Dialogue: 0,0:15:26.67,0:15:29.90,kaban,,0,0,0,,Today, I had Campo Flicker tell me some things.
+Dialogue: 0,0:15:30.30,0:15:32.10,kaban,,0,0,0,,I learned a lot!
+Dialogue: 0,0:15:32.66,0:15:36.23,boss,,0,0,0,,Although sleeping in an anthill may be difficult,
+Dialogue: 0,0:15:36.64,0:15:40.77,boss,,0,0,0,,it is importnat to reuse things that already exist as beds.
+Dialogue: 0,0:15:43.21,0:15:45.67,princess,,0,0,0,,They're right petrified of Boss…
+Dialogue: 0,0:15:46.41,0:15:49.14,hululu,,0,0,0,,But this Boss isn't that scary.
+Dialogue: 0,0:15:49.53,0:15:53.24,gen,,0,0,0,,Maybe other Bosses would be nice too if they could talk.
+Dialogue: 0,0:15:53.74,0:15:56.80,koutei,,0,0,0,,By the way, what's the «round thing»?
+Dialogue: 0,0:15:57.18,0:15:59.84,araisan,,0,0,0,,The Professor asked us to look for it!
+Dialogue: 0,0:16:00.30,0:16:01.89,fennec,,0,0,0,,It's a surprise.
+Dialogue: 0,0:16:02.35,0:16:04.17,fennec,,0,0,0,,The journey is a long one.
+Dialogue: 0,0:16:04.24,0:16:07.87,iwabi,,0,0,0,,Ours is a surprise too!
+Dialogue: 0,0:16:08.16,0:16:12.62,serval,,0,0,0,,Is that so? Are you girls going to please someone? I can't wait!
+Dialogue: 0,0:16:13.29,0:16:16.08,kaban,,0,0,0,,It looks like you're all having fun!
+Dialogue: 0,0:16:16.84,0:16:18.78,serval,,0,0,0,,Ah, the cooking is ready!
+Dialogue: 0,0:16:19.13,0:16:20.32,serval,,0,0,0,,Let's eat!
+Dialogue: 0,0:16:20.61,0:16:24.94,giant,,0,0,0,,Cooking, huh. It's been a while. Ni-hi-hi.
+Dialogue: 0,0:16:25.26,0:16:27.26,kaban,,0,0,0,,Thank you, Serval-chan.
+Dialogue: 0,0:16:27.26,0:16:29.64,boss,,0,0,0,,Kaban. Make sure to taste-test it.
