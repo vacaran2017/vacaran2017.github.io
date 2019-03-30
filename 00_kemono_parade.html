@@ -5,77 +5,6 @@
 	<title></title>
 	<link href="css.css" rel="stylesheet">
 	<script src="js.js"></script>
-
-	<script>
-		var tag = document.createElement('script');
-		tag.src = "https://www.youtube.com/iframe_api";
-		var firstScriptTag = document.getElementsByTagName('script')[0];
-		firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
-		var player;
-		var playerElement;
-		function onYouTubeIframeAPIReady() {
-			player = new YT.Player('player', {
-				height: '80',
-				width: '142',
-				videoId: 'G9BBetnyuWE',
-				playerVars: { 'controls': 0 },
-				events: {
-					'onReady': onPlayerReady,
-					'onStateChange': onPlayerStateChange
-				}
-			});
-		}
-		function onPlayerReady(event) {
-			playerElement = document.getElementById('player');
-
-			player.setPlaybackQuality('small');
-		}
-		function onPlayerStateChange(event) {
-			if (event.data == YT.PlayerState.ENDED) {
-				playerElement.setAttribute('playing', 0);
-			}
-		}
-
-		window.onload = function() {
-			var wkrn = document.getElementsByTagName('wkrn');
-
-			for (var i = 0; i < wkrn.length; i++) {
-				wkrn[i].addEventListener(
-					'mouseover',
-					function() {
-						player.playVideo();
-						playerElement.setAttribute('playing', 1);
-					},
-					false
-				);
-			}
-		}
-	</script>
-	<style>
-		#player {
-			position: fixed;
-			pointer-events: none;
-			transform: translate(-50%,-50%);
-		}
-		#player[playing='0'] {
-			display: none;
-		}
-		#player[playing='1'] {
-			display: block;
-			animation: 1s ease-in-out alternate-reverse infinite wkrn;
-		}
-	
-		@keyframes wkrn {
-			0% {
-				top: 25%;
-				left: 25%;
-			}
-			100% {
-				top: 75%;
-				left: 75%;
-			}
-		}
-	</style>
 </head>
 <body>
 <!--start-->
@@ -97,7 +26,7 @@
 
 <p>けものパレード！アーユーレディ？</p>
 
-<p>元気な　サーバル　いつも狩りごっこ(すっご～い！)<br>迷子の　アライさん　たまに　いい仕事(なのだあ！)<br>カバさん(たのも<wkrn>し～</wkrn>)<br><wkrn>ジャガー</wkrn>(たよれる～)</p>
+<p>元気な　サーバル　いつも狩りごっこ(すっご～い！)<br>迷子の　アライさん　たまに　いい仕事(なのだあ！)<br>カバさん(たのもし～)<br>ジャガー(たよれる～)</p>
 
 <p>「サーバルだよ！」<br>「アライさんなのだあ！」<br>「フェネック～」<br>「カバンです。」<br>「だぁ～れぇ～？」<br>「あ！それカバさん！」<br>「似てる似てる」<br>「上手だね～」<br>「えへへえ～」</p>
 
@@ -155,7 +84,7 @@
 
 <p>Kemono Parade! Are you ready?</p>
 
-<p>Peppy Serval, always mock-hunting (suggo~i!)<br>Lost <span data-no-honorific="Arai">Arai-san</span>, sometimes doing a good job (nanoda!)<br><span data-no-honorific="Hippopotamus">Hippopotamus-san</span> (dependabl<wkrn>e~)</wkrn><br><wkrn>Jaguar</wkrn> (reliable~)</p>
+<p>Peppy Serval, always mock-hunting (suggo~i!)<br>Lost <span data-no-honorific="Arai">Arai-san</span>, sometimes doing a good job (nanoda!)<br><span data-no-honorific="Hippopotamus">Hippopotamus-san</span> (dependable~)<br>Jaguar (reliable~)</p>
 
 <p>"I'm Serval!"<br>"I'm <span data-no-honorific="Arai">Arai-san</span> nanoda!"<br>"I'm Fennec~"<br>"I'm Kaban."<br>"Who~ is~ it~?"<br>"Ah! It's <span data-no-honorific="Hippopotamus">Hippopotamus-san</span>!"<br>"It sounds just like her!"<br>"Pretty good~"<br>"Oh, stop it, you guys."</p>
 
@@ -204,8 +133,6 @@
 </article></section>
 
 </main>
-
-<div id="player" playing="0"></div>
 
 <!--end-->
 </body>
